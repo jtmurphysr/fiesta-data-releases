@@ -40473,15 +40473,6 @@
     "category": "Other"
   },
   {
-    "shape": "Vase, Bud 10 (Vintage)",
-    "color": "Red 9",
-    "isPost86": false,
-    "hex": "#FF0000",
-    "introducedAt": 1936.0,
-    "retiredAt": null,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
     "shape": "Vase, 8\" Flower (Vintage)",
     "color": "Red 9",
     "isPost86": false,
@@ -41247,15 +41238,6 @@
     "category": "Other"
   },
   {
-    "shape": "Vase, Bud 10 (Vintage)",
-    "color": "Yellow",
-    "isPost86": false,
-    "hex": "#FFFF00",
-    "introducedAt": 1936.0,
-    "retiredAt": 1969.0,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
     "shape": "Vase, 8\" Flower (Vintage)",
     "color": "Yellow",
     "isPost86": false,
@@ -41902,15 +41884,6 @@
     "introducedAt": 1936.0,
     "retiredAt": 1951.0,
     "category": "Other"
-  },
-  {
-    "shape": "Vase, Bud 10 (Vintage)",
-    "color": "Light Green",
-    "isPost86": false,
-    "hex": "#90EE90",
-    "introducedAt": 1936.0,
-    "retiredAt": 1951.0,
-    "category": "Pitchers, Teapots & Vases"
   },
   {
     "shape": "Vase, 8\" Flower (Vintage)",
@@ -42570,15 +42543,6 @@
     "category": "Other"
   },
   {
-    "shape": "Vase, Bud 10 (Vintage)",
-    "color": "Cobalt",
-    "isPost86": false,
-    "hex": "#0047AB",
-    "introducedAt": 1936.0,
-    "retiredAt": 1951.0,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
     "shape": "Vase, 8\" Flower (Vintage)",
     "color": "Cobalt",
     "isPost86": false,
@@ -43200,15 +43164,6 @@
     "category": "Other"
   },
   {
-    "shape": "Vase, Bud 10 (Vintage)",
-    "color": "Ivory",
-    "isPost86": false,
-    "hex": "#FFFFF0",
-    "introducedAt": 1936.0,
-    "retiredAt": 1951.0,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
     "shape": "Vase, 8\" Flower (Vintage)",
     "color": "Ivory",
     "isPost86": false,
@@ -43801,15 +43756,6 @@
     "introducedAt": 1938.0,
     "retiredAt": 1969.0,
     "category": "Other"
-  },
-  {
-    "shape": "Vase, Bud 10 (Vintage)",
-    "color": "Turquoise",
-    "isPost86": false,
-    "hex": "#26A69A",
-    "introducedAt": 1938.0,
-    "retiredAt": 1969.0,
-    "category": "Pitchers, Teapots & Vases"
   },
   {
     "shape": "Vase, 8\" Flower (Vintage)",
@@ -45790,15 +45736,6 @@
     "introducedAt": null,
     "retiredAt": null,
     "category": "Other"
-  },
-  {
-    "shape": "Vase, Bud 10 (Vintage)",
-    "color": "Red Stripe 11",
-    "isPost86": false,
-    "hex": "#FF6347",
-    "introducedAt": null,
-    "retiredAt": null,
-    "category": "Pitchers, Teapots & Vases"
   },
   {
     "shape": "Vase, 10\" Flower (Vintage)",
@@ -54496,69 +54433,6 @@
   },
   {
     "shape": "Vase, 8\" Flower",
-    "color": "Yellow",
-    "isPost86": false,
-    "hex": "#FFFF00",
-    "introducedAt": 1936,
-    "retiredAt": 1969,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Vase, Bud 10",
-    "color": "Cobalt",
-    "isPost86": false,
-    "hex": "#0047AB",
-    "introducedAt": 1936,
-    "retiredAt": 1951,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Vase, Bud 10",
-    "color": "Ivory",
-    "isPost86": false,
-    "hex": "#FFFFF0",
-    "introducedAt": 1936,
-    "retiredAt": 1951,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Vase, Bud 10",
-    "color": "Light Green",
-    "isPost86": false,
-    "hex": "#90EE90",
-    "introducedAt": 1936,
-    "retiredAt": 1951,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Vase, Bud 10",
-    "color": "Red 9",
-    "isPost86": false,
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "retiredAt": null,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Vase, Bud 10",
-    "color": "Red Stripe 11",
-    "isPost86": false,
-    "hex": "#FF6347",
-    "introducedAt": null,
-    "retiredAt": null,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Vase, Bud 10",
-    "color": "Turquoise",
-    "isPost86": false,
-    "hex": "#26A69A",
-    "introducedAt": 1938,
-    "retiredAt": 1969,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Vase, Bud 10",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
