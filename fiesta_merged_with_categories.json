@@ -46743,7 +46743,7 @@
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Other"
   },
   {
     "shape": "44 OZ Covered Teapot",
@@ -47301,7 +47301,7 @@
     "hex": "#e9e0d3",
     "introducedAt": 2025.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Other"
   },
   {
     "shape": "Bistro Coupe 9 5/8 Inch Large Bowl 68 OZ",
@@ -54583,24 +54583,6 @@
     "introducedAt": 2023,
     "retiredAt": null,
     "category": "Bowls"
-  },
-  {
-    "shape": "Bistro Coupe 3‑Piece Place Setting",
-    "color": "Jade",
-    "isPost86": true,
-    "hex": "#3C8C7E",
-    "introducedAt": 2023,
-    "retiredAt": null,
-    "category": "Place Settings"
-  },
-  {
-    "shape": "Classic Rim 3‑Piece Place Setting",
-    "color": "Jade",
-    "isPost86": true,
-    "hex": "#3C8C7E",
-    "introducedAt": 2023,
-    "retiredAt": null,
-    "category": "Place Settings"
   },
   {
     "shape": "Ornament‑Shaped Plate – 8¾\"",
