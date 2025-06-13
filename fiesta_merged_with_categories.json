@@ -46494,7 +46494,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Pan, Loaf (10 7/8\\\" x 5 3/4\\\"",
+    "shape": "Pan, Loaf (10 7/8\" x 5 3/4\")",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46791,7 +46791,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "\"Vase, Medium (9 5/8\\\")\"",
+    "shape": "Vase, Medium (9 5/8\")",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46807,15 +46807,6 @@
     "introducedAt": 2024.0,
     "retiredAt": null,
     "category": "Serveware"
-  },
-  {
-    "shape": "Plate, Heart Shaped (9\")",
-    "color": "Sky",
-    "isPost86": true,
-    "hex": "#87CEEB",
-    "introducedAt": 2024.0,
-    "retiredAt": null,
-    "category": "Plates"
   },
   {
     "shape": "All-Purpose 6 Inch Gusto Bowl 28 OZ",
@@ -47709,7 +47700,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "\"Plate, Heart Shaped (9\\\")\"",
+    "shape": "Plate, Heart",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
