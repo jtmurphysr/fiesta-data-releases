@@ -837,7 +837,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -1989,7 +1989,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -4536,7 +4536,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -6831,7 +6831,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -7956,7 +7956,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -10008,7 +10008,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
@@ -13221,7 +13221,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
@@ -14490,7 +14490,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -15705,7 +15705,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
@@ -16848,7 +16848,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -18117,7 +18117,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -19557,7 +19557,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -20916,7 +20916,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -21879,7 +21879,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Heather",
     "isPost86": true,
     "hex": "#B7AFA3",
@@ -22680,7 +22680,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Planter & Saucer 4",
+    "shape": "Flower Pot with Base",
     "color": "Evergreen",
     "isPost86": true,
     "hex": "#05472A",
@@ -51705,42 +51705,6 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Juice (5 1 5/16\")",
-    "color": "Gray",
-    "isPost86": false,
-    "hex": "#808080",
-    "introducedAt": 1951,
-    "retiredAt": 1959,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Pitcher, Juice (5 1 5/16\")",
-    "color": "Red 9",
-    "isPost86": false,
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "retiredAt": null,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Pitcher, Juice (5 1 5/16\")",
-    "color": "Turquoise",
-    "isPost86": false,
-    "hex": "#26A69A",
-    "introducedAt": 1938,
-    "retiredAt": 1969,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Pitcher, Juice (5 1 5/16\")",
-    "color": "Yellow",
-    "isPost86": false,
-    "hex": "#FFFF00",
-    "introducedAt": 1936,
-    "retiredAt": 1969,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
     "shape": "Pitcher, Water (7 1/2\")",
     "color": "Amberstone Brown",
     "isPost86": false,
@@ -54504,7 +54468,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Star Plate",
+    "shape": "Plate, Star",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
