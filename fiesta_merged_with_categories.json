@@ -27,7 +27,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -36,7 +36,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -72,7 +72,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -153,7 +153,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -252,7 +252,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -369,7 +369,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -414,7 +414,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -513,7 +513,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -531,7 +531,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -576,7 +576,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (2 ring handles) 22",
+    "shape": "Cup & Saucer, AD (2 ring handles)",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -621,7 +621,7 @@
     "category": "Other"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -648,7 +648,7 @@
     "category": "Other"
   },
   {
-    "shape": "Lamp 8",
+    "shape": "Lamp",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -693,7 +693,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -756,7 +756,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -765,7 +765,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -1134,7 +1134,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -1449,7 +1449,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -1458,7 +1458,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -1467,7 +1467,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -1575,7 +1575,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -1665,7 +1665,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -1746,7 +1746,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -1773,7 +1773,7 @@
     "category": "Other"
   },
   {
-    "shape": "Creamer, Small 21",
+    "shape": "Creamer, Small",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -1836,7 +1836,7 @@
     "category": "Other"
   },
   {
-    "shape": "Lamp 8",
+    "shape": "Lamp",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -1917,7 +1917,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -1926,7 +1926,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -2133,7 +2133,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -2178,7 +2178,7 @@
     "category": "Other"
   },
   {
-    "shape": "Sugar, Small 21",
+    "shape": "Sugar, Small",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -2421,7 +2421,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
@@ -2511,7 +2511,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
@@ -2610,7 +2610,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
@@ -2655,7 +2655,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
@@ -2727,7 +2727,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
@@ -2736,7 +2736,7 @@
     "category": "Other"
   },
   {
-    "shape": "Lamp 8",
+    "shape": "Lamp",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
@@ -2772,7 +2772,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
@@ -2808,7 +2808,7 @@
     "category": "Other"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
@@ -2988,7 +2988,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
@@ -3339,7 +3339,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Apricot",
     "isPost86": true,
     "hex": "#FBCEB1",
@@ -3402,7 +3402,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Lamp 8",
+    "shape": "Lamp",
     "color": "Apricot",
     "isPost86": true,
     "hex": "#FBCEB1",
@@ -3438,7 +3438,7 @@
     "category": "Other"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Apricot",
     "isPost86": true,
     "hex": "#FBCEB1",
@@ -3591,7 +3591,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Apricot",
     "isPost86": true,
     "hex": "#FBCEB1",
@@ -3726,7 +3726,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -3735,7 +3735,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -3771,7 +3771,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -3852,7 +3852,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -3960,7 +3960,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4095,7 +4095,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4131,7 +4131,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4230,7 +4230,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4239,7 +4239,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4311,7 +4311,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4329,7 +4329,7 @@
     "category": "Other"
   },
   {
-    "shape": "Lamp 8",
+    "shape": "Lamp",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4374,7 +4374,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4392,7 +4392,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4455,7 +4455,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4464,7 +4464,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4815,7 +4815,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -5211,7 +5211,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Yellow",
     "isPost86": true,
     "hex": "#FFFF00",
@@ -5310,7 +5310,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Yellow",
     "isPost86": true,
     "hex": "#FFFF00",
@@ -5355,7 +5355,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Yellow",
     "isPost86": true,
     "hex": "#FFFF00",
@@ -5427,7 +5427,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Yellow",
     "isPost86": true,
     "hex": "#FFFF00",
@@ -5436,7 +5436,7 @@
     "category": "Other"
   },
   {
-    "shape": "Lamp 8",
+    "shape": "Lamp",
     "color": "Yellow",
     "isPost86": true,
     "hex": "#FFFF00",
@@ -5472,7 +5472,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Yellow",
     "isPost86": true,
     "hex": "#FFFF00",
@@ -5508,7 +5508,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Yellow",
     "isPost86": true,
     "hex": "#FFFF00",
@@ -5679,7 +5679,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Yellow",
     "isPost86": true,
     "hex": "#FFFF00",
@@ -5922,7 +5922,7 @@
     "category": "Other"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -5931,7 +5931,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -5967,7 +5967,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6129,7 +6129,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6183,7 +6183,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XXS (embossed Fruit Bowl) 53",
+    "shape": "Bowl, Petware XXS (embossed Fruit Bowl)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6192,7 +6192,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl) 53",
+    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6201,7 +6201,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Small (embossed Companion Bowl) 53",
+    "shape": "Bowl, Petware Small (embossed Companion Bowl)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6210,7 +6210,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Medium (embossed Serving Bowl) 53",
+    "shape": "Bowl, Petware Medium (embossed Serving Bowl)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6219,7 +6219,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Large (embossed Extra Large Bowl) 53",
+    "shape": "Bowl, Petware Large (embossed Extra Large Bowl)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6309,7 +6309,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6354,7 +6354,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6462,7 +6462,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6480,7 +6480,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6507,7 +6507,7 @@
     "category": "Other"
   },
   {
-    "shape": "Creamer, Small 21",
+    "shape": "Creamer, Small",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6570,7 +6570,7 @@
     "category": "Other"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6615,7 +6615,7 @@
     "category": "Other"
   },
   {
-    "shape": "Lamp 8",
+    "shape": "Lamp",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6660,7 +6660,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6678,7 +6678,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6750,7 +6750,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -6759,7 +6759,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -7146,7 +7146,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -7200,7 +7200,7 @@
     "category": "Other"
   },
   {
-    "shape": "Sugar, Small 21",
+    "shape": "Sugar, Small",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -7497,7 +7497,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -7587,7 +7587,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -7686,7 +7686,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -7731,7 +7731,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -7803,7 +7803,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -7812,7 +7812,7 @@
     "category": "Other"
   },
   {
-    "shape": "Lamp 8",
+    "shape": "Lamp",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -7848,7 +7848,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -7893,7 +7893,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -8082,7 +8082,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -8316,7 +8316,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Sea Mist Green",
     "isPost86": true,
     "hex": "#B4CFCB",
@@ -8406,7 +8406,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Sea Mist Green",
     "isPost86": true,
     "hex": "#B4CFCB",
@@ -8505,7 +8505,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Sea Mist Green",
     "isPost86": true,
     "hex": "#B4CFCB",
@@ -8550,7 +8550,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Sea Mist Green",
     "isPost86": true,
     "hex": "#B4CFCB",
@@ -8622,7 +8622,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Sea Mist Green",
     "isPost86": true,
     "hex": "#B4CFCB",
@@ -8631,7 +8631,7 @@
     "category": "Other"
   },
   {
-    "shape": "Lamp 8",
+    "shape": "Lamp",
     "color": "Sea Mist Green",
     "isPost86": true,
     "hex": "#B4CFCB",
@@ -8667,7 +8667,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Sea Mist Green",
     "isPost86": true,
     "hex": "#B4CFCB",
@@ -8703,7 +8703,7 @@
     "category": "Other"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Sea Mist Green",
     "isPost86": true,
     "hex": "#B4CFCB",
@@ -9288,7 +9288,7 @@
     "category": "Other"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Lilac",
     "isPost86": true,
     "hex": "#C8A2C8",
@@ -9522,7 +9522,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
@@ -9612,7 +9612,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
@@ -9711,7 +9711,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
@@ -9792,7 +9792,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
@@ -9864,7 +9864,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
@@ -9900,7 +9900,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
@@ -9945,7 +9945,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
@@ -10134,7 +10134,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
@@ -10476,7 +10476,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Sapphire",
     "isPost86": true,
     "hex": "#0F52BA",
@@ -10548,7 +10548,7 @@
     "category": "Other"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Sapphire",
     "isPost86": true,
     "hex": "#0F52BA",
@@ -10764,7 +10764,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Chartreuse",
     "isPost86": true,
     "hex": "#DFFF00",
@@ -10863,7 +10863,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Chartreuse",
     "isPost86": true,
     "hex": "#DFFF00",
@@ -10908,7 +10908,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Chartreuse",
     "isPost86": true,
     "hex": "#DFFF00",
@@ -10980,7 +10980,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Chartreuse",
     "isPost86": true,
     "hex": "#DFFF00",
@@ -11034,7 +11034,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Chartreuse",
     "isPost86": true,
     "hex": "#DFFF00",
@@ -11187,7 +11187,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Chartreuse",
     "isPost86": true,
     "hex": "#DFFF00",
@@ -11412,7 +11412,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Pearl Gray",
     "isPost86": true,
     "hex": "#C0C0C0",
@@ -11511,7 +11511,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Pearl Gray",
     "isPost86": true,
     "hex": "#C0C0C0",
@@ -11556,7 +11556,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Pearl Gray",
     "isPost86": true,
     "hex": "#C0C0C0",
@@ -11628,7 +11628,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Pearl Gray",
     "isPost86": true,
     "hex": "#C0C0C0",
@@ -11682,7 +11682,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Pearl Gray",
     "isPost86": true,
     "hex": "#C0C0C0",
@@ -11853,7 +11853,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Pearl Gray",
     "isPost86": true,
     "hex": "#C0C0C0",
@@ -12114,7 +12114,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Juniper",
     "isPost86": true,
     "hex": "#3C9D9B",
@@ -12213,7 +12213,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Juniper",
     "isPost86": true,
     "hex": "#3C9D9B",
@@ -12258,7 +12258,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Juniper",
     "isPost86": true,
     "hex": "#3C9D9B",
@@ -12330,7 +12330,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Juniper",
     "isPost86": true,
     "hex": "#3C9D9B",
@@ -12384,7 +12384,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Juniper",
     "isPost86": true,
     "hex": "#3C9D9B",
@@ -12555,7 +12555,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Juniper",
     "isPost86": true,
     "hex": "#3C9D9B",
@@ -12744,7 +12744,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
@@ -12834,7 +12834,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
@@ -12933,7 +12933,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
@@ -13014,7 +13014,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
@@ -13086,7 +13086,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
@@ -13158,7 +13158,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
@@ -13347,7 +13347,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Shelf Sign 12",
+    "shape": "Shelf Sign",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
@@ -13608,7 +13608,7 @@
     "category": "Other"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -13617,7 +13617,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -13653,7 +13653,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -13734,7 +13734,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -13842,7 +13842,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -13896,7 +13896,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XXS (embossed Fruit Bowl) 53",
+    "shape": "Bowl, Petware XXS (embossed Fruit Bowl)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -13905,7 +13905,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl) 53",
+    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -13914,7 +13914,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Small (embossed Companion Bowl) 53",
+    "shape": "Bowl, Petware Small (embossed Companion Bowl)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -13923,7 +13923,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Medium (embossed Serving Bowl) 53",
+    "shape": "Bowl, Petware Medium (embossed Serving Bowl)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -13932,7 +13932,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Large (embossed Extra Large Bowl) 53",
+    "shape": "Bowl, Petware Large (embossed Extra Large Bowl)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14013,7 +14013,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14058,7 +14058,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Millennium (Tapered) 2",
+    "shape": "Candleholder, Millennium (Tapered)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14166,7 +14166,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Clock 25",
+    "shape": "Clock",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14184,7 +14184,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14211,7 +14211,7 @@
     "category": "Other"
   },
   {
-    "shape": "Creamer, Small 21",
+    "shape": "Creamer, Small",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14265,7 +14265,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Goblet (6 3/4\") 2, 28",
+    "shape": "Goblet (6 3/4\")",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14319,7 +14319,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14337,7 +14337,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14409,7 +14409,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14418,7 +14418,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14886,7 +14886,7 @@
     "category": "Other"
   },
   {
-    "shape": "Sugar, Small 21",
+    "shape": "Sugar, Small",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -15156,7 +15156,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
@@ -15165,7 +15165,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
@@ -15174,7 +15174,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
@@ -15309,7 +15309,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
@@ -15633,7 +15633,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
@@ -15642,7 +15642,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
@@ -16128,7 +16128,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -16137,7 +16137,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -16173,7 +16173,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -16254,7 +16254,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -16362,7 +16362,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -16587,7 +16587,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -16704,7 +16704,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -16740,7 +16740,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Ornament, Bone 2013 53",
+    "shape": "Ornament, Bone 2013",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -16749,7 +16749,7 @@
     "category": "Other"
   },
   {
-    "shape": "Ornament, Cat 2013 53",
+    "shape": "Ornament, Cat 2013",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -16767,7 +16767,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -16776,7 +16776,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -17388,7 +17388,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17397,7 +17397,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17433,7 +17433,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17514,7 +17514,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17622,7 +17622,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17676,7 +17676,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XXS (embossed Fruit Bowl) 53",
+    "shape": "Bowl, Petware XXS (embossed Fruit Bowl)",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17685,7 +17685,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl) 53",
+    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl)",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17694,7 +17694,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Small (embossed Companion Bowl) 53",
+    "shape": "Bowl, Petware Small (embossed Companion Bowl)",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17703,7 +17703,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Medium (embossed Serving Bowl) 53",
+    "shape": "Bowl, Petware Medium (embossed Serving Bowl)",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17712,7 +17712,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Large (embossed Extra Large Bowl) 53",
+    "shape": "Bowl, Petware Large (embossed Extra Large Bowl)",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17964,7 +17964,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -17982,7 +17982,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -18036,7 +18036,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -18045,7 +18045,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -18738,7 +18738,7 @@
     "category": "Other"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -18747,7 +18747,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -18783,7 +18783,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -18864,7 +18864,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -18972,7 +18972,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -19107,7 +19107,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -19251,7 +19251,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -19395,7 +19395,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -19449,7 +19449,7 @@
     "category": "Other"
   },
   {
-    "shape": "Ornament, Bone 2013 53",
+    "shape": "Ornament, Bone 2013",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -19458,7 +19458,7 @@
     "category": "Other"
   },
   {
-    "shape": "Ornament, Cat 2013 53",
+    "shape": "Ornament, Cat 2013",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -19476,7 +19476,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -19485,7 +19485,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -20241,7 +20241,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20250,7 +20250,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20286,7 +20286,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20349,7 +20349,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20439,7 +20439,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20493,7 +20493,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XXS (embossed Fruit Bowl) 53",
+    "shape": "Bowl, Petware XXS (embossed Fruit Bowl)",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20502,7 +20502,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl) 53",
+    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl)",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20511,7 +20511,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Small (embossed Companion Bowl) 53",
+    "shape": "Bowl, Petware Small (embossed Companion Bowl)",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20520,7 +20520,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Medium (embossed Serving Bowl) 53",
+    "shape": "Bowl, Petware Medium (embossed Serving Bowl)",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20529,7 +20529,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Large (embossed Extra Large Bowl) 53",
+    "shape": "Bowl, Petware Large (embossed Extra Large Bowl)",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20772,7 +20772,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20790,7 +20790,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20835,7 +20835,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -20844,7 +20844,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -21465,7 +21465,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, Betty 4",
+    "shape": "Bowl, Betty",
     "color": "Heather",
     "isPost86": true,
     "hex": "#B7AFA3",
@@ -21564,7 +21564,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Heather",
     "isPost86": true,
     "hex": "#B7AFA3",
@@ -21816,7 +21816,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Heather",
     "isPost86": true,
     "hex": "#B7AFA3",
@@ -22275,7 +22275,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Evergreen",
     "isPost86": true,
     "hex": "#05472A",
@@ -22347,7 +22347,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Evergreen",
     "isPost86": true,
     "hex": "#05472A",
@@ -22617,7 +22617,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Evergreen",
     "isPost86": true,
     "hex": "#05472A",
@@ -22626,7 +22626,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Evergreen",
     "isPost86": true,
     "hex": "#05472A",
@@ -23031,7 +23031,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
@@ -23040,7 +23040,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
@@ -23148,7 +23148,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
@@ -23256,7 +23256,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
@@ -23382,7 +23382,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
@@ -23481,7 +23481,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
@@ -23625,7 +23625,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
@@ -23634,7 +23634,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
@@ -24201,7 +24201,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24210,7 +24210,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24282,7 +24282,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24345,7 +24345,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24381,7 +24381,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl) 53",
+    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl)",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24390,7 +24390,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Medium (embossed Serving Bowl) 53",
+    "shape": "Bowl, Petware Medium (embossed Serving Bowl)",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24399,7 +24399,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Large (embossed Extra Large Bowl) 53",
+    "shape": "Bowl, Petware Large (embossed Extra Large Bowl)",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24651,7 +24651,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24678,7 +24678,7 @@
     "category": "Other"
   },
   {
-    "shape": "Ornament, Pin 6, 46",
+    "shape": "Ornament, Pin",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24696,7 +24696,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24705,7 +24705,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -25218,7 +25218,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Chocolate",
     "isPost86": true,
     "hex": "#7B3F00",
@@ -25290,7 +25290,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Chocolate",
     "isPost86": true,
     "hex": "#7B3F00",
@@ -25335,7 +25335,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Chocolate",
     "isPost86": true,
     "hex": "#7B3F00",
@@ -25560,7 +25560,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Chocolate",
     "isPost86": true,
     "hex": "#7B3F00",
@@ -25569,7 +25569,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Chocolate",
     "isPost86": true,
     "hex": "#7B3F00",
@@ -25893,7 +25893,7 @@
     "category": "Other"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -25902,7 +25902,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26010,7 +26010,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26109,7 +26109,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26154,7 +26154,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XXS (embossed Fruit Bowl) 53",
+    "shape": "Bowl, Petware XXS (embossed Fruit Bowl)",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26163,7 +26163,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl) 53",
+    "shape": "Bowl, Petware XS (embossed Straight Cereal Bowl)",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26172,7 +26172,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Small (embossed Companion Bowl) 53",
+    "shape": "Bowl, Petware Small (embossed Companion Bowl)",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26181,7 +26181,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Medium (embossed Serving Bowl) 53",
+    "shape": "Bowl, Petware Medium (embossed Serving Bowl)",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26190,7 +26190,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Petware Large (embossed Extra Large Bowl) 53",
+    "shape": "Bowl, Petware Large (embossed Extra Large Bowl)",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26271,7 +26271,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26406,7 +26406,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26532,7 +26532,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug) 51",
+    "shape": "Mug, Embossed Fan (a.k.a. Horizon Mug)",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26550,7 +26550,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26604,7 +26604,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26613,7 +26613,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -27297,7 +27297,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
@@ -27306,7 +27306,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
@@ -27414,7 +27414,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
@@ -27495,7 +27495,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
@@ -27774,7 +27774,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
@@ -27819,7 +27819,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
@@ -27828,7 +27828,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
@@ -28350,7 +28350,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
@@ -28359,7 +28359,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
@@ -28431,7 +28431,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
@@ -28503,7 +28503,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
@@ -28782,7 +28782,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
@@ -28809,7 +28809,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
@@ -28818,7 +28818,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
@@ -29304,7 +29304,7 @@
     "category": "Other"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -29313,7 +29313,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -29421,7 +29421,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -29511,7 +29511,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -29628,7 +29628,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -29754,7 +29754,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -29880,7 +29880,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -29925,7 +29925,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -29934,7 +29934,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -30591,7 +30591,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -30600,7 +30600,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -30708,7 +30708,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -30789,7 +30789,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -30897,7 +30897,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -31014,7 +31014,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -31140,7 +31140,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -31185,7 +31185,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -31194,7 +31194,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -31788,7 +31788,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
@@ -31797,7 +31797,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
@@ -31905,7 +31905,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
@@ -31995,7 +31995,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
@@ -32175,7 +32175,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
@@ -32256,7 +32256,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
@@ -32301,7 +32301,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
@@ -32310,7 +32310,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
@@ -32787,7 +32787,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
@@ -32796,7 +32796,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
@@ -32904,7 +32904,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\") 36",
+    "shape": "Bowl, Companion (a.k.a. Medium Vegetable; straight, 7 1/4\")",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
@@ -33237,7 +33237,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
@@ -33273,7 +33273,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
@@ -33282,7 +33282,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
@@ -33876,7 +33876,7 @@
     "category": "Other"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Claret",
     "isPost86": true,
     "hex": "#7F1734",
@@ -33885,7 +33885,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Claret",
     "isPost86": true,
     "hex": "#7F1734",
@@ -34236,7 +34236,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Claret",
     "isPost86": true,
     "hex": "#7F1734",
@@ -34263,7 +34263,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Claret",
     "isPost86": true,
     "hex": "#7F1734",
@@ -34686,7 +34686,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
@@ -34695,7 +34695,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
@@ -34920,7 +34920,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
@@ -35019,7 +35019,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, 2017 67",
+    "shape": "Coaster, 2017",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
@@ -35028,7 +35028,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
@@ -35127,7 +35127,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
@@ -35163,7 +35163,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
@@ -35172,7 +35172,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Ornament, Teapot 9",
+    "shape": "Ornament, Teapot",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
@@ -35658,7 +35658,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
@@ -35667,7 +35667,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
@@ -35829,7 +35829,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
@@ -35901,7 +35901,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
@@ -36018,7 +36018,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
@@ -36126,7 +36126,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
@@ -36153,7 +36153,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
@@ -36621,7 +36621,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
@@ -36630,7 +36630,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
@@ -36792,7 +36792,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
@@ -36864,7 +36864,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
@@ -36972,7 +36972,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
@@ -37071,7 +37071,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
@@ -37098,7 +37098,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
@@ -37557,7 +37557,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
@@ -37566,7 +37566,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
@@ -37728,7 +37728,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
@@ -37800,7 +37800,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Square Rim 69",
+    "shape": "Bowl, Square Rim",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
@@ -37917,7 +37917,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
@@ -38007,7 +38007,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Latte 43",
+    "shape": "Mug, Latte",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
@@ -38034,7 +38034,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
@@ -38286,7 +38286,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Platter, Round (14\") 62",
+    "shape": "Platter, Round (14\")",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
@@ -38493,7 +38493,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice) 16",
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
@@ -38502,7 +38502,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, 6\" Footed (a.k.a. Rice) 16",
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
@@ -38655,7 +38655,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
@@ -38799,7 +38799,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coaster, Logo 9",
+    "shape": "Coaster, Logo",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
@@ -38907,7 +38907,7 @@
     "category": "Other"
   },
   {
-    "shape": "Ornament, Plate 25",
+    "shape": "Ornament, Plate",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
@@ -38934,7 +38934,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Pie Baker, Handled (12 3/4\") 63",
+    "shape": "Pie Baker, Handled (12 3/4\")",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
@@ -40077,7 +40077,7 @@
     "category": "Other"
   },
   {
-    "shape": "Carafe & Lid 2 (Vintage)",
+    "shape": "Carafe & Lid (Vintage) (Vintage)",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -40815,7 +40815,7 @@
     "category": "Other"
   },
   {
-    "shape": "Carafe & Lid 2 (Vintage)",
+    "shape": "Carafe & Lid (Vintage) (Vintage)",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -41508,7 +41508,7 @@
     "category": "Other"
   },
   {
-    "shape": "Carafe & Lid 2 (Vintage)",
+    "shape": "Carafe & Lid (Vintage) (Vintage)",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -42138,7 +42138,7 @@
     "category": "Other"
   },
   {
-    "shape": "Carafe & Lid 2 (Vintage)",
+    "shape": "Carafe & Lid (Vintage) (Vintage)",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -42786,7 +42786,7 @@
     "category": "Other"
   },
   {
-    "shape": "Carafe & Lid 2 (Vintage)",
+    "shape": "Carafe & Lid (Vintage) (Vintage)",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -43380,7 +43380,7 @@
     "category": "Other"
   },
   {
-    "shape": "Carafe & Lid 2 (Vintage)",
+    "shape": "Carafe & Lid (Vintage) (Vintage)",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -44919,7 +44919,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Carafe & Lid 2 (Vintage)",
+    "shape": "Carafe & Lid (Vintage) (Vintage)",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -45522,7 +45522,7 @@
     "category": "Other"
   },
   {
-    "shape": "Carafe & Lid 2 (Vintage)",
+    "shape": "Carafe & Lid (Vintage)",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -46557,7 +46557,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "13 OZ Mini Canister 5 5/8 Inch",
+    "shape": "13 OZ Mini Canister 5 5/8\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46611,7 +46611,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "2-Piece Chip and Dip Set 12 7/8 Inch",
+    "shape": "2-Piece Chip and Dip Set 12 7/8\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46620,7 +46620,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "\"Sugar Packet Holder (Caddy)”",
+    "shape": "\"Sugar Packet Holder (Caddy)\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46647,7 +46647,7 @@
     "category": "Plates"
   },
   {
-    "shape": "“Coaster”",
+    "shape": "Coaster",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46746,7 +46746,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "7 Inch Chevron Utensil Crock",
+    "shape": "7\" Chevron Utensil Crock",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46773,7 +46773,7 @@
     "category": "Shapes"
   },
   {
-    "shape": "8 OZ Ramekin 4 Inch",
+    "shape": "8 OZ Ramekin 4\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46809,7 +46809,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "All-Purpose 6 Inch Gusto Bowl 28 OZ",
+    "shape": "All-Purpose 6\" Gusto Bowl 28 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46818,7 +46818,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bistro Coupe 10 1/2 Inch Dinner Plate",
+    "shape": "Bistro Coupe 10 1/2\" Dinner Plate",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46827,7 +46827,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Bistro Coupe 10 1/2 Inch Extra Large Bowl 96 OZ",
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46836,7 +46836,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Bistro Coupe 5 1/2 Inch Cereal Bowl 22 OZ",
+    "shape": "Bistro Coupe 5 1/2\" Cereal Bowl 22 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46845,7 +46845,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bistro Coupe 6 1/4 Inch Appetizer Plate",
+    "shape": "Bistro Coupe 6 1/4\" Appetizer Plate",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46854,7 +46854,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Bistro Coupe 7 1/4 Inch Salad Plate",
+    "shape": "Bistro Coupe 7 1/4\" Salad Plate",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46863,7 +46863,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Bistro Coupe 7 5/8 Inch Medium Bowl 38 OZ",
+    "shape": "Bistro Coupe 7 5/8\" Medium Bowl 38 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46872,7 +46872,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Bistro Coupe 9 5/8 Inch Large Bowl 68 OZ",
+    "shape": "Bistro Coupe 9 5/8\" Large Bowl 68 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46881,7 +46881,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Bistro Coupe 9 Inch Luncheon Plate",
+    "shape": "Bistro Coupe 9\" Luncheon Plate",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -46890,7 +46890,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Chop Plate 11 3/4 Inch",
+    "shape": "Chop Plate 11 3/4\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47043,7 +47043,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Covered Box 4 5/8 Inch x 3 3/4 Inch",
+    "shape": "Covered Box 4 5/8\" x 3 3/4\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47052,7 +47052,7 @@
     "category": "Other"
   },
   {
-    "shape": "Embossed Egg Shaped Plate 10 Inch",
+    "shape": "Embossed Egg Shaped Plate 10\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47061,7 +47061,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Extra Large Covered Butter Dish 8 1/8 Inch x 5 1/8",
+    "shape": "Extra Large Covered Butter Dish (8 1/8\" x 5 1/8\")",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47079,7 +47079,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Large 10 Inch Round Covered Casserole 2.8 Quart",
+    "shape": "Large 10\" Round Covered Casserole 2.8 Quart",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47088,7 +47088,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Rectangular 9x13 Inch Baker 3 Quart",
+    "shape": "Rectangular (9\" x 13\") Baker 3 Quart",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47097,7 +47097,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Round Egg Serving Platter 11 1/4 Inch",
+    "shape": "Round Egg Serving Platter 11 1/4\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47106,7 +47106,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Shell Shaped Plate 8 1/4 Inch",
+    "shape": "Shell Shaped Plate 8 1/4\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47115,7 +47115,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Small 10 Inch Round Covered Casserole 1.4 Quart",
+    "shape": "Small 10\" Round Covered Casserole 1.4 Quart",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47124,7 +47124,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Small 5 1/8 Inch Footed Bowl 14 OZ",
+    "shape": "Small 5 1/8\" Footed Bowl 14 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47142,7 +47142,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Snowflake Shaped Plate 9 Inch",
+    "shape": "Snowflake Shaped Plate 9\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47151,7 +47151,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Square 9x9 Inch Baker 2 Quart",
+    "shape": "Square (9\" x 9\") Baker 2 Quart",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47178,7 +47178,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Extra Large Covered Butter Dish 8 1/8 Inch x 5 1/8 Inch",
+    "shape": "Extra Large Covered Butter Dish 8 1/8\" x 5 1/8\"",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47205,7 +47205,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "First Fire 3 Inch Mini Magnet Dinner",
+    "shape": "First Fire 3\" Mini Magnet Dinner",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47232,7 +47232,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bistro Coupe 9 5/8 Inch Large Bowl 68 OZ",
+    "shape": "Bistro Coupe 9 5/8\" Large Bowl 68 OZ",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47259,7 +47259,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bistro Coupe 7 5/8 Inch Medium Bowl 38 OZ",
+    "shape": "Bistro Coupe 7 5/8\" Medium Bowl 38 OZ",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47295,7 +47295,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "All-Purpose 6 Inch Gusto Bowl 28 OZ",
+    "shape": "All-Purpose 6\" Gusto Bowl 28 OZ",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47322,7 +47322,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bistro Coupe 5 1/2 Inch Cereal Bowl 22 OZ",
+    "shape": "Bistro Coupe 5 1/2\" Cereal Bowl 22 OZ",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47349,7 +47349,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Round Egg Serving Platter 11 1/4 Inch",
+    "shape": "Round Egg Serving Platter 11 1/4\"",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47367,7 +47367,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Embossed Egg Shaped Plate 10 Inch",
+    "shape": "Embossed Egg Shaped Plate 10\"",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47385,7 +47385,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Shell Shaped Plate 8 1/4 Inch",
+    "shape": "Shell Shaped Plate 8 1/4\"",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47394,7 +47394,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Bistro Coupe 9 Inch Luncheon Plate",
+    "shape": "Bistro Coupe 9\" Luncheon Plate",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47403,7 +47403,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Bistro Coupe 10 1/2 Inch Dinner Plate",
+    "shape": "Bistro Coupe 10 1/2\" Dinner Plate",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47439,7 +47439,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Bistro Coupe 7 1/4 Inch Salad Plate",
+    "shape": "Bistro Coupe 7 1/4\" Salad Plate",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47448,7 +47448,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Bistro Coupe 6 1/4 Inch Appetizer Plate",
+    "shape": "Bistro Coupe 6 1/4\" Appetizer Plate",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47502,7 +47502,7 @@
     "category": "Other"
   },
   {
-    "shape": "11 5/8 Inch Medium Oval Serving Platter",
+    "shape": "11 5/8\" Medium Oval Serving Platter",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47529,7 +47529,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "\"Tray, Round Serving (12”)”",
+    "shape": "\"Tray, Round Serving (12\")\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47637,7 +47637,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "2-Piece Serve Set 11 5/8 Inch Oval Platter & 38 OZ",
+    "shape": "2-Piece Serve Set 11 5/8\" Oval Platter & 38 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47646,7 +47646,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Bowl, Mini Bowl (3 3/4\", 5 oz.)",
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47655,7 +47655,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Mini Bowl (3 3/4\", 5 oz.)",
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47664,7 +47664,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "3 Inch Magnet Mini Dinner Plate",
+    "shape": "3\" Magnet Mini Dinner Plate",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47682,7 +47682,7 @@
     "category": "Other"
   },
   {
-    "shape": "7 OZ Heart Shaped Ramekin 4 1/2 Inch",
+    "shape": "7 OZ Heart Shaped Ramekin 4 1/2\"",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -48141,7 +48141,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Chartreuse",
     "isPost86": false,
     "hex": "#DFFF00",
@@ -48150,7 +48150,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -48159,7 +48159,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Forest Green",
     "isPost86": false,
     "hex": "#228B22",
@@ -48168,7 +48168,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
@@ -48177,7 +48177,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -48186,7 +48186,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -48195,7 +48195,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -48204,7 +48204,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -48213,7 +48213,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -48222,7 +48222,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Rose",
     "isPost86": false,
     "hex": "#FF007F",
@@ -48231,7 +48231,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -48240,7 +48240,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Cream Soup 2, 10",
+    "shape": "Bowl, Cream Soup",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -48366,7 +48366,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (11 3/4\")",
+    "shape": "Bowl, Fruit (11 3/4\") (Vintage)",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -48375,7 +48375,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (11 3/4\")",
+    "shape": "Bowl, Fruit (11 3/4\") (Vintage)",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -48384,7 +48384,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (11 3/4\")",
+    "shape": "Bowl, Fruit (11 3/4\") (Vintage)",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -48393,7 +48393,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (11 3/4\")",
+    "shape": "Bowl, Fruit (11 3/4\") (Vintage)",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -48402,7 +48402,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (11 3/4\")",
+    "shape": "Bowl, Fruit (11 3/4\") (Vintage)",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -48411,7 +48411,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (11 3/4\")",
+    "shape": "Bowl, Fruit (11 3/4\") (Vintage)",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -48420,7 +48420,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Chartreuse",
     "isPost86": false,
     "hex": "#DFFF00",
@@ -48429,7 +48429,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -48438,7 +48438,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Forest Green",
     "isPost86": false,
     "hex": "#228B22",
@@ -48447,7 +48447,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
@@ -48456,7 +48456,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -48465,7 +48465,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -48474,7 +48474,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -48483,7 +48483,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -48492,7 +48492,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Rose",
     "isPost86": false,
     "hex": "#FF007F",
@@ -48501,7 +48501,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -48510,7 +48510,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (4 3/4\") 7, 8, 13",
+    "shape": "Bowl, Fruit (4 3/4\")",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -48519,7 +48519,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Chartreuse",
     "isPost86": false,
     "hex": "#DFFF00",
@@ -48528,7 +48528,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -48537,7 +48537,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Forest Green",
     "isPost86": false,
     "hex": "#228B22",
@@ -48546,7 +48546,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
@@ -48555,7 +48555,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -48564,7 +48564,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -48573,7 +48573,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -48582,7 +48582,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -48591,7 +48591,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -48600,7 +48600,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Rose",
     "isPost86": false,
     "hex": "#FF007F",
@@ -48609,7 +48609,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -48618,138 +48618,12 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Fruit (5 1/2\") 13",
+    "shape": "Bowl, Fruit (5 1/2\")",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
     "introducedAt": 1936,
     "retiredAt": 1969,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Fruit/Dessert (5 1/2\")",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Fruit/Dessert (5 1/2\")",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Fruit/Dessert (5 1/2\")",
-    "color": "Red 9",
-    "isPost86": false,
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "retiredAt": null,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Fruit/Dessert (5 1/2\")",
-    "color": "Turf Green",
-    "isPost86": false,
-    "hex": "#87CEEB",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Salad (10 1/2\")",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Salad (10 1/2\")",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Soup/Cereal (6 1/2\")",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Soup/Cereal (6 1/2\")",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Soup/Cereal (6 1/2\")",
-    "color": "Red 9",
-    "isPost86": false,
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "retiredAt": null,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Soup/Cereal (6 1/2\")",
-    "color": "Turf Green",
-    "isPost86": false,
-    "hex": "#87CEEB",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Vegetable (8 3/4\")",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Vegetable (8 3/4\")",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Vegetable (8 3/4\")",
-    "color": "Red 9",
-    "isPost86": false,
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "retiredAt": null,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Ironstone Vegetable (8 3/4\")",
-    "color": "Turf Green",
-    "isPost86": false,
-    "hex": "#87CEEB",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
     "category": "Bowls"
   },
   {
@@ -49194,7 +49068,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Chartreuse",
     "isPost86": false,
     "hex": "#DFFF00",
@@ -49203,7 +49077,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -49212,7 +49086,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Forest Green",
     "isPost86": false,
     "hex": "#228B22",
@@ -49221,7 +49095,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
@@ -49230,7 +49104,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -49239,7 +49113,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -49248,7 +49122,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -49257,7 +49131,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -49266,7 +49140,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -49275,7 +49149,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Rose",
     "isPost86": false,
     "hex": "#FF007F",
@@ -49284,7 +49158,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -49293,7 +49167,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Nappie (8 1/2\") 13",
+    "shape": "Bowl, Nappie (8 1/2\")",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -49473,7 +49347,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Salad - Unlisted (9 3/4\") 7",
+    "shape": "Bowl, Salad - Unlisted (9 3/4\")",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -49482,7 +49356,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Salad - Unlisted (9 3/4\") 7",
+    "shape": "Bowl, Salad - Unlisted (9 3/4\")",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -49491,7 +49365,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Tricolator 17",
+    "shape": "Bowl, Tricolator",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -49500,7 +49374,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Tricolator 17",
+    "shape": "Bowl, Tricolator",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -49509,7 +49383,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Tricolator 17",
+    "shape": "Bowl, Tricolator",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -49518,7 +49392,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Tricolator 17",
+    "shape": "Bowl, Tricolator",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -49527,7 +49401,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Tricolator 17",
+    "shape": "Bowl, Tricolator",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -49536,7 +49410,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Tricolator 17",
+    "shape": "Bowl, Tricolator",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -49635,7 +49509,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Tripod 2",
+    "shape": "Candleholder, Tripod",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -49644,7 +49518,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Tripod 2",
+    "shape": "Candleholder, Tripod",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -49653,7 +49527,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Tripod 2",
+    "shape": "Candleholder, Tripod",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -49662,7 +49536,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Tripod 2",
+    "shape": "Candleholder, Tripod",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -49671,7 +49545,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Tripod 2",
+    "shape": "Candleholder, Tripod",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -49680,7 +49554,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Tripod 2",
+    "shape": "Candleholder, Tripod",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -49689,7 +49563,7 @@
     "category": "Other"
   },
   {
-    "shape": "Candleholder, Tripod 2",
+    "shape": "Candleholder, Tripod",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -49698,7 +49572,7 @@
     "category": "Other"
   },
   {
-    "shape": "Carafe & Lid 2",
+    "shape": "Carafe & Lid (Vintage)",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -49707,7 +49581,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Carafe & Lid 2",
+    "shape": "Carafe & Lid (Vintage)",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -49716,7 +49590,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Carafe & Lid 2",
+    "shape": "Carafe & Lid (Vintage)",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -49725,7 +49599,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Carafe & Lid 2",
+    "shape": "Carafe & Lid (Vintage)",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -49734,7 +49608,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Carafe & Lid 2",
+    "shape": "Carafe & Lid (Vintage)",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -49743,7 +49617,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Carafe & Lid 2",
+    "shape": "Carafe & Lid",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -49752,7 +49626,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Carafe & Lid 2",
+    "shape": "Carafe & Lid (Vintage)",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -49761,7 +49635,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Carafe & Lid 2",
+    "shape": "Carafe & Lid (Vintage)",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -49830,24 +49704,6 @@
     "hex": "#FF6347",
     "introducedAt": null,
     "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Casserole, & Lid (Ironstone)",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Casserole, & Lid (Ironstone)",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
     "category": "Bakeware"
   },
   {
@@ -49887,7 +49743,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Casserole, Promotional & Lid 12, 17",
+    "shape": "Casserole, Promotional & Lid",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -49896,7 +49752,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Casserole, Promotional & Lid 12, 17",
+    "shape": "Casserole, Promotional & Lid",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -49905,7 +49761,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Casserole, Promotional & Lid 12, 17",
+    "shape": "Casserole, Promotional & Lid",
     "color": "Maroon",
     "isPost86": false,
     "hex": "#800000",
@@ -49914,7 +49770,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Casserole, Promotional & Lid 12, 17",
+    "shape": "Casserole, Promotional & Lid",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -49923,7 +49779,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Casserole, Promotional & Lid 12, 17",
+    "shape": "Casserole, Promotional & Lid",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -49932,25 +49788,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Classic Rim 10 1/2 Inch Dinner Plate",
-    "color": "Linen",
-    "isPost86": true,
-    "hex": "#e9e0d3",
-    "introducedAt": 2025.0,
-    "retiredAt": null,
-    "category": "Plates"
-  },
-  {
-    "shape": "Classic Rim 10 1/2 Inch Dinner Plate",
-    "color": "Sky",
-    "isPost86": true,
-    "hex": "#87CEEB",
-    "introducedAt": 2024,
-    "retiredAt": null,
-    "category": "Plates"
-  },
-  {
-    "shape": "Classic Rim 10 1/2 Inch Extra Large Serving Bowl",
+    "shape": "Classic Rim 10 1/2\" Extra Large Serving Bowl",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -49959,16 +49797,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Classic Rim 12-Piece Dinnerware Set, Service for 4",
-    "color": "Sky",
-    "isPost86": true,
-    "hex": "#87CEEB",
-    "introducedAt": 2024,
-    "retiredAt": null,
-    "category": "Other"
-  },
-  {
-    "shape": "Classic Rim 5 5/8 Inch Small Bowl 15 OZ",
+    "shape": "Classic Rim 5 5/8\" Small Bowl 15 OZ",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -49977,7 +49806,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Classic Rim 5 5/8 Inch Small Bowl 15 OZ",
+    "shape": "Classic Rim 5 5/8\" Small Bowl 15 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -49986,7 +49815,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Classic Rim 5 7/8 Inch Saucer",
+    "shape": "Classic Rim 5 7/8\" Saucer",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -49995,7 +49824,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Classic Rim 6 1/8 Inch Appetizer Plate",
+    "shape": "Classic Rim 6 1/8\" Appetizer Plate",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -50004,7 +49833,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Classic Rim 6 1/8 Inch Appetizer Plate",
+    "shape": "Classic Rim 6 1/8\" Appetizer Plate",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -50013,7 +49842,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Classic Rim 6 7/8 Inch Cereal Bowl 19 OZ",
+    "shape": "Classic Rim 6 7/8\" Cereal Bowl 19 OZ",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -50022,7 +49851,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Classic Rim 6 7/8 Inch Cereal Bowl 19 OZ",
+    "shape": "Classic Rim 6 7/8\" Cereal Bowl 19 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -50031,7 +49860,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Classic Rim 7 1/4 Inch Salad Plate",
+    "shape": "Classic Rim 7 1/4\" Salad Plate",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -50040,7 +49869,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Classic Rim 7 1/4 Inch Salad Plate",
+    "shape": "Classic Rim 7 1/4\" Salad Plate",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -50049,7 +49878,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Classic Rim 8 1/4 Inch Large Serving Bowl 40 OZ",
+    "shape": "Classic Rim 8 1/4\" Large Serving Bowl 40 OZ",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -50058,7 +49887,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Classic Rim 8 1/4 Inch Large Serving Bowl 40 OZ",
+    "shape": "Classic Rim 8 1/4\" Large Serving Bowl 40 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -50067,7 +49896,7 @@
     "category": "Serveware"
   },
   {
-    "shape": "Classic Rim 8 3/8 Inch Pasta Bowl 34 OZ",
+    "shape": "Classic Rim 8 3/8\" Pasta Bowl 34 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -50076,7 +49905,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Classic Rim 9 Inch Luncheon Plate",
+    "shape": "Classic Rim 9\" Luncheon Plate",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -50085,7 +49914,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Classic Rim 9 Inch Luncheon Plate",
+    "shape": "Classic Rim 9\" Luncheon Plate",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -50094,7 +49923,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Classic Rim 9 Inch Soup Bowl 13 OZ",
+    "shape": "Classic Rim 9\" Soup Bowl 13 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -50220,7 +50049,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coffee Pot, AD (Demitasse) & Lid 2, 7",
+    "shape": "Coffee Pot, AD (Demitasse) & Lid",
     "color": "Blue Stripe",
     "isPost86": false,
     "hex": "#5B7F95",
@@ -50229,7 +50058,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coffee Pot, AD (Demitasse) & Lid 2, 7",
+    "shape": "Coffee Pot, AD (Demitasse) & Lid",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -50238,7 +50067,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coffee Pot, AD (Demitasse) & Lid 2, 7",
+    "shape": "Coffee Pot, AD (Demitasse) & Lid",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -50247,7 +50076,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coffee Pot, AD (Demitasse) & Lid 2, 7",
+    "shape": "Coffee Pot, AD (Demitasse) & Lid",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -50256,7 +50085,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coffee Pot, AD (Demitasse) & Lid 2, 7",
+    "shape": "Coffee Pot, AD (Demitasse) & Lid",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -50265,7 +50094,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coffee Pot, AD (Demitasse) & Lid 2, 7",
+    "shape": "Coffee Pot, AD (Demitasse) & Lid",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -50274,7 +50103,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coffee Pot, AD (Demitasse) & Lid 2, 7",
+    "shape": "Coffee Pot, AD (Demitasse) & Lid",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -50283,7 +50112,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coffee Pot, AD (Demitasse) & Lid 2, 7",
+    "shape": "Coffee Pot, AD (Demitasse) & Lid",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -50292,7 +50121,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coffee Pot, AD (Demitasse) & Lid 2, 7",
+    "shape": "Coffee Pot, AD (Demitasse) & Lid",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -50301,34 +50130,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coffee Server & Lid (Ironstone)",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Other"
-  },
-  {
-    "shape": "Coffee Server & Lid (Ironstone)",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Other"
-  },
-  {
-    "shape": "Coffee Server & Lid (Ironstone)",
-    "color": "Turf Green",
-    "isPost86": false,
-    "hex": "#87CEEB",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Other"
-  },
-  {
-    "shape": "Comport (10\") 2",
+    "shape": "Comport (10\")",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -50337,7 +50139,7 @@
     "category": "Other"
   },
   {
-    "shape": "Comport (10\") 2",
+    "shape": "Comport (10\")",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -50346,7 +50148,7 @@
     "category": "Other"
   },
   {
-    "shape": "Comport (10\") 2",
+    "shape": "Comport (10\")",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -50490,7 +50292,7 @@
     "category": "Other"
   },
   {
-    "shape": "Coupe 10 3/8 Inch Dinner Bowl 40 OZ",
+    "shape": "Coupe 10 3/8\" Dinner Bowl 40 OZ",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -50499,7 +50301,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Coupe 10 3/8 Inch Dinner Bowl 40 OZ",
+    "shape": "Coupe 10 3/8\" Dinner Bowl 40 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -50508,7 +50310,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Coupe 6 3/4 Inch Salad Bowl 24 OZ",
+    "shape": "Coupe 6 3/4\" Salad Bowl 24 OZ",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -50517,7 +50319,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Coupe 6 3/4 Inch Salad Bowl 24 OZ",
+    "shape": "Coupe 6 3/4\" Salad Bowl 24 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -50526,7 +50328,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Coupe 8 1/2 Inch Luncheon Bowl 26 OZ",
+    "shape": "Coupe 8 1/2\" Luncheon Bowl 26 OZ",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -50535,7 +50337,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Coupe 8 1/2 Inch Luncheon Bowl 26 OZ",
+    "shape": "Coupe 8 1/2\" Luncheon Bowl 26 OZ",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -50949,7 +50751,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Blue Stripe",
     "isPost86": false,
     "hex": "#5B7F95",
@@ -50958,7 +50760,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Chartreuse",
     "isPost86": false,
     "hex": "#DFFF00",
@@ -50967,7 +50769,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -50976,7 +50778,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Forest Green",
     "isPost86": false,
     "hex": "#228B22",
@@ -50985,7 +50787,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
@@ -50994,7 +50796,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -51003,7 +50805,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -51012,7 +50814,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -51021,7 +50823,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -51030,7 +50832,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -51039,7 +50841,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Rose",
     "isPost86": false,
     "hex": "#FF007F",
@@ -51048,7 +50850,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -51057,7 +50859,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Cup & Saucer, AD (Demitasse) 2",
+    "shape": "Cup & Saucer, AD (Demitasse)",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -51444,25 +51246,7 @@
     "category": "Other"
   },
   {
-    "shape": "Marmalade & Lid (Ironstone)",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Other"
-  },
-  {
-    "shape": "Marmalade & Lid (Ironstone)",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Other"
-  },
-  {
-    "shape": "Mug, Coffee (Ironstone) 18",
+    "shape": "Mug, Tom & Jerry",
     "color": "Amberstone Brown",
     "isPost86": false,
     "hex": "#964B00",
@@ -51471,43 +51255,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Coffee (Ironstone) 18",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Mugs, Cups & Saucers"
-  },
-  {
-    "shape": "Mug, Coffee (Ironstone) 18",
-    "color": "Red 9",
-    "isPost86": false,
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "retiredAt": null,
-    "category": "Mugs, Cups & Saucers"
-  },
-  {
-    "shape": "Mug, Coffee (Ironstone) 18",
-    "color": "Turf Green",
-    "isPost86": false,
-    "hex": "#87CEEB",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Mugs, Cups & Saucers"
-  },
-  {
-    "shape": "Mug, Tom & Jerry 7",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Mugs, Cups & Saucers"
-  },
-  {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Chartreuse",
     "isPost86": false,
     "hex": "#DFFF00",
@@ -51516,7 +51264,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -51525,7 +51273,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Forest Green",
     "isPost86": false,
     "hex": "#228B22",
@@ -51534,7 +51282,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
@@ -51543,7 +51291,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -51552,7 +51300,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -51561,7 +51309,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Maroon",
     "isPost86": false,
     "hex": "#800000",
@@ -51570,7 +51318,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -51579,7 +51327,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -51588,7 +51336,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Rose",
     "isPost86": false,
     "hex": "#FF007F",
@@ -51597,7 +51345,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -51606,7 +51354,7 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Mug, Tom & Jerry 7",
+    "shape": "Mug, Tom & Jerry",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -51633,7 +51381,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Pitcher, Ice 7",
+    "shape": "Pitcher, Ice",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -51642,7 +51390,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Ice 7",
+    "shape": "Pitcher, Ice",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
@@ -51651,7 +51399,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Ice 7",
+    "shape": "Pitcher, Ice",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -51660,7 +51408,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Ice 7",
+    "shape": "Pitcher, Ice",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -51669,7 +51417,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Ice 7",
+    "shape": "Pitcher, Ice",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -51678,7 +51426,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Ice 7",
+    "shape": "Pitcher, Ice",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -51687,7 +51435,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Ice 7",
+    "shape": "Pitcher, Ice",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -51696,7 +51444,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Ice 7",
+    "shape": "Pitcher, Ice",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -52119,7 +51867,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Amberstone Brown",
     "isPost86": false,
     "hex": "#964B00",
@@ -52128,7 +51876,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Antique Gold",
     "isPost86": false,
     "hex": "#D4AF37",
@@ -52137,7 +51885,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Chartreuse",
     "isPost86": false,
     "hex": "#DFFF00",
@@ -52146,7 +51894,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -52155,7 +51903,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Forest Green",
     "isPost86": false,
     "hex": "#228B22",
@@ -52164,7 +51912,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
@@ -52173,7 +51921,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -52182,7 +51930,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -52191,7 +51939,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Maroon",
     "isPost86": false,
     "hex": "#800000",
@@ -52200,7 +51948,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -52209,7 +51957,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -52218,7 +51966,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -52227,7 +51975,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Rose",
     "isPost86": false,
     "hex": "#FF007F",
@@ -52236,7 +51984,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -52245,7 +51993,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, 13\" Chop (12 3/8\") 20",
+    "shape": "Plate, 13\" Chop (12 3/8\")",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -52740,7 +52488,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, Cake (10 3/8\") 17",
+    "shape": "Plate, Cake (10 3/8\")",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -52749,7 +52497,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, Cake (10 3/8\") 17",
+    "shape": "Plate, Cake (10 3/8\")",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -52758,7 +52506,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, Cake (10 3/8\") 17",
+    "shape": "Plate, Cake (10 3/8\")",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -52767,7 +52515,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Plate, Cake (10 3/8\") 17",
+    "shape": "Plate, Cake (10 3/8\")",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -53415,43 +53163,7 @@
     "category": "Other"
   },
   {
-    "shape": "Sugar & Lid (Ironstone)",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Other"
-  },
-  {
-    "shape": "Sugar & Lid (Ironstone)",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Other"
-  },
-  {
-    "shape": "Sugar & Lid (Ironstone)",
-    "color": "Red 9",
-    "isPost86": false,
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "retiredAt": null,
-    "category": "Other"
-  },
-  {
-    "shape": "Sugar & Lid (Ironstone)",
-    "color": "Turf Green",
-    "isPost86": false,
-    "hex": "#87CEEB",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Other"
-  },
-  {
-    "shape": "Sugar, Individual 7",
+    "shape": "Sugar, Individual",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -53460,7 +53172,7 @@
     "category": "Other"
   },
   {
-    "shape": "Sugar, Individual 7",
+    "shape": "Sugar, Individual",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -53532,24 +53244,6 @@
     "category": "Other"
   },
   {
-    "shape": "Teapot & Lid (Ironstone)",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Teapot & Lid (Ironstone)",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Pitchers, Teapots & Vases"
-  },
-  {
     "shape": "Teapot & Lid, Large",
     "color": "Cobalt",
     "isPost86": false,
@@ -53613,7 +53307,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Amberstone Brown",
     "isPost86": false,
     "hex": "#964B00",
@@ -53622,7 +53316,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Chartreuse",
     "isPost86": false,
     "hex": "#DFFF00",
@@ -53631,7 +53325,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -53640,7 +53334,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Forest Green",
     "isPost86": false,
     "hex": "#228B22",
@@ -53649,7 +53343,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
@@ -53658,7 +53352,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -53667,7 +53361,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -53676,7 +53370,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -53685,7 +53379,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -53694,7 +53388,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Rose",
     "isPost86": false,
     "hex": "#FF007F",
@@ -53703,7 +53397,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -53712,7 +53406,7 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Teapot & Lid, Medium 7",
+    "shape": "Teapot & Lid, Medium",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -53748,7 +53442,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Hostess 16",
+    "shape": "Tray, Hostess",
     "color": "Amberstone Brown",
     "isPost86": false,
     "hex": "#964B00",
@@ -53757,7 +53451,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Hostess 16",
+    "shape": "Tray, Hostess",
     "color": "Antique Gold",
     "isPost86": false,
     "hex": "#D4AF37",
@@ -53766,7 +53460,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Base 10",
+    "shape": "Tray, Relish - Base",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -53775,7 +53469,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Base 10",
+    "shape": "Tray, Relish - Base",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -53784,7 +53478,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Base 10",
+    "shape": "Tray, Relish - Base",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -53793,7 +53487,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Base 10",
+    "shape": "Tray, Relish - Base",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -53802,7 +53496,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Base 10",
+    "shape": "Tray, Relish - Base",
     "color": "Red Stripe 11",
     "isPost86": false,
     "hex": "#FF6347",
@@ -53811,7 +53505,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Base 10",
+    "shape": "Tray, Relish - Base",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -53820,7 +53514,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Base 10",
+    "shape": "Tray, Relish - Base",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -53901,7 +53595,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Side 10",
+    "shape": "Tray, Relish - Side",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -53910,7 +53604,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Side 10",
+    "shape": "Tray, Relish - Side",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -53919,7 +53613,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Side 10",
+    "shape": "Tray, Relish - Side",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -53928,7 +53622,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Side 10",
+    "shape": "Tray, Relish - Side",
     "color": "Maroon",
     "isPost86": false,
     "hex": "#800000",
@@ -53937,7 +53631,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Side 10",
+    "shape": "Tray, Relish - Side",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -53946,7 +53640,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Side 10",
+    "shape": "Tray, Relish - Side",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -53955,7 +53649,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Side 10",
+    "shape": "Tray, Relish - Side",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -53964,7 +53658,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Relish - Side 10",
+    "shape": "Tray, Relish - Side",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -54036,7 +53730,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Chartreuse",
     "isPost86": false,
     "hex": "#DFFF00",
@@ -54045,7 +53739,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -54054,7 +53748,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Forest Green",
     "isPost86": false,
     "hex": "#228B22",
@@ -54063,7 +53757,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
@@ -54072,7 +53766,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -54081,7 +53775,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -54090,7 +53784,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Maroon",
     "isPost86": false,
     "hex": "#800000",
@@ -54099,7 +53793,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -54108,7 +53802,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Rose",
     "isPost86": false,
     "hex": "#FF007F",
@@ -54117,7 +53811,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -54126,7 +53820,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\") 5",
+    "shape": "Tumbler, Juice (3 1/2\", 3 3/4\")",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -54135,7 +53829,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Water (4 1/2\") 13",
+    "shape": "Tumbler, Water (4 1/2\")",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
@@ -54144,7 +53838,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Water (4 1/2\") 13",
+    "shape": "Tumbler, Water (4 1/2\")",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
@@ -54153,7 +53847,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Water (4 1/2\") 13",
+    "shape": "Tumbler, Water (4 1/2\")",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
@@ -54162,7 +53856,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Water (4 1/2\") 13",
+    "shape": "Tumbler, Water (4 1/2\")",
     "color": "Maroon",
     "isPost86": false,
     "hex": "#800000",
@@ -54171,7 +53865,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Water (4 1/2\") 13",
+    "shape": "Tumbler, Water (4 1/2\")",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
@@ -54180,7 +53874,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Water (4 1/2\") 13",
+    "shape": "Tumbler, Water (4 1/2\")",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
@@ -54189,7 +53883,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Water (4 1/2\") 13",
+    "shape": "Tumbler, Water (4 1/2\")",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
@@ -54198,7 +53892,7 @@
     "category": "Other"
   },
   {
-    "shape": "Tumbler, Water (4 1/2\") 13",
+    "shape": "Tumbler, Water (4 1/2\")",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
@@ -54405,7 +54099,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "10 1/2\" Classic Rim Dinner Plate",
+    "shape": "Dinner Plate, Classic Rim (10 1/2\")",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54432,7 +54126,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bistro Coupe 3‑Piece Place Setting",
+    "shape": "Bistro Coupe 3-Piece Place Setting",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54441,16 +54135,7 @@
     "category": "Place Settings"
   },
   {
-    "shape": "Classic Rim 3‑Piece Place Setting",
-    "color": "Jade",
-    "isPost86": true,
-    "hex": "#3C8C7E",
-    "introducedAt": 2023,
-    "retiredAt": null,
-    "category": "Place Settings"
-  },
-  {
-    "shape": "Ornament‑Shaped Plate – 8 3/4\"",
+    "shape": "Ornament-Shaped Plate - 8 3/4\"",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54459,7 +54144,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Tree‑Shaped Plate – 10 1/8\"",
+    "shape": "Plate, Tree",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54477,7 +54162,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Heart-Shaped Ramekin – 7 oz (4 1/2\")",
+    "shape": "Heart-Shaped Ramekin - 7 oz (4 1/2\")",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54486,7 +54171,7 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Snowflake-Shaped Plate – ~9\"",
+    "shape": "Snowflake-Shaped Plate - ~9\"",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54495,7 +54180,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Pumpkin-Shaped Plate – 8 1/2\"",
+    "shape": "Pumpkin-Shaped Plate - 8 1/2\"",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54513,7 +54198,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Medium Heart Bowl – 7 1/2\" (17 oz)",
+    "shape": "Medium Heart Bowl - 7 1/2\" (17 oz)",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54522,7 +54207,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Shell‑Shaped Plate – 8 1/4\"",
+    "shape": "Shell-Shaped Plate - 8 1/4\"",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54531,7 +54216,7 @@
     "category": "Plates"
   },
   {
-    "shape": "9\" Heart‑Shaped Plate",
+    "shape": "9\" Heart-Shaped Plate",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54540,7 +54225,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Embossed Egg‑Shaped Plate – 10\"",
+    "shape": "Embossed Egg-Shaped Plate - 10\"",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54549,7 +54234,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Classic Rim Dinner Plate – 10 1/2\" (Snowflake)",
+    "shape": "Classic Rim Dinner Plate - 10 1/2\" (Snowflake)",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54558,7 +54243,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Classic Rim Luncheon Plate – 9\" (Snowflake)",
+    "shape": "Classic Rim Luncheon Plate - 9\" (Snowflake)",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54567,7 +54252,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Classic Rim Salad Plate – 7 1/4\" (Snowflake)",
+    "shape": "Classic Rim Salad Plate - 7 1/4\" (Snowflake)",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54576,7 +54261,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Gusto (All‑Purpose) Bowl – 6\", 28 oz (Snowflake)",
+    "shape": "Gusto (All-Purpose) Bowl - 6\", 28 oz (Snowflake)",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54585,7 +54270,7 @@
     "category": "Bowls"
   },
   {
-    "shape": "Tapered Mug – 15 oz (Snowflake)",
+    "shape": "Tapered Mug - 15 oz (Snowflake)",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54603,7 +54288,7 @@
     "category": "Plates"
   },
   {
-    "shape": "Snowflake‑Shaped Plate – 9\" (Snowflake)",
+    "shape": "Snowflake-Shaped Plate - 9\" (Snowflake)",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
@@ -54655,5 +54340,59 @@
     "introducedAt": 2021.0,
     "retiredAt": null,
     "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Pitcher, Large Disk (7 1/4\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 1986.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Pitcher, Large Disk (7 1/4\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 1986.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Embossed Egg Shaped Plate (10\")",
+    "color": "Lemongrass",
+    "introducedAt": null,
+    "retiredAt": 2024.0,
+    "isPost86": true,
+    "hex": "#9DC209",
+    "category": "Plates"
+  },
+  {
+    "shape": "Embossed Egg Shaped Plate (10\")",
+    "color": "Peony",
+    "introducedAt": 2022.0,
+    "retiredAt": null,
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "category": "Plates"
+  },
+  {
+    "shape": "Embossed Egg Shaped Plate (10\")",
+    "color": "Turquoise",
+    "introducedAt": 1988.0,
+    "retiredAt": null,
+    "isPost86": false,
+    "hex": "#26A69A",
+    "category": "Plates"
+  },
+  {
+    "shape": "Embossed Egg Shaped Plate (10\")",
+    "color": "Sunflower",
+    "introducedAt": 2001.0,
+    "retiredAt": null,
+    "isPost86": true,
+    "hex": "#FFD700",
+    "category": "Plates"
   }
 ]
