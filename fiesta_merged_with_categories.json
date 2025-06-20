@@ -54232,5 +54232,113 @@
     "introducedAt": 2021.0,
     "retiredAt": null,
     "category": "Plates"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Poppy",
+    "isPost86": true,
+    "hex": "#DC143C",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Meadow",
+    "isPost86": true,
+    "hex": "#7BB661",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Twilight",
+    "isPost86": true,
+    "hex": "#8A496B",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Foundry",
+    "isPost86": true,
+    "hex": "#5C5A5B",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "1 1/2 OZ Ceramic Shot Glass",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Other"
   }
 ]
