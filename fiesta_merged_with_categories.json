@@ -471,7 +471,10 @@
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -1740,7 +1743,10 @@
     "hex": "#000000",
     "introducedAt": 1986.0,
     "retiredAt": 2015.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -2676,7 +2682,10 @@
     "hex": "#FF007F",
     "introducedAt": 1986.0,
     "retiredAt": 2005.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Carafe",
@@ -3348,7 +3357,10 @@
     "hex": "#FBCEB1",
     "introducedAt": 1986.0,
     "retiredAt": 1998.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Carafe",
@@ -4200,7 +4212,10 @@
     "hex": "#0047AB",
     "introducedAt": 1986.0,
     "retiredAt": 2021.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -5379,7 +5394,10 @@
     "hex": "#FFFF00",
     "introducedAt": 1987.0,
     "retiredAt": 2002.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Carafe",
@@ -6438,7 +6456,10 @@
     "hex": "#26A69A",
     "introducedAt": 1988.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -7758,7 +7779,10 @@
     "hex": "#CCCCFF",
     "introducedAt": 1989.0,
     "retiredAt": 2006.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Carafe",
@@ -8577,7 +8601,10 @@
     "hex": "#B4CFCB",
     "introducedAt": 1991.0,
     "retiredAt": 2005.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Carafe",
@@ -9231,7 +9258,10 @@
     "hex": "#C8A2C8",
     "introducedAt": 1993.0,
     "retiredAt": 1995.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Carafe",
@@ -9768,7 +9798,10 @@
     "hex": "#EC5800",
     "introducedAt": 1995.0,
     "retiredAt": 2008.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -10482,7 +10515,10 @@
     "hex": "#0F52BA",
     "introducedAt": 1996.0,
     "retiredAt": 1997.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Carafe",
@@ -10893,7 +10929,10 @@
     "hex": "#DFFF00",
     "introducedAt": 1997.0,
     "retiredAt": 1999.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Carafe",
@@ -11532,7 +11571,10 @@
     "hex": "#C0C0C0",
     "introducedAt": 1998.0,
     "retiredAt": 2001.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Carafe",
@@ -12228,7 +12270,10 @@
     "hex": "#3C9D9B",
     "introducedAt": 1999.0,
     "retiredAt": 2001.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Carafe",
@@ -12948,7 +12993,10 @@
     "hex": "#E34234",
     "introducedAt": 2000.0,
     "retiredAt": 2010.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -14091,7 +14139,10 @@
     "hex": "#FFD700",
     "introducedAt": 2001.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -15450,7 +15501,10 @@
     "hex": "#8E4585",
     "introducedAt": 2001.0,
     "retiredAt": 2016.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -16557,7 +16611,10 @@
     "hex": "#00B45C",
     "introducedAt": 2002.0,
     "retiredAt": 2021.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -17886,7 +17943,10 @@
     "hex": "#F28500",
     "introducedAt": 2003.0,
     "retiredAt": 2018.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -19242,7 +19302,10 @@
     "hex": "#FF2400",
     "introducedAt": 2004.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -20748,7 +20811,10 @@
     "hex": "#33A1C9",
     "introducedAt": 2005.0,
     "retiredAt": 2015.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -21783,7 +21849,10 @@
     "hex": "#B7AFA3",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
@@ -22584,7 +22653,10 @@
     "hex": "#05472A",
     "introducedAt": 2007.0,
     "retiredAt": 2010.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Candleholder, Round"
+    ]
   },
   {
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
