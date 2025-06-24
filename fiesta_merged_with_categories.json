@@ -51035,5 +51035,95 @@
     "introducedAt": null,
     "retiredAt": null,
     "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Plate, Dinner - Bistro (Coupe) (10 1/2\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates",
+    "prior_shapes": [
+      "Plate, Dinner - Bistro (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Plate, Dinner - Bistro (Coupe) (10 1/2\")",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates",
+    "prior_shapes": [
+      "Plate, Dinner - Bistro (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Plate, Dinner - Bistro (Coupe) (10 1/2\")",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates",
+    "prior_shapes": [
+      "Plate, Dinner - Bistro (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Cereal (stacking, 6 1/2\", 11 oz.)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Plate, Salad - Bistro (Coupe)  (7 1/4\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates",
+    "prior_shapes": [
+      "Plate, Salad - Bistro (7 1/4\")"
+    ]
+  },
+  {
+    "shape": "Plate, Salad - Bistro (Coupe)  (7 1/4\")",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates",
+    "prior_shapes": [
+      "Plate, Salad - Bistro (7 1/4\")"
+    ]
+  },
+  {
+    "shape": "Plate, Salad - Bistro (Coupe)  (7 1/4\")",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates",
+    "prior_shapes": [
+      "Plate, Salad - Bistro (7 1/4\")"
+    ]
+  },
+  {
+    "shape": "Coaster",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
   }
 ]
