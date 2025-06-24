@@ -1077,6 +1077,15 @@
     "category": "Serveware"
   },
   {
+    "shape": "Pitcher, Juice (5 1 5/16\") (Vintage)",
+    "color": "Celadon",
+    "isPost86": false,
+    "hex": "#ACE1AF",
+    "introducedAt": null,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
     "shape": "Platter, Oval - Large (13 5/8\")",
     "color": "White",
     "isPost86": true,
@@ -51125,5 +51134,50 @@
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Other"
+  },
+  {
+    "shape": "Bowl, Pedestal",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Carafe",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Carafe",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Carafe",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Pitcher, Small Disk (5 1/2\")",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
   }
 ]
