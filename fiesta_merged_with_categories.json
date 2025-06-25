@@ -1,5 +1,14 @@
 [
   {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 1990.0,
+    "retiredAt": 2024.0,
+    "category": "Bowls"
+  },
+  {
     "shape": "Baker, Large Oval (11 3/4\")",
     "color": "White",
     "isPost86": true,
@@ -10,15 +19,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "White",
-    "isPost86": true,
-    "hex": "#FFFFFF",
-    "introducedAt": 1986.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -76,18 +76,6 @@
     "introducedAt": 1986.0,
     "retiredAt": null,
     "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "White",
-    "isPost86": true,
-    "hex": "#FFFFFF",
-    "introducedAt": 1986.0,
-    "retiredAt": null,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
@@ -243,13 +231,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -270,13 +261,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -891,13 +885,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -1059,11 +1056,29 @@
     "category": "Plates"
   },
   {
+    "shape": "Vase, Bud (Vintage)",
+    "color": "Yellow",
+    "isPost86": false,
+    "hex": "#FFFF00",
+    "introducedAt": 1936.0,
+    "retiredAt": 1946.0,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
     "shape": "Plate, Welled Snack",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "Bowl, Presentation",
+    "color": "Raspberry",
+    "isPost86": true,
+    "hex": "#E30B5D",
+    "introducedAt": 1997.0,
     "retiredAt": null,
     "category": "Plates"
   },
@@ -1218,7 +1233,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
@@ -1226,7 +1241,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -1248,22 +1264,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -1275,13 +1297,16 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "White",
     "isPost86": true,
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -1311,7 +1336,10 @@
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -1476,15 +1504,6 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Black",
-    "isPost86": true,
-    "hex": "#000000",
-    "introducedAt": 1986.0,
-    "retiredAt": 2015.0,
-    "category": "Bakeware"
-  },
-  {
     "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Black",
     "isPost86": true,
@@ -1506,18 +1525,6 @@
     "category": "Bowls",
     "prior_shapes": [
       "Bowl, 6\" Footed (a.k.a. Rice) 16"
-    ]
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Black",
-    "isPost86": true,
-    "hex": "#000000",
-    "introducedAt": 1986.0,
-    "retiredAt": 2015.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
     ]
   },
   {
@@ -1623,13 +1630,16 @@
     ]
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
     "introducedAt": 1986.0,
     "retiredAt": 2015.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -2232,7 +2242,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
@@ -2240,7 +2250,8 @@
     "retiredAt": 2015.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -2262,22 +2273,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
     "introducedAt": 1986.0,
     "retiredAt": 2015.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
     "introducedAt": 1986.0,
     "retiredAt": 2015.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -2289,13 +2306,16 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Black",
     "isPost86": true,
     "hex": "#000000",
     "introducedAt": 1986.0,
     "retiredAt": 2015.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -2325,7 +2345,10 @@
     "hex": "#000000",
     "introducedAt": 1986.0,
     "retiredAt": 2015.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -2461,18 +2484,6 @@
     "introducedAt": 1986.0,
     "retiredAt": 2015.0,
     "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Rose",
-    "isPost86": true,
-    "hex": "#FF007F",
-    "introducedAt": 1986.0,
-    "retiredAt": 2005.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Cereal (stacking, 6 1/2\", 11 oz.)",
@@ -3063,7 +3074,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
@@ -3071,7 +3082,8 @@
     "retiredAt": 2005.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -3093,13 +3105,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Rose",
     "isPost86": true,
     "hex": "#FF007F",
     "introducedAt": 1986.0,
     "retiredAt": 2005.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -3648,7 +3663,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Apricot",
     "isPost86": true,
     "hex": "#FBCEB1",
@@ -3656,7 +3671,8 @@
     "retiredAt": 1998.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -3750,15 +3766,6 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Cobalt",
-    "isPost86": true,
-    "hex": "#0047AB",
-    "introducedAt": 1986.0,
-    "retiredAt": 2021.0,
-    "category": "Bakeware"
-  },
-  {
     "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Cobalt",
     "isPost86": true,
@@ -3808,18 +3815,6 @@
     "introducedAt": 1986.0,
     "retiredAt": 2021.0,
     "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Cobalt",
-    "isPost86": true,
-    "hex": "#0047AB",
-    "introducedAt": 1986.0,
-    "retiredAt": 2021.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
@@ -3984,13 +3979,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
     "introducedAt": 1986.0,
     "retiredAt": 2021.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -4011,13 +4009,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
     "introducedAt": 1986.0,
     "retiredAt": 2021.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -4623,13 +4624,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
     "introducedAt": 1986.0,
     "retiredAt": 2021.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -4932,7 +4936,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
@@ -4940,7 +4944,8 @@
     "retiredAt": 2021.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -4962,22 +4967,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
     "introducedAt": 1986.0,
     "retiredAt": 2021.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
     "introducedAt": 1986.0,
     "retiredAt": 2021.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -4989,13 +5000,16 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Cobalt",
     "isPost86": true,
     "hex": "#0047AB",
     "introducedAt": 1986.0,
     "retiredAt": 2021.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -5025,7 +5039,10 @@
     "hex": "#0047AB",
     "introducedAt": 1986.0,
     "retiredAt": 2021.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -5766,7 +5783,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Yellow",
     "isPost86": true,
     "hex": "#FFFF00",
@@ -5774,7 +5791,8 @@
     "retiredAt": 2002.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -5796,13 +5814,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Yellow",
     "isPost86": true,
     "hex": "#FFFF00",
     "introducedAt": 1987.0,
     "retiredAt": 2002.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -5961,15 +5982,6 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Turquoise",
-    "isPost86": true,
-    "hex": "#26A69A",
-    "introducedAt": 1988.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
     "shape": "Beverage Server",
     "color": "Turquoise",
     "isPost86": true,
@@ -6028,18 +6040,6 @@
     "introducedAt": 1988.0,
     "retiredAt": null,
     "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Turquoise",
-    "isPost86": true,
-    "hex": "#26A69A",
-    "introducedAt": 1988.0,
-    "retiredAt": null,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
@@ -6183,13 +6183,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
     "introducedAt": 1988.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Hostess",
@@ -6201,13 +6204,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
     "introducedAt": 1988.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -6930,13 +6936,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
     "introducedAt": 1988.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -7284,7 +7293,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
@@ -7292,7 +7301,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -7314,22 +7324,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
     "introducedAt": 1988.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
     "introducedAt": 1988.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -7350,13 +7366,16 @@
     "category": "Serveware"
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Turquoise",
     "isPost86": true,
     "hex": "#26A69A",
     "introducedAt": 1988.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -7386,7 +7405,10 @@
     "hex": "#26A69A",
     "introducedAt": 1988.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -7549,27 +7571,6 @@
     "introducedAt": 1988.0,
     "retiredAt": null,
     "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Periwinkle Blue",
-    "isPost86": true,
-    "hex": "#CCCCFF",
-    "introducedAt": 1989.0,
-    "retiredAt": 2006.0,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Periwinkle Blue",
-    "isPost86": true,
-    "hex": "#CCCCFF",
-    "introducedAt": 1989.0,
-    "retiredAt": 2006.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Cereal (stacking, 6 1/2\", 11 oz.)",
@@ -8178,7 +8179,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
@@ -8186,7 +8187,8 @@
     "retiredAt": 2006.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -8208,22 +8210,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
     "introducedAt": 1989.0,
     "retiredAt": 2006.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Periwinkle Blue",
     "isPost86": true,
     "hex": "#CCCCFF",
     "introducedAt": 1989.0,
     "retiredAt": 2006.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -8380,18 +8388,6 @@
     "introducedAt": 1989.0,
     "retiredAt": 2006.0,
     "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Sea Mist Green",
-    "isPost86": true,
-    "hex": "#B4CFCB",
-    "introducedAt": 1991.0,
-    "retiredAt": 2005.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Cereal (stacking, 6 1/2\", 11 oz.)",
@@ -8973,7 +8969,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Sea Mist Green",
     "isPost86": true,
     "hex": "#B4CFCB",
@@ -8981,7 +8977,8 @@
     "retiredAt": 2005.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -9003,13 +9000,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Sea Mist Green",
     "isPost86": true,
     "hex": "#B4CFCB",
     "introducedAt": 1991.0,
     "retiredAt": 2005.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -9495,7 +9495,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Lilac",
     "isPost86": true,
     "hex": "#C8A2C8",
@@ -9503,7 +9503,8 @@
     "retiredAt": 1995.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -9568,27 +9569,6 @@
     "introducedAt": 1993.0,
     "retiredAt": 1995.0,
     "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Persimmon",
-    "isPost86": true,
-    "hex": "#EC5800",
-    "introducedAt": 1995.0,
-    "retiredAt": 2008.0,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Persimmon",
-    "isPost86": true,
-    "hex": "#EC5800",
-    "introducedAt": 1995.0,
-    "retiredAt": 2008.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Cereal (stacking, 6 1/2\", 11 oz.)",
@@ -10224,7 +10204,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
@@ -10232,7 +10212,8 @@
     "retiredAt": 2008.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -10254,31 +10235,40 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
     "introducedAt": 1995.0,
     "retiredAt": 2008.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
     "introducedAt": 1995.0,
     "retiredAt": 2008.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Persimmon",
     "isPost86": true,
     "hex": "#EC5800",
     "introducedAt": 1995.0,
     "retiredAt": 2008.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -10308,7 +10298,10 @@
     "hex": "#EC5800",
     "introducedAt": 1995.0,
     "retiredAt": 2008.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -10689,7 +10682,7 @@
     ]
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Sapphire",
     "isPost86": true,
     "hex": "#0F52BA",
@@ -10697,7 +10690,8 @@
     "retiredAt": 1997.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -11247,7 +11241,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Chartreuse",
     "isPost86": true,
     "hex": "#DFFF00",
@@ -11255,7 +11249,8 @@
     "retiredAt": 1999.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -11916,7 +11911,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Pearl Gray",
     "isPost86": true,
     "hex": "#C0C0C0",
@@ -11924,7 +11919,8 @@
     "retiredAt": 2001.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -11946,13 +11942,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Pearl Gray",
     "isPost86": true,
     "hex": "#C0C0C0",
     "introducedAt": 1998.0,
     "retiredAt": 2001.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -12615,7 +12614,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Juniper",
     "isPost86": true,
     "hex": "#3C9D9B",
@@ -12623,7 +12622,8 @@
     "retiredAt": 2001.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -12645,13 +12645,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Juniper",
     "isPost86": true,
     "hex": "#3C9D9B",
     "introducedAt": 1999.0,
     "retiredAt": 2001.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -12763,27 +12766,6 @@
     "introducedAt": 1999.0,
     "retiredAt": 2001.0,
     "category": "Pitchers, Teapots & Vases"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Cinnabar",
-    "isPost86": true,
-    "hex": "#E34234",
-    "introducedAt": 2000.0,
-    "retiredAt": 2010.0,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Cinnabar",
-    "isPost86": true,
-    "hex": "#E34234",
-    "introducedAt": 2000.0,
-    "retiredAt": 2010.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Cereal (stacking, 6 1/2\", 11 oz.)",
@@ -13410,7 +13392,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
@@ -13418,7 +13400,8 @@
     "retiredAt": 2010.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -13440,31 +13423,40 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
     "introducedAt": 2000.0,
     "retiredAt": 2010.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
     "introducedAt": 2000.0,
     "retiredAt": 2010.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Cinnabar",
     "isPost86": true,
     "hex": "#E34234",
     "introducedAt": 2000.0,
     "retiredAt": 2010.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -13494,7 +13486,10 @@
     "hex": "#E34234",
     "introducedAt": 2000.0,
     "retiredAt": 2010.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -13623,15 +13618,6 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Sunflower",
-    "isPost86": true,
-    "hex": "#FFD700",
-    "introducedAt": 2001.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
     "shape": "Beverage Server",
     "color": "Sunflower",
     "isPost86": true,
@@ -13690,18 +13676,6 @@
     "introducedAt": 2001.0,
     "retiredAt": null,
     "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Sunflower",
-    "isPost86": true,
-    "hex": "#FFD700",
-    "introducedAt": 2001.0,
-    "retiredAt": null,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
@@ -13866,13 +13840,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
     "introducedAt": 2001.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -13893,13 +13870,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
     "introducedAt": 2001.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -14568,13 +14548,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
     "introducedAt": 2001.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -14949,7 +14932,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
@@ -14957,7 +14940,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -14979,22 +14963,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
     "introducedAt": 2001.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
     "introducedAt": 2001.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -15006,13 +14996,16 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Sunflower",
     "isPost86": true,
     "hex": "#FFD700",
     "introducedAt": 2001.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -15042,7 +15035,10 @@
     "hex": "#FFD700",
     "introducedAt": 2001.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -15198,15 +15194,6 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Plum",
-    "isPost86": true,
-    "hex": "#8E4585",
-    "introducedAt": 2001.0,
-    "retiredAt": 2016.0,
-    "category": "Bakeware"
-  },
-  {
     "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Plum",
     "isPost86": true,
@@ -15228,18 +15215,6 @@
     "category": "Bowls",
     "prior_shapes": [
       "Bowl, 6\" Footed (a.k.a. Rice) 16"
-    ]
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Plum",
-    "isPost86": true,
-    "hex": "#8E4585",
-    "introducedAt": 2001.0,
-    "retiredAt": 2016.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
     ]
   },
   {
@@ -15354,13 +15329,16 @@
     ]
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
     "introducedAt": 2001.0,
     "retiredAt": 2016.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Hostess",
@@ -15372,13 +15350,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
     "introducedAt": 2001.0,
     "retiredAt": 2016.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -15954,7 +15935,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
@@ -15962,7 +15943,8 @@
     "retiredAt": 2016.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -15984,22 +15966,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
     "introducedAt": 2001.0,
     "retiredAt": 2016.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
     "introducedAt": 2001.0,
     "retiredAt": 2016.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -16011,13 +15999,16 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Plum",
     "isPost86": true,
     "hex": "#8E4585",
     "introducedAt": 2001.0,
     "retiredAt": 2016.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -16047,7 +16038,10 @@
     "hex": "#8E4585",
     "introducedAt": 2001.0,
     "retiredAt": 2016.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -16185,15 +16179,6 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Shamrock",
-    "isPost86": true,
-    "hex": "#00B45C",
-    "introducedAt": 2002.0,
-    "retiredAt": 2021.0,
-    "category": "Bakeware"
-  },
-  {
     "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Shamrock",
     "isPost86": true,
@@ -16243,18 +16228,6 @@
     "introducedAt": 2002.0,
     "retiredAt": 2021.0,
     "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Shamrock",
-    "isPost86": true,
-    "hex": "#00B45C",
-    "introducedAt": 2002.0,
-    "retiredAt": 2021.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
@@ -16419,13 +16392,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
     "introducedAt": 2002.0,
     "retiredAt": 2021.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -16446,13 +16422,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
     "introducedAt": 2002.0,
     "retiredAt": 2021.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -16968,13 +16947,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
     "introducedAt": 2002.0,
     "retiredAt": 2021.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -17232,7 +17214,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
@@ -17240,7 +17222,8 @@
     "retiredAt": 2021.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -17262,13 +17245,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
     "introducedAt": 2002.0,
     "retiredAt": 2021.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -17280,13 +17266,16 @@
     "category": "Other"
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Shamrock",
     "isPost86": true,
     "hex": "#00B45C",
     "introducedAt": 2002.0,
     "retiredAt": 2021.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -17316,7 +17305,10 @@
     "hex": "#00B45C",
     "introducedAt": 2002.0,
     "retiredAt": 2021.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -17472,15 +17464,6 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Tangerine",
-    "isPost86": true,
-    "hex": "#F28500",
-    "introducedAt": 2003.0,
-    "retiredAt": 2018.0,
-    "category": "Bakeware"
-  },
-  {
     "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Tangerine",
     "isPost86": true,
@@ -17530,18 +17513,6 @@
     "introducedAt": 2003.0,
     "retiredAt": 2018.0,
     "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Tangerine",
-    "isPost86": true,
-    "hex": "#F28500",
-    "introducedAt": 2003.0,
-    "retiredAt": 2018.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
@@ -17706,13 +17677,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
     "introducedAt": 2003.0,
     "retiredAt": 2018.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -17733,13 +17707,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
     "introducedAt": 2003.0,
     "retiredAt": 2018.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -18573,7 +18550,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
@@ -18581,7 +18558,8 @@
     "retiredAt": 2018.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -18603,22 +18581,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
     "introducedAt": 2003.0,
     "retiredAt": 2018.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
     "introducedAt": 2003.0,
     "retiredAt": 2018.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -18639,13 +18623,16 @@
     "category": "Serveware"
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Tangerine",
     "isPost86": true,
     "hex": "#F28500",
     "introducedAt": 2003.0,
     "retiredAt": 2018.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -18675,7 +18662,10 @@
     "hex": "#F28500",
     "introducedAt": 2003.0,
     "retiredAt": 2018.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -18840,15 +18830,6 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Scarlet",
-    "isPost86": true,
-    "hex": "#FF2400",
-    "introducedAt": 2004.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
     "shape": "Beverage Server",
     "color": "Scarlet",
     "isPost86": true,
@@ -18907,18 +18888,6 @@
     "introducedAt": 2004.0,
     "retiredAt": null,
     "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Scarlet",
-    "isPost86": true,
-    "hex": "#FF2400",
-    "introducedAt": 2004.0,
-    "retiredAt": null,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
@@ -19083,13 +19052,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
     "introducedAt": 2004.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -19110,13 +19082,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
     "introducedAt": 2004.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -19731,13 +19706,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
     "introducedAt": 2004.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -20121,7 +20099,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
@@ -20129,7 +20107,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -20151,22 +20130,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
     "introducedAt": 2004.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
     "introducedAt": 2004.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -20187,13 +20172,16 @@
     "category": "Serveware"
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Scarlet",
     "isPost86": true,
     "hex": "#FF2400",
     "introducedAt": 2004.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -20223,7 +20211,10 @@
     "hex": "#FF2400",
     "introducedAt": 2004.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -20379,15 +20370,6 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Peacock",
-    "isPost86": true,
-    "hex": "#33A1C9",
-    "introducedAt": 2005.0,
-    "retiredAt": 2015.0,
-    "category": "Bakeware"
-  },
-  {
     "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)",
     "color": "Peacock",
     "isPost86": true,
@@ -20437,18 +20419,6 @@
     "introducedAt": 2005.0,
     "retiredAt": 2015.0,
     "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Peacock",
-    "isPost86": true,
-    "hex": "#33A1C9",
-    "introducedAt": 2005.0,
-    "retiredAt": 2015.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Bistro - Large (Coupe)",
@@ -20574,13 +20544,16 @@
     ]
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
     "introducedAt": 2005.0,
     "retiredAt": 2015.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -20601,13 +20574,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
     "introducedAt": 2005.0,
     "retiredAt": 2015.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -21381,7 +21357,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
@@ -21389,7 +21365,8 @@
     "retiredAt": 2015.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -21411,22 +21388,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
     "introducedAt": 2005.0,
     "retiredAt": 2015.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
     "introducedAt": 2005.0,
     "retiredAt": 2015.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -21447,13 +21430,16 @@
     "category": "Serveware"
   },
   {
-    "shape": "Tray, Bread - Large (13 1/2\" x 6 1/4\")",
+    "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "color": "Peacock",
     "isPost86": true,
     "hex": "#33A1C9",
     "introducedAt": 2005.0,
     "retiredAt": 2015.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tray, Bread - Large (13 1/2\" x 6 1/4\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -21483,7 +21469,10 @@
     "hex": "#33A1C9",
     "introducedAt": 2005.0,
     "retiredAt": 2015.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -21619,27 +21608,6 @@
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
-    "color": "Heather",
-    "isPost86": true,
-    "hex": "#B7AFA3",
-    "introducedAt": 2006.0,
-    "retiredAt": 2009.0,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Bowl, Betty",
-    "color": "Heather",
-    "isPost86": true,
-    "hex": "#B7AFA3",
-    "introducedAt": 2006.0,
-    "retiredAt": 2009.0,
-    "category": "Bowls",
-    "prior_shapes": [
-      "Bowl, Betty 4"
-    ]
   },
   {
     "shape": "Bowl, Cereal (stacking, 6 1/2\", 11 oz.)",
@@ -22194,7 +22162,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Heather",
     "isPost86": true,
     "hex": "#B7AFA3",
@@ -22202,7 +22170,8 @@
     "retiredAt": 2009.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -22224,22 +22193,28 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Heather",
     "isPost86": true,
     "hex": "#B7AFA3",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
-    "shape": "Tool Crock, Large (8 3/4\" x 6 1/2\")",
+    "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Heather",
     "isPost86": true,
     "hex": "#B7AFA3",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock, Large (8 3/4\" x 6 1/2\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -22260,7 +22235,10 @@
     "hex": "#B7AFA3",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -22363,15 +22341,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Evergreen",
-    "isPost86": true,
-    "hex": "#05472A",
-    "introducedAt": 2007.0,
-    "retiredAt": 2010.0,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Evergreen",
     "isPost86": true,
     "hex": "#05472A",
@@ -23016,7 +22985,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Evergreen",
     "isPost86": true,
     "hex": "#05472A",
@@ -23024,7 +22993,8 @@
     "retiredAt": 2010.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -23046,13 +23016,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Evergreen",
     "isPost86": true,
     "hex": "#05472A",
     "introducedAt": 2007.0,
     "retiredAt": 2010.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -23073,7 +23046,10 @@
     "hex": "#05472A",
     "introducedAt": 2007.0,
     "retiredAt": 2010.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Hostess",
@@ -23185,15 +23161,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Ivory",
-    "isPost86": true,
-    "hex": "#FFFFF0",
-    "introducedAt": 2008.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
@@ -23415,13 +23382,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
     "introducedAt": 2008.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -23442,13 +23412,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
     "introducedAt": 2008.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -24198,7 +24171,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
@@ -24206,7 +24179,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -24228,13 +24202,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Ivory",
     "isPost86": true,
     "hex": "#FFFFF0",
     "introducedAt": 2008.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -24264,7 +24241,10 @@
     "hex": "#FFFFF0",
     "introducedAt": 2008.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Omni",
@@ -24376,15 +24356,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Marigold",
-    "isPost86": true,
-    "hex": "#FCC200",
-    "introducedAt": 2008.0,
-    "retiredAt": 2012.0,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -24543,13 +24514,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
     "introducedAt": 2008.0,
     "retiredAt": 2012.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -25221,7 +25195,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
@@ -25229,7 +25203,8 @@
     "retiredAt": 2012.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -25251,13 +25226,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Marigold",
     "isPost86": true,
     "hex": "#FCC200",
     "introducedAt": 2008.0,
     "retiredAt": 2012.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Tray, Round Serving (a.k.a. Handled Cake Plate)",
@@ -25287,7 +25265,10 @@
     "hex": "#FCC200",
     "introducedAt": 2008.0,
     "retiredAt": 2012.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Round Serving (15\") (a.k.a Pizza Large)",
@@ -25399,15 +25380,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Chocolate",
-    "isPost86": true,
-    "hex": "#7B3F00",
-    "introducedAt": 2008.0,
-    "retiredAt": 2012.0,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Chocolate",
     "isPost86": true,
     "hex": "#7B3F00",
@@ -25968,7 +25940,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Chocolate",
     "isPost86": true,
     "hex": "#7B3F00",
@@ -25976,17 +25948,21 @@
     "retiredAt": 2012.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Chocolate",
     "isPost86": true,
     "hex": "#7B3F00",
     "introducedAt": 2008.0,
     "retiredAt": 2012.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -26007,7 +25983,10 @@
     "hex": "#7B3F00",
     "introducedAt": 2008.0,
     "retiredAt": 2012.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Trivet",
@@ -26074,15 +26053,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Lemongrass",
-    "isPost86": true,
-    "hex": "#9DC209",
-    "introducedAt": 2009.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -26304,13 +26274,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
     "introducedAt": 2009.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -26331,13 +26304,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
     "introducedAt": 2009.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -26922,13 +26898,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
     "introducedAt": 2009.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -27303,7 +27282,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
@@ -27311,7 +27290,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -27333,13 +27313,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Lemongrass",
     "isPost86": true,
     "hex": "#9DC209",
     "introducedAt": 2009.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -27378,7 +27361,10 @@
     "hex": "#9DC209",
     "introducedAt": 2009.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Omni",
@@ -27508,15 +27494,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Paprika",
-    "isPost86": true,
-    "hex": "#8D0226",
-    "introducedAt": 2010.0,
-    "retiredAt": 2017.0,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
@@ -27711,13 +27688,16 @@
     ]
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
     "introducedAt": 2010.0,
     "retiredAt": 2017.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -27738,13 +27718,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
     "introducedAt": 2010.0,
     "retiredAt": 2017.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -28386,7 +28369,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
@@ -28394,7 +28377,8 @@
     "retiredAt": 2017.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -28416,13 +28400,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Paprika",
     "isPost86": true,
     "hex": "#8D0226",
     "introducedAt": 2010.0,
     "retiredAt": 2017.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -28461,7 +28448,10 @@
     "hex": "#8D0226",
     "introducedAt": 2010.0,
     "retiredAt": 2017.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Omni",
@@ -28582,15 +28572,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Flamingo",
-    "isPost86": true,
-    "hex": "#FC8EAC",
-    "introducedAt": 2012.0,
-    "retiredAt": 2014.0,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
@@ -28731,13 +28712,16 @@
     ]
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
     "introducedAt": 2012.0,
     "retiredAt": 2014.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -28758,13 +28742,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
     "introducedAt": 2012.0,
     "retiredAt": 2014.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -29391,7 +29378,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
@@ -29399,7 +29386,8 @@
     "retiredAt": 2014.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -29421,13 +29409,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Flamingo",
     "isPost86": true,
     "hex": "#FC8EAC",
     "introducedAt": 2012.0,
     "retiredAt": 2014.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -29448,7 +29439,10 @@
     "hex": "#FC8EAC",
     "introducedAt": 2012.0,
     "retiredAt": 2014.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Round Serving (15\") (a.k.a Pizza Large)",
@@ -29533,15 +29527,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Lapis",
-    "isPost86": true,
-    "hex": "#26619C",
-    "introducedAt": 2013.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -29754,13 +29739,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
     "introducedAt": 2013.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -29781,13 +29769,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
     "introducedAt": 2013.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -30291,13 +30282,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
     "introducedAt": 2013.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -30654,7 +30648,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
@@ -30662,7 +30656,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -30684,13 +30679,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Lapis",
     "isPost86": true,
     "hex": "#26619C",
     "introducedAt": 2013.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -30720,7 +30718,10 @@
     "hex": "#26619C",
     "introducedAt": 2013.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Omni",
@@ -30850,15 +30851,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Poppy",
-    "isPost86": true,
-    "hex": "#DC143C",
-    "introducedAt": 2014.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -31053,13 +31045,16 @@
     ]
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
     "introducedAt": 2014.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -31080,13 +31075,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
     "introducedAt": 2014.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -31572,13 +31570,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
     "introducedAt": 2014.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -31899,7 +31900,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
@@ -31907,7 +31908,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -31920,13 +31922,16 @@
     "category": "Other"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Poppy",
     "isPost86": true,
     "hex": "#DC143C",
     "introducedAt": 2014.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Tooth Brush Holder",
@@ -31956,7 +31961,10 @@
     "hex": "#DC143C",
     "introducedAt": 2014.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Omni",
@@ -32068,15 +32076,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Slate",
-    "isPost86": true,
-    "hex": "#708090",
-    "introducedAt": 2015.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
@@ -32280,13 +32279,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
     "introducedAt": 2015.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -32307,13 +32309,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
     "introducedAt": 2015.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -32709,13 +32714,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
     "introducedAt": 2015.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -32946,7 +32954,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
@@ -32954,7 +32962,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -32967,13 +32976,16 @@
     "category": "Other"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Slate",
     "isPost86": true,
     "hex": "#708090",
     "introducedAt": 2015.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -32994,7 +33006,10 @@
     "hex": "#708090",
     "introducedAt": 2015.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Omni",
@@ -33088,15 +33103,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Sage",
-    "isPost86": true,
-    "hex": "#BCB88A",
-    "introducedAt": 2015.0,
-    "retiredAt": 2019.0,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
@@ -33300,13 +33306,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
     "introducedAt": 2015.0,
     "retiredAt": 2019.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -33327,13 +33336,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
     "introducedAt": 2015.0,
     "retiredAt": 2019.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Oval Vegetable (10 1/4\")",
@@ -33891,7 +33903,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
@@ -33899,7 +33911,8 @@
     "retiredAt": 2019.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -33912,13 +33925,16 @@
     "category": "Other"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Sage",
     "isPost86": true,
     "hex": "#BCB88A",
     "introducedAt": 2015.0,
     "retiredAt": 2019.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -33939,7 +33955,10 @@
     "hex": "#BCB88A",
     "introducedAt": 2015.0,
     "retiredAt": 2019.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Omni",
@@ -34033,15 +34052,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Foundry",
-    "isPost86": true,
-    "hex": "#5C5A5B",
-    "introducedAt": 2016.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Foundry",
     "isPost86": true,
     "hex": "#5C5A5B",
@@ -34371,13 +34381,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Claret",
     "isPost86": true,
     "hex": "#7F1734",
     "introducedAt": 2016.0,
     "retiredAt": 2018.0,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -34872,7 +34885,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Claret",
     "isPost86": true,
     "hex": "#7F1734",
@@ -34880,7 +34893,8 @@
     "retiredAt": 2018.0,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -34902,13 +34916,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Claret",
     "isPost86": true,
     "hex": "#7F1734",
     "introducedAt": 2016.0,
     "retiredAt": 2018.0,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -34929,7 +34946,10 @@
     "hex": "#7F1734",
     "introducedAt": 2016.0,
     "retiredAt": 2018.0,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Omni",
@@ -35023,15 +35043,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Daffodil",
-    "isPost86": true,
-    "hex": "#FFFF31",
-    "introducedAt": 2017.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
@@ -35196,13 +35207,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
     "introducedAt": 2017.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -35223,13 +35237,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
     "introducedAt": 2017.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Oval Vegetable (10 1/4\")",
@@ -35616,13 +35633,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
     "introducedAt": 2017.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -35880,7 +35900,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
@@ -35888,7 +35908,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -35910,13 +35931,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Daffodil",
     "isPost86": true,
     "hex": "#FFFF31",
     "introducedAt": 2017.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -35937,7 +35961,10 @@
     "hex": "#FFFF31",
     "introducedAt": 2017.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Omni",
@@ -36013,15 +36040,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Mulberry",
-    "isPost86": true,
-    "hex": "#70193D",
-    "introducedAt": 2018.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
@@ -36186,13 +36204,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
     "introducedAt": 2018.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -36213,13 +36234,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
     "introducedAt": 2018.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -36606,13 +36630,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
     "introducedAt": 2018.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -36879,7 +36906,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
@@ -36887,7 +36914,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -36909,13 +36937,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Mulberry",
     "isPost86": true,
     "hex": "#70193D",
     "introducedAt": 2018.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -36936,7 +36967,10 @@
     "hex": "#70193D",
     "introducedAt": 2018.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Round Serving (12\") (a.k.a. Pizza Small)",
@@ -36994,15 +37028,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Meadow",
-    "isPost86": true,
-    "hex": "#7BB661",
-    "introducedAt": 2019.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
@@ -37167,13 +37192,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
     "introducedAt": 2019.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -37194,13 +37222,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
     "introducedAt": 2019.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -37569,13 +37600,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
     "introducedAt": 2019.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -37842,7 +37876,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
@@ -37850,7 +37884,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -37872,13 +37907,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Meadow",
     "isPost86": true,
     "hex": "#7BB661",
     "introducedAt": 2019.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -37899,7 +37937,10 @@
     "hex": "#7BB661",
     "introducedAt": 2019.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Round Serving (12\") (a.k.a. Pizza Small)",
@@ -37948,15 +37989,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Butterscotch",
-    "isPost86": true,
-    "hex": "#F5BD1F",
-    "introducedAt": 2020.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
@@ -38121,13 +38153,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
     "introducedAt": 2020.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -38148,13 +38183,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
     "introducedAt": 2020.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -38523,13 +38561,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
     "introducedAt": 2020.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -38796,7 +38837,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
@@ -38804,7 +38845,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -38826,13 +38868,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
     "introducedAt": 2020.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -38853,7 +38898,10 @@
     "hex": "#F5BD1F",
     "introducedAt": 2020.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Round Serving (12\") (a.k.a. Pizza Small)",
@@ -38902,15 +38950,6 @@
   },
   {
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
-    "color": "Twilight",
-    "isPost86": true,
-    "hex": "#8A496B",
-    "introducedAt": 2021.0,
-    "retiredAt": null,
-    "category": "Bakeware"
-  },
-  {
-    "shape": "Baker, Square (10 1/2\")",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
@@ -39066,13 +39105,16 @@
     ]
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
     "introducedAt": 2021.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -39093,13 +39135,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
     "introducedAt": 2021.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
@@ -39369,13 +39414,16 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Pie Baker, Handled (12 3/4\")",
+    "shape": "Pie Baker, Handled (12 3/4\")(Nora Fleming collab)",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
     "introducedAt": 2021.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Pie Baker, Handled (12 3/4\")"
+    ]
   },
   {
     "shape": "Pitcher, Large Disk (7 1/4\")",
@@ -39423,13 +39471,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
     "introducedAt": 2021.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -39705,7 +39756,7 @@
     "category": "Other"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
@@ -39713,7 +39764,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -39735,13 +39787,16 @@
     "category": "Mugs, Cups & Saucers"
   },
   {
-    "shape": "Tool Crock (6 1/2\" x 5\")",
+    "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Twilight",
     "isPost86": true,
     "hex": "#8A496B",
     "introducedAt": 2021.0,
     "retiredAt": null,
-    "category": "Other"
+    "category": "Other",
+    "prior_shapes": [
+      "Tool Crock (6 1/2\" x 5\")"
+    ]
   },
   {
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
@@ -39762,7 +39817,10 @@
     "hex": "#8A496B",
     "introducedAt": 2021.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Tray, Round Serving (12\") (a.k.a. Pizza Small)",
@@ -39912,13 +39970,16 @@
     ]
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Peony",
     "isPost86": true,
     "hex": "#FFB6C1",
     "introducedAt": 2022.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Bowl, Heart - Small (5 1/2\")",
@@ -39939,13 +40000,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Peony",
     "isPost86": true,
     "hex": "#FFB6C1",
     "introducedAt": 2022.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Oval Vegetable (10 1/4\")",
@@ -40113,13 +40177,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Plate, Bowl - Luncheon (8 1/2\")",
+    "shape": "Plate, Luncheon Bowl (8 1/2\")",
     "color": "Peony",
     "isPost86": true,
     "hex": "#FFB6C1",
     "introducedAt": 2022.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Plate, Bowl - Luncheon (8 1/2\")"
+    ]
   },
   {
     "shape": "Plate, Bistro Coupe (9\")",
@@ -40266,7 +40333,7 @@
     ]
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Peony",
     "isPost86": true,
     "hex": "#FFB6C1",
@@ -40274,7 +40341,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -40284,7 +40352,10 @@
     "hex": "#FFB6C1",
     "introducedAt": 2022.0,
     "retiredAt": null,
-    "category": "Shapes"
+    "category": "Shapes",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
   },
   {
     "shape": "Ash Tray (Vintage)",
@@ -40838,7 +40909,10 @@
     "hex": "#FF0000",
     "introducedAt": 1936.0,
     "retiredAt": null,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -41591,7 +41665,10 @@
     "hex": "#FFFF00",
     "introducedAt": 1936.0,
     "retiredAt": 1969.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -42232,7 +42309,10 @@
     "hex": "#90EE90",
     "introducedAt": 1936.0,
     "retiredAt": 1951.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -42895,7 +42975,10 @@
     "hex": "#0047AB",
     "introducedAt": 1936.0,
     "retiredAt": 1951.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -43522,7 +43605,10 @@
     "hex": "#FFFFF0",
     "introducedAt": 1936.0,
     "retiredAt": 1951.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -44109,7 +44195,10 @@
     "hex": "#26A69A",
     "introducedAt": 1938.0,
     "retiredAt": 1969.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -44467,7 +44556,10 @@
     "hex": "#FF007F",
     "introducedAt": 1951.0,
     "retiredAt": 1959.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -44735,7 +44827,10 @@
     "hex": "#DFFF00",
     "introducedAt": 1951.0,
     "retiredAt": 1959.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -45003,7 +45098,10 @@
     "hex": "#228B22",
     "introducedAt": 1951.0,
     "retiredAt": 1959.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -45289,7 +45387,10 @@
     "hex": "#808080",
     "introducedAt": 1951.0,
     "retiredAt": 1959.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -45569,7 +45670,10 @@
     "hex": "#3CB371",
     "introducedAt": 1959.0,
     "retiredAt": 1969.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -46182,7 +46286,10 @@
     "hex": "#FF6347",
     "introducedAt": null,
     "retiredAt": null,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -46284,7 +46391,10 @@
     "hex": "#5B7F95",
     "introducedAt": null,
     "retiredAt": null,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Ash Tray (Vintage)",
@@ -46378,7 +46488,10 @@
     "hex": "#D4AF37",
     "introducedAt": 1969.0,
     "retiredAt": 1972.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Bowl, Ironstone Fruit/Dessert (5 1/2\") (Vintage)",
@@ -46553,7 +46666,10 @@
     "hex": "#87CEEB",
     "introducedAt": 1969.0,
     "retiredAt": 1972.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Bowl, Ironstone Fruit/Dessert (5 1/2\") (Vintage)",
@@ -46749,7 +46865,10 @@
     "hex": "#964B00",
     "introducedAt": 1967.0,
     "retiredAt": 1970.0,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "Shaker"
+    ]
   },
   {
     "shape": "Sugar & Lid (Vintage)",
@@ -46908,13 +47027,16 @@
     "category": "Other"
   },
   {
-    "shape": "1 Quart Small Chevron Canister",
+    "shape": "Canister, Small Chevron 1 qt",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "1 Quart Small Chevron Canister"
+    ]
   },
   {
     "shape": "Pie Baker (10 1/4\")",
@@ -47001,13 +47123,16 @@
     "category": "Serveware"
   },
   {
-    "shape": "13 OZ Mini Canister 5 5/8\"",
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "13 OZ Mini Canister 5 5/8\""
+    ]
   },
   {
     "shape": "Mug, Tapered (15 oz.)",
@@ -47049,13 +47174,16 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "2 Quart Medium Chevron Canister",
+    "shape": "Canister, Medium Chevron 2 qt",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Countertop Accessories"
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "2 Quart Medium Chevron Canister"
+    ]
   },
   {
     "shape": "2-Piece Chip and Dip Set",
@@ -47121,7 +47249,7 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47129,7 +47257,8 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
   },
   {
@@ -47185,16 +47314,19 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
-    "shape": "7\" Chevron Utensil Crock",
+    "shape": "Crock, Utensil Chevron (7\")",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
@@ -47269,13 +47401,16 @@
     ]
   },
   {
-    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ",
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Serveware"
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
   },
   {
     "shape": "Plate, Appetizer - Bistro Coupe (6 1/2\")",
@@ -47323,22 +47458,30 @@
     "category": "Plates"
   },
   {
-    "shape": "Extra Large Serving Bowl, Classic Rim (10 1/2\")",
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Extra Large Serving Bowl, Classic Rim (10 1/2\")",
+      "Extra Large Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+      "Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+    ]
   },
   {
-    "shape": "Bowl, Small, Classic Rim (15 oz. 5 5/8\")",
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
   },
   {
     "shape": "Saucer, Classic Rim (5 7/8\")",
@@ -47377,22 +47520,16 @@
     "category": "Plates"
   },
   {
-    "shape": "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
-    "color": "Sky",
-    "isPost86": true,
-    "hex": "#87CEEB",
-    "introducedAt": 2024.0,
-    "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Plate, Luncheon - Classic Rim (9\")",
@@ -47485,15 +47622,6 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Round Egg Serving Platter 11 1/4\"",
-    "color": "Sky",
-    "isPost86": true,
-    "hex": "#87CEEB",
-    "introducedAt": 2024.0,
-    "retiredAt": null,
-    "category": "Serveware"
-  },
-  {
     "shape": "Plate, Shell-Shaped (8 1/4\")",
     "color": "Sky",
     "isPost86": true,
@@ -47539,13 +47667,17 @@
     "category": "Plates"
   },
   {
-    "shape": "Square (9\" x 9\") Baker 2 Quart",
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Square (9\" x 9\") Baker 2 Quart",
+      "Baker, Square (10 1/2\")"
+    ]
   },
   {
     "shape": "Pitcher, Mini Disk (3 1/4\")",
@@ -47614,7 +47746,7 @@
     ]
   },
   {
-    "shape": "4-Piece Sugar Bowl and Creamer Set with Tray",
+    "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47622,17 +47754,9 @@
     "retiredAt": null,
     "category": "Countertop Accessories",
     "prior_shapes": [
-      "Sugar & Creamer Tray Set"
+      "Sugar & Creamer Tray Set",
+      "4-Piece Sugar Bowl and Creamer Set with Tray"
     ]
-  },
-  {
-    "shape": "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")",
-    "color": "Linen",
-    "isPost86": true,
-    "hex": "#e9e0d3",
-    "introducedAt": 2025.0,
-    "retiredAt": null,
-    "category": "Bowls"
   },
   {
     "shape": "Dinner Bowl 40 OZ, Coupe (10 3/8\")",
@@ -47692,25 +47816,19 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Small, Classic Rim (15 oz. 5 5/8\")",
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
     "introducedAt": 2025.0,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
   },
   {
     "shape": "Platter, Oval - Large (13 5/8\")",
-    "color": "Linen",
-    "isPost86": true,
-    "hex": "#e9e0d3",
-    "introducedAt": 2025.0,
-    "retiredAt": null,
-    "category": "Serveware"
-  },
-  {
-    "shape": "Round Egg Serving Platter 11 1/4\"",
     "color": "Linen",
     "isPost86": true,
     "hex": "#e9e0d3",
@@ -47900,15 +48018,6 @@
     "introducedAt": 2024,
     "retiredAt": null,
     "category": "Plates"
-  },
-  {
-    "shape": "Bistro Coupe 12-Piece Dinnerware Set, Service for",
-    "color": "Sky",
-    "isPost86": true,
-    "hex": "#87CEEB",
-    "introducedAt": 2024,
-    "retiredAt": null,
-    "category": "Other"
   },
   {
     "shape": "Bowl, Cream Soup (Vintage)",
@@ -48199,31 +48308,16 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Bowl, Serving, Classic Rim (10 1/2\")",
+    "shape": "Bowl, Serving Extra-Large, Classic Rim (10 1/2\")",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024,
     "retiredAt": null,
-    "category": "Serveware"
-  },
-  {
-    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
-    "color": "Linen",
-    "isPost86": true,
-    "hex": "#e9e0d3",
-    "introducedAt": 2025.0,
-    "retiredAt": null,
-    "category": "Bowls"
-  },
-  {
-    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
-    "color": "Sky",
-    "isPost86": true,
-    "hex": "#87CEEB",
-    "introducedAt": 2024,
-    "retiredAt": null,
-    "category": "Bowls"
+    "category": "Serveware",
+    "prior_shapes": [
+      "Bowl, Serving, Classic Rim (10 1/2\")"
+    ]
   },
   {
     "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
@@ -48268,7 +48362,10 @@
     "hex": "#e9e0d3",
     "introducedAt": 2025.0,
     "retiredAt": null,
-    "category": "Serveware"
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
   },
   {
     "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
@@ -48277,16 +48374,22 @@
     "hex": "#87CEEB",
     "introducedAt": 2024,
     "retiredAt": null,
-    "category": "Serveware"
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
   },
   {
-    "shape": "Bowl, Individual Pasta Classic Rim (8 3/8\")",
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")",
     "color": "Sky",
     "isPost86": true,
     "hex": "#87CEEB",
     "introducedAt": 2024,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Individual Pasta Classic Rim (8 3/8\")"
+    ]
   },
   {
     "shape": "Bowl, Soup, Classic Rim (9\")",
@@ -48661,150 +48764,6 @@
     "category": "Serveware"
   },
   {
-    "shape": "Shaker",
-    "color": "Amberstone Brown",
-    "isPost86": false,
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "retiredAt": 1970,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Antique Gold",
-    "isPost86": false,
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Blue Stripe",
-    "isPost86": false,
-    "hex": "#5B7F95",
-    "introducedAt": null,
-    "retiredAt": null,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Chartreuse",
-    "isPost86": false,
-    "hex": "#DFFF00",
-    "introducedAt": 1951,
-    "retiredAt": 1959,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Cobalt",
-    "isPost86": false,
-    "hex": "#0047AB",
-    "introducedAt": 1936,
-    "retiredAt": 1951,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Forest Green",
-    "isPost86": false,
-    "hex": "#228B22",
-    "introducedAt": 1951,
-    "retiredAt": 1959,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Gray",
-    "isPost86": false,
-    "hex": "#808080",
-    "introducedAt": 1951,
-    "retiredAt": 1959,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Ivory",
-    "isPost86": false,
-    "hex": "#FFFFF0",
-    "introducedAt": 1936,
-    "retiredAt": 1951,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Light Green",
-    "isPost86": false,
-    "hex": "#90EE90",
-    "introducedAt": 1936,
-    "retiredAt": 1951,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Medium Green",
-    "isPost86": false,
-    "hex": "#3CB371",
-    "introducedAt": 1959,
-    "retiredAt": 1969,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Red 9",
-    "isPost86": false,
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "retiredAt": null,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Red Stripe 11",
-    "isPost86": false,
-    "hex": "#FF6347",
-    "introducedAt": null,
-    "retiredAt": null,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Rose",
-    "isPost86": false,
-    "hex": "#FF007F",
-    "introducedAt": 1951,
-    "retiredAt": 1959,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Turf Green",
-    "isPost86": false,
-    "hex": "#87CEEB",
-    "introducedAt": 1969,
-    "retiredAt": 1972,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Turquoise",
-    "isPost86": false,
-    "hex": "#26A69A",
-    "introducedAt": 1938,
-    "retiredAt": 1969,
-    "category": "Countertop Accessories"
-  },
-  {
-    "shape": "Shaker",
-    "color": "Yellow",
-    "isPost86": false,
-    "hex": "#FFFF00",
-    "introducedAt": 1936,
-    "retiredAt": 1969,
-    "category": "Countertop Accessories"
-  },
-  {
     "shape": "Teapot & Lid, Two-Cup (Stickhandle) (Vintage)(NOP)",
     "color": "Ivory",
     "isPost86": false,
@@ -48934,13 +48893,16 @@
     "category": "Bowls"
   },
   {
-    "shape": "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)",
+    "shape": "Bowl, Heart - Medium (7 1/2\")",
     "color": "Jade",
     "isPost86": true,
     "hex": "#3C8C7E",
     "introducedAt": 2023,
     "retiredAt": null,
-    "category": "Bowls"
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Medium Heart Shaped (7 1/2\", 17 oz.)"
+    ]
   },
   {
     "shape": "Plate, Shell-Shaped (8 1/4\")",
@@ -51179,5 +51141,2284 @@
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Black",
+    "isPost86": true,
+    "hex": "#000000",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Rose",
+    "isPost86": true,
+    "hex": "#FF007F",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Apricot",
+    "isPost86": true,
+    "hex": "#FBCEB1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Cobalt",
+    "isPost86": true,
+    "hex": "#0047AB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Yellow",
+    "isPost86": true,
+    "hex": "#FFFF00",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Periwinkle Blue",
+    "isPost86": true,
+    "hex": "#CCCCFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Sea Mist",
+    "isPost86": true,
+    "hex": "#000000",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Lilac",
+    "isPost86": true,
+    "hex": "#C8A2C8",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Persimmon",
+    "isPost86": true,
+    "hex": "#EC5800",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Chartreuse",
+    "isPost86": true,
+    "hex": "#DFFF00",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Pearl Gray",
+    "isPost86": true,
+    "hex": "#C0C0C0",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Juniper",
+    "isPost86": true,
+    "hex": "#3C9D9B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Cinnabar",
+    "isPost86": true,
+    "hex": "#E34234",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Plum",
+    "isPost86": true,
+    "hex": "#8E4585",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Shamrock",
+    "isPost86": true,
+    "hex": "#00B45C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Tangerine",
+    "isPost86": true,
+    "hex": "#F28500",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Peacock",
+    "isPost86": true,
+    "hex": "#33A1C9",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Heather",
+    "isPost86": true,
+    "hex": "#B7AFA3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Evergreen",
+    "isPost86": true,
+    "hex": "#05472A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Ivory",
+    "isPost86": true,
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Chocolate",
+    "isPost86": true,
+    "hex": "#7B3F00",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Lemongrass",
+    "isPost86": true,
+    "hex": "#9DC209",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Paprika",
+    "isPost86": true,
+    "hex": "#8D0226",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Marigold",
+    "isPost86": true,
+    "hex": "#FCC200",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Flamingo",
+    "isPost86": true,
+    "hex": "#FC8EAC",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Poppy",
+    "isPost86": true,
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Slate",
+    "isPost86": true,
+    "hex": "#708090",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Sage",
+    "isPost86": true,
+    "hex": "#BCB88A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Claret",
+    "isPost86": true,
+    "hex": "#7F1734",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Foundry",
+    "isPost86": true,
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Mulberry",
+    "isPost86": true,
+    "hex": "#70193D",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Meadow",
+    "isPost86": true,
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Butterscotch",
+    "isPost86": true,
+    "hex": "#F5BD1F",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Twilight",
+    "isPost86": true,
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Pasta, Classic Rim (12\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Bistro - Large (Coupe)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Bistro - Large (9 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Bistro - Large (Coupe)",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Bistro - Large (9 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Bistro - Large (Coupe)",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Bistro - Large (9 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Bistro - Medium (Coupe)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Bistro - Medium (7 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Bistro - Medium (Coupe)",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Bistro - Medium (7 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Bistro - Medium (Coupe)",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Bistro - Medium (7 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Bistro - Small/Cereal (Coupe) (22 oz.)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Bistro - Small/Cereal (Coupe) (22 oz.)",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Bistro - Small/Cereal (Coupe) (22 oz.)",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Chowder",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Chowder (18 oz.)"
+    ]
+  },
+  {
+    "shape": "Bowl, Fruit (5 3/8\", 6 1/4 oz.)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Fruit (5 3/8\", 6 1/4 oz.)",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Fruit (5 3/8\", 6 1/4 oz.)",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Heart - Small (5 1/2\")",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Plate, Appetizer - Bistro Coupe (6 1/2\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "Shot Glass, Ceramic (1 1/2 oz.)",
+    "color": "Slate",
+    "isPost86": true,
+    "hex": "#708090",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Shot Glass, Ceramic (1 1/2 oz.)",
+    "color": "Butterscotch",
+    "isPost86": true,
+    "hex": "#F5BD1F",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Shot Glass, Ceramic (1 1/2 oz.)",
+    "color": "Mulberry",
+    "isPost86": true,
+    "hex": "#70193D",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Vase, Medium (9 5/8\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Medium (9 5/8\")",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Medium (9 5/8\")",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Small (8\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Small (8\")",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Small (8\")",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Small (8\")",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Bud (Vintage)",
+    "color": "Red 9",
+    "isPost86": false,
+    "hex": "#FF0000",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Bud (Vintage)",
+    "color": "Light Green",
+    "isPost86": false,
+    "hex": "#90EE90",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Bud (Vintage)",
+    "color": "Cobalt",
+    "isPost86": false,
+    "hex": "#0047AB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Bud (Vintage)",
+    "color": "Ivory",
+    "isPost86": false,
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Vase, Bud (Vintage)",
+    "color": "Turquoise",
+    "isPost86": false,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Tray, Egg (11 1/4\")",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
+  },
+  {
+    "shape": "Tray, Egg (11 1/4\")",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Round Egg Serving Platter 11 1/4\""
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Slate",
+    "isPost86": true,
+    "hex": "#708090",
+    "introducedAt": 2015.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Flamingo",
+    "isPost86": true,
+    "hex": "#FC8EAC",
+    "introducedAt": 2012.0,
+    "retiredAt": 2014.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Plum",
+    "isPost86": true,
+    "hex": "#8E4585",
+    "introducedAt": 2001.0,
+    "retiredAt": 2016.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2001.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Lemongrass",
+    "isPost86": true,
+    "hex": "#9DC209",
+    "introducedAt": 2009.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Persimmon",
+    "isPost86": true,
+    "hex": "#EC5800",
+    "introducedAt": 1995.0,
+    "retiredAt": 2008.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Marigold",
+    "isPost86": true,
+    "hex": "#FCC200",
+    "introducedAt": 2008.0,
+    "retiredAt": 2012.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Evergreen",
+    "isPost86": true,
+    "hex": "#05472A",
+    "introducedAt": 2007.0,
+    "retiredAt": 2010.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Twilight",
+    "isPost86": true,
+    "hex": "#8A496B",
+    "introducedAt": 2021.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2004.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Chocolate",
+    "isPost86": true,
+    "hex": "#7B3F00",
+    "introducedAt": 2008.0,
+    "retiredAt": 2012.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Shamrock",
+    "isPost86": true,
+    "hex": "#00B45C",
+    "introducedAt": 2002.0,
+    "retiredAt": 2021.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Mulberry",
+    "isPost86": true,
+    "hex": "#70193D",
+    "introducedAt": 2018.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Black",
+    "isPost86": true,
+    "hex": "#000000",
+    "introducedAt": 1986.0,
+    "retiredAt": 2015.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Butterscotch",
+    "isPost86": true,
+    "hex": "#F5BD1F",
+    "introducedAt": 2020.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Poppy",
+    "isPost86": true,
+    "hex": "#DC143C",
+    "introducedAt": 2014.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Sage",
+    "isPost86": true,
+    "hex": "#BCB88A",
+    "introducedAt": 2015.0,
+    "retiredAt": 2019.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Meadow",
+    "isPost86": true,
+    "hex": "#7BB661",
+    "introducedAt": 2019.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Peacock",
+    "isPost86": true,
+    "hex": "#33A1C9",
+    "introducedAt": 2005.0,
+    "retiredAt": 2015.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Cobalt",
+    "isPost86": true,
+    "hex": "#0047AB",
+    "introducedAt": 1986.0,
+    "retiredAt": 2021.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Paprika",
+    "isPost86": true,
+    "hex": "#8D0226",
+    "introducedAt": 2010.0,
+    "retiredAt": 2017.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Tangerine",
+    "isPost86": true,
+    "hex": "#F28500",
+    "introducedAt": 2003.0,
+    "retiredAt": 2018.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2013.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 1986.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Periwinkle Blue",
+    "isPost86": true,
+    "hex": "#CCCCFF",
+    "introducedAt": 1989.0,
+    "retiredAt": 2006.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 1988.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Foundry",
+    "isPost86": true,
+    "hex": "#5C5A5B",
+    "introducedAt": 2016.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Heather",
+    "isPost86": true,
+    "hex": "#B7AFA3",
+    "introducedAt": 2006.0,
+    "retiredAt": 2009.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Cinnabar",
+    "isPost86": true,
+    "hex": "#E34234",
+    "introducedAt": 2000.0,
+    "retiredAt": 2010.0,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Ivory",
+    "isPost86": true,
+    "hex": "#FFFFF0",
+    "introducedAt": 2008.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2017.0,
+    "retiredAt": null,
+    "category": "Bakeware",
+    "prior_shapes": [
+      "Baker, Square (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Black",
+    "isPost86": true,
+    "hex": "#000000",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Rose",
+    "isPost86": true,
+    "hex": "#FF007F",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Cobalt",
+    "isPost86": true,
+    "hex": "#0047AB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Periwinkle Blue",
+    "isPost86": true,
+    "hex": "#CCCCFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Sea Mist Green",
+    "isPost86": true,
+    "hex": "#B4CFCB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Persimmon",
+    "isPost86": true,
+    "hex": "#EC5800",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Cinnabar",
+    "isPost86": true,
+    "hex": "#E34234",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Plum",
+    "isPost86": true,
+    "hex": "#8E4585",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Shamrock",
+    "isPost86": true,
+    "hex": "#00B45C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Tangerine",
+    "isPost86": true,
+    "hex": "#F28500",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Peacock",
+    "isPost86": true,
+    "hex": "#33A1C9",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bistro Coupe 10 1/2\" Extra Large Bowl 96 OZ (a.k.a Betty)",
+    "color": "Heather",
+    "isPost86": true,
+    "hex": "#B7AFA3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shape": [
+      "Bowl, Betty"
+    ]
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Poppy",
+    "isPost86": true,
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Meadow",
+    "isPost86": true,
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Foundry",
+    "isPost86": true,
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Twilight",
+    "isPost86": true,
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Serving Extra-Large, Classic Rim (10 1/2\")",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Bowl, Serving, Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra-Large, Classic Rim (10 1/2\")",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Bowl, Serving, Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra-Large, Classic Rim (10 1/2\")",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Bowl, Serving, Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra-Large, Classic Rim (10 1/2\")",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Bowl, Serving, Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra-Large, Classic Rim (10 1/2\")",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Bowl, Serving, Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra-Large, Classic Rim (10 1/2\")",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Bowl, Serving, Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra-Large, Classic Rim (10 1/2\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Bowl, Serving, Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "Meadow",
+    "isPost86": true,
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "Foundry",
+    "isPost86": true,
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "Twilight",
+    "isPost86": true,
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Bowl, Small, Classic Rim (15 oz. 5 5/8\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "Poppy",
+    "isPost86": true,
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "Meadow",
+    "isPost86": true,
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "Twilight",
+    "isPost86": true,
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Stackable Cereal (6 1/2\", 11 oz.)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Canister, Medium Chevron 2 qt",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "2 Quart Medium Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Medium Chevron 2 qt",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "2 Quart Medium Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Medium Chevron 2 qt",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "2 Quart Medium Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Medium Chevron 2 qt",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "2 Quart Medium Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Medium Chevron 2 qt",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "2 Quart Medium Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Medium Chevron 2 qt",
+    "color": "Meadow",
+    "isPost86": true,
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "2 Quart Medium Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Medium Chevron 2 qt",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "2 Quart Medium Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Medium Chevron 2 qt",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shapes": [
+      "2 Quart Medium Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Small Chevron 1 qt",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "1 Quart Small Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Small Chevron 1 qt",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "1 Quart Small Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Small Chevron 1 qt",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "1 Quart Small Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Small Chevron 1 qt",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "1 Quart Small Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Small Chevron 1 qt",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "1 Quart Small Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Small Chevron 1 qt",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "1 Quart Small Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, Small Chevron 1 qt",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "1 Quart Small Chevron Canister"
+    ]
+  },
+  {
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "13 OZ Mini Canister 5 5/8\""
+    ]
+  },
+  {
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "13 OZ Mini Canister 5 5/8\""
+    ]
+  },
+  {
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "13 OZ Mini Canister 5 5/8\""
+    ]
+  },
+  {
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "13 OZ Mini Canister 5 5/8\""
+    ]
+  },
+  {
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "13 OZ Mini Canister 5 5/8\""
+    ]
+  },
+  {
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "13 OZ Mini Canister 5 5/8\""
+    ]
+  },
+  {
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories",
+    "prior_shape": [
+      "13 OZ Mini Canister 5 5/8\""
+    ]
+  },
+  {
+    "shape": "Crock, Utensil Chevron (7\")",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Crock, Utensil Chevron (7\")",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Crock, Utensil Chevron (7\")",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Crock, Utensil Chevron (7\")",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Crock, Utensil Chevron (7\")",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Crock, Utensil Chevron (7\")",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Crock, Utensil Chevron (7\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Extra Large Serving Bowl, Classic Rim (10 1/2\")",
+      "Extra Large Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+      "Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Extra Large Serving Bowl, Classic Rim (10 1/2\")",
+      "Extra Large Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+      "Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Extra Large Serving Bowl, Classic Rim (10 1/2\")",
+      "Extra Large Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+      "Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Extra Large Serving Bowl, Classic Rim (10 1/2\")",
+      "Extra Large Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+      "Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Extra Large Serving Bowl, Classic Rim (10 1/2\")",
+      "Extra Large Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+      "Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Extra Large Serving Bowl, Classic Rim (10 1/2\")",
+      "Extra Large Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+      "Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls",
+    "prior_shapes": [
+      "Extra Large Serving Bowl, Classic Rim (10 1/2\")",
+      "Extra Large Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")",
+      "Serving Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Poppy",
+    "isPost86": true,
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Meadow",
+    "isPost86": true,
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Foundry",
+    "isPost86": true,
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Twilight",
+    "isPost86": true,
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
+  },
+  {
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware",
+    "prior_shapes": [
+      "Large Serving Bowl 40 OZ, Classic Rim (8 1/4\")"
+    ]
   }
 ]
