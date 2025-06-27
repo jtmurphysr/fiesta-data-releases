@@ -54677,7 +54677,7 @@
     "hex": "#e9e0d3",
     "introducedAt": 2025.0,
     "retiredAt": null,
-    "category": "Bowls",
+    "category": "Plates",
     "prior_shapes": [
       "Bowl, Luncheon Bistro (8 1/2\") (Coupe)"
     ]
@@ -54689,7 +54689,7 @@
     "hex": "#87CEEB",
     "introducedAt": 2024,
     "retiredAt": null,
-    "category": "Bowls",
+    "category": "Plates",
     "prior_shapes": [
       "Bowl, Luncheon Bistro (8 1/2\") (Coupe)"
     ]
@@ -55161,5 +55161,410 @@
     "prior_shapes": [
       "Sugar Caddy"
     ]
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "Poppy",
+    "isPost86": true,
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "Twilight",
+    "isPost86": true,
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)",
+    "color": "Meadow",
+    "isPost86": true,
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Apricot",
+    "isPost86": true,
+    "hex": "#FBCEB1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Black",
+    "isPost86": true,
+    "hex": "#000000",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Butterscotch",
+    "isPost86": true,
+    "hex": "#F5BD1F",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Chartreuse",
+    "isPost86": true,
+    "hex": "#DFFF00",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Chocolate",
+    "isPost86": true,
+    "hex": "#7B3F00",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Cinnabar",
+    "isPost86": true,
+    "hex": "#E34234",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Claret",
+    "isPost86": true,
+    "hex": "#7F1734",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Cobalt",
+    "isPost86": true,
+    "hex": "#0047AB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Evergreen",
+    "isPost86": true,
+    "hex": "#05472A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Flamingo",
+    "isPost86": true,
+    "hex": "#FC8EAC",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Heather",
+    "isPost86": true,
+    "hex": "#B7AFA3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Ivory",
+    "isPost86": true,
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Juniper",
+    "isPost86": true,
+    "hex": "#3C9D9B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Lemongrass",
+    "isPost86": true,
+    "hex": "#9DC209",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Lilac",
+    "isPost86": true,
+    "hex": "#C8A2C8",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Marigold",
+    "isPost86": true,
+    "hex": "#FCC200",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Mulberry",
+    "isPost86": true,
+    "hex": "#70193D",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Paprika",
+    "isPost86": true,
+    "hex": "#8D0226",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Peacock",
+    "isPost86": true,
+    "hex": "#33A1C9",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Pearl Gray",
+    "isPost86": true,
+    "hex": "#C0C0C0",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Periwinkle Blue",
+    "isPost86": true,
+    "hex": "#CCCCFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Persimmon",
+    "isPost86": true,
+    "hex": "#EC5800",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Plum",
+    "isPost86": true,
+    "hex": "#8E4585",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Rose",
+    "isPost86": true,
+    "hex": "#FF007F",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Sage",
+    "isPost86": true,
+    "hex": "#BCB88A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Sapphire",
+    "isPost86": true,
+    "hex": "#0F52BA",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Sea Mist Green",
+    "isPost86": true,
+    "hex": "#B4CFCB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Shamrock",
+    "isPost86": true,
+    "hex": "#00B45C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Slate",
+    "isPost86": true,
+    "hex": "#708090",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Tangerine",
+    "isPost86": true,
+    "hex": "#F28500",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
+    "color": "Yellow",
+    "isPost86": true,
+    "hex": "#FFFF00",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Plate, Bowl - Dinner (10 1/4\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "Plate, Bowl - Dinner (10 1/4\")",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "Plate, Bowl - Dinner (10 1/4\")",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
   }
 ]
