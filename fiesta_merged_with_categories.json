@@ -21252,7 +21252,7 @@
   {
     "shape": "Platter, Oblong Handled (13 1/2\")(Nora Fleming Collaboration)",
     "isPost86": true,
-    "hex": "#33A1C9",
+    "hex": "#FFB6C1",
     "introducedAt": 2005.0,
     "retiredAt": 2015.0,
     "category": "Serveware",
@@ -48226,67 +48226,88 @@
     "category": "Countertop Accessories"
   },
   {
-    "shape": "Cup & Saucer (C handle)",
+    "shape": "Cup & Saucer (C handle)(Vintage)",
     "color": "Amberstone Brown",
     "isPost86": false,
     "hex": "#964B00",
     "introducedAt": 1967,
     "retiredAt": 1970,
-    "category": "Mugs, Cups & Saucers"
+    "category": "Mugs, Cups & Saucers",
+    "prior_shape": [
+      "Cup & Saucer (C handle)"
+    ]
   },
   {
-    "shape": "Cup & Saucer (C handle)",
+    "shape": "Cup & Saucer (C handle)(Vintage)",
     "color": "Antique Gold",
     "isPost86": false,
     "hex": "#D4AF37",
     "introducedAt": 1969,
     "retiredAt": 1972,
-    "category": "Mugs, Cups & Saucers"
+    "category": "Mugs, Cups & Saucers",
+    "prior_shape": [
+      "Cup & Saucer (C handle)"
+    ]
   },
   {
-    "shape": "Cup & Saucer (C handle)",
+    "shape": "Cup & Saucer (C handle)(Vintage)",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
     "introducedAt": 1959,
     "retiredAt": 1969,
-    "category": "Mugs, Cups & Saucers"
+    "category": "Mugs, Cups & Saucers",
+    "prior_shape": [
+      "Cup & Saucer (C handle)"
+    ]
   },
   {
-    "shape": "Cup & Saucer (C handle)",
+    "shape": "Cup & Saucer (C handle)(Vintage)",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
     "introducedAt": 1936,
     "retiredAt": null,
-    "category": "Mugs, Cups & Saucers"
+    "category": "Mugs, Cups & Saucers",
+    "prior_shape": [
+      "Cup & Saucer (C handle)"
+    ]
   },
   {
-    "shape": "Cup & Saucer (C handle)",
+    "shape": "Cup & Saucer (C handle)(Vintage)",
     "color": "Turf Green",
     "isPost86": false,
     "hex": "#87CEEB",
     "introducedAt": 1969,
     "retiredAt": 1972,
-    "category": "Mugs, Cups & Saucers"
+    "category": "Mugs, Cups & Saucers",
+    "prior_shape": [
+      "Cup & Saucer (C handle)"
+    ]
   },
   {
-    "shape": "Cup & Saucer (C handle)",
+    "shape": "Cup & Saucer (C handle)(Vintage)",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
     "introducedAt": 1938,
     "retiredAt": 1969,
-    "category": "Mugs, Cups & Saucers"
+    "category": "Mugs, Cups & Saucers",
+    "prior_shape": [
+      "Cup & Saucer (C handle)"
+    ]
   },
   {
-    "shape": "Cup & Saucer (C handle)",
+    "shape": "Cup & Saucer (C handle)(Vintage)",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
     "introducedAt": 1936,
     "retiredAt": 1969,
-    "category": "Mugs, Cups & Saucers"
+    "category": "Mugs, Cups & Saucers",
+    "prior_shape": [
+      "Cup & Saucer (C handle)"
+    ]
   },
   {
     "shape": "Cup & Saucer (ring handle)",
@@ -50635,7 +50656,7 @@
     "shape": "Saucer, Classic Rim (5 7/8\")",
     "color": "Peony",
     "isPost86": true,
-    "hex": "#87CEEB",
+    "hex": "#FFB6C1",
     "introducedAt": null,
     "retiredAt": null,
     "category": "Mugs, Cups & Saucers"
@@ -55566,5 +55587,14 @@
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Plates"
+  },
+  {
+    "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
+    "color": "Sapphire",
+    "isPost86": true,
+    "hex": "#0F52BA",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
   }
 ]
