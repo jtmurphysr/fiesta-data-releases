@@ -56130,5 +56130,77 @@
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Bowls"
+  },
+  {
+    "shape": "Spoon Rest",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Spoon Rest",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Spoon Rest",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Tray, Omni",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "Tray, Omni",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "Tray, Omni",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "Candleholder, Pyramid",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Candleholder, Pyramid",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
   }
 ]
