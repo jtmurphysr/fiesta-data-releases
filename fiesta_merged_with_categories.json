@@ -38606,13 +38606,16 @@
     "category": "Bakeware"
   },
   {
-    "shape": "Platter, Round (14\")",
+    "shape": "Platter, Round (14 3/4\")(Nora Fleming Collaboration)",
     "color": "Butterscotch",
     "isPost86": true,
     "hex": "#F5BD1F",
     "introducedAt": 2020.0,
     "retiredAt": null,
-    "category": "Serveware"
+    "category": "Serveware",
+    "prior_shapes": [
+      "Platter, Round (14\")"
+    ]
   },
   {
     "shape": "Ramekin (4\" 8oz.)",
