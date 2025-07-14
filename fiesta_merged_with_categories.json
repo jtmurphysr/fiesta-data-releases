@@ -1164,7 +1164,10 @@
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -2158,7 +2161,10 @@
     "hex": "#000000",
     "introducedAt": 1986.0,
     "retiredAt": 2015.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -3002,7 +3008,10 @@
     "hex": "#FF007F",
     "introducedAt": 1986.0,
     "retiredAt": 2005.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -4801,7 +4810,10 @@
     "hex": "#0047AB",
     "introducedAt": 1986.0,
     "retiredAt": 2021.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -7146,7 +7158,10 @@
     "hex": "#26A69A",
     "introducedAt": 1988.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -8068,7 +8083,10 @@
     "hex": "#CCCCFF",
     "introducedAt": 1989.0,
     "retiredAt": 2006.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -8852,7 +8870,10 @@
     "hex": "#B4CFCB",
     "introducedAt": 1991.0,
     "retiredAt": 2005.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -10072,7 +10093,10 @@
     "hex": "#EC5800",
     "introducedAt": 1995.0,
     "retiredAt": 2008.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -13233,7 +13257,10 @@
     "hex": "#E34234",
     "introducedAt": 2000.0,
     "retiredAt": 2010.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -14647,7 +14674,10 @@
     "hex": "#FFD700",
     "introducedAt": 2001.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -15743,7 +15773,10 @@
     "hex": "#8E4585",
     "introducedAt": 2001.0,
     "retiredAt": 2016.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -17004,7 +17037,10 @@
     "hex": "#00B45C",
     "introducedAt": 2002.0,
     "retiredAt": 2021.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -18247,7 +18283,10 @@
     "hex": "#F28500",
     "introducedAt": 2003.0,
     "retiredAt": 2018.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -19769,7 +19808,10 @@
     "hex": "#FF2400",
     "introducedAt": 2004.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -21039,7 +21081,10 @@
     "hex": "#33A1C9",
     "introducedAt": 2005.0,
     "retiredAt": 2015.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -21430,7 +21475,7 @@
     "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bakeware"
@@ -21439,7 +21484,7 @@
     "shape": "Bowl, Cereal (stacking, 6 1/2\", 11 oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21448,7 +21493,7 @@
     "shape": "Bowl, Cereal (straight, 5 5/8\", 14 1/4 oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21457,7 +21502,7 @@
     "shape": "Bowl, Chili (a.k.a. Jumbo)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls",
@@ -21469,7 +21514,7 @@
     "shape": "Bowl, Chowder",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls",
@@ -21481,7 +21526,7 @@
     "shape": "Bowl, Deep Oval Serving (a.k.a. Vegetable, 12 1/8\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21490,7 +21535,7 @@
     "shape": "Bowl, Divided",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21499,7 +21544,7 @@
     "shape": "Bowl, Extra Large (straight, 10 1/4\", 2 qt.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21508,7 +21553,7 @@
     "shape": "Bowl, Fruit (5 3/8\", 6 1/4 oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21517,7 +21562,7 @@
     "shape": "Bowl, Gusto (28 oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls",
@@ -21529,7 +21574,7 @@
     "shape": "Bowl, Hostess",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21538,7 +21583,7 @@
     "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls",
@@ -21550,7 +21595,7 @@
     "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21559,7 +21604,7 @@
     "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21568,7 +21613,7 @@
     "shape": "Bowl, Oval Vegetable (10 1/4\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21577,7 +21622,7 @@
     "shape": "Bowl, Pasta (13\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21586,7 +21631,7 @@
     "shape": "Bowl, Pedestal",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21595,7 +21640,7 @@
     "shape": "Bowl, Presentation",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21604,7 +21649,7 @@
     "shape": "Bowl, Soup, Classic Rim (9\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls",
@@ -21616,7 +21661,7 @@
     "shape": "Bowl, Serving (straight, 8 1/4\", 40 oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21625,7 +21670,7 @@
     "shape": "Bowl, Soup (straight, 6 7/8\", 19 oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21634,7 +21679,7 @@
     "shape": "Butter, Covered (Vintage)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories"
@@ -21643,7 +21688,7 @@
     "shape": "Candleholder, Pyramid",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Other"
@@ -21652,7 +21697,7 @@
     "shape": "Candleholder, Round (a.k.a P86 Bulb)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Other",
@@ -21664,7 +21709,7 @@
     "shape": "Canister, Large (9 3/4\", 3 qt.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories"
@@ -21673,7 +21718,7 @@
     "shape": "Canister, Medium (8 1/2\", 2 qt.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories"
@@ -21682,7 +21727,7 @@
     "shape": "Canister, Small (7 3/8\", 1 qt.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories"
@@ -21691,7 +21736,7 @@
     "shape": "Carafe",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Pitchers, Teapots & Vases"
@@ -21700,7 +21745,7 @@
     "shape": "Casserole & Lid",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bakeware"
@@ -21709,7 +21754,7 @@
     "shape": "Casserole, Individual Oval",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bakeware"
@@ -21718,7 +21763,7 @@
     "shape": "Creamer, Individual",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories"
@@ -21727,7 +21772,7 @@
     "shape": "Cup & Saucer, AD (ring handle)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Mugs, Cups & Saucers"
@@ -21736,7 +21781,7 @@
     "shape": "Bowl, Bouillon (7 oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bowls"
@@ -21745,7 +21790,7 @@
     "shape": "Mug, Jumbo",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Mugs, Cups & Saucers",
@@ -21757,7 +21802,7 @@
     "shape": "Mug, Cappuccino",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Mugs, Cups & Saucers"
@@ -21766,7 +21811,7 @@
     "shape": "Mug, Java (12 oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Mugs, Cups & Saucers"
@@ -21775,7 +21820,7 @@
     "shape": "Mug, Pedestal",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Mugs, Cups & Saucers"
@@ -21784,7 +21829,7 @@
     "shape": "Plate, Ornament-Shaped (8 3/4\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Plates"
@@ -21793,7 +21838,7 @@
     "shape": "Pie Baker (10 1/4\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bakeware"
@@ -21802,7 +21847,7 @@
     "shape": "Pie Plate, Medium (8 1/4\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bakeware"
@@ -21811,7 +21856,7 @@
     "shape": "Pie Plate, Small (6 3/8\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bakeware"
@@ -21820,7 +21865,7 @@
     "shape": "Pitcher, Large Disk (7 1/4\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Pitchers, Teapots & Vases"
@@ -21829,7 +21874,7 @@
     "shape": "Pitcher, Mini Disk (3 1/4\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Pitchers, Teapots & Vases"
@@ -21838,7 +21883,7 @@
     "shape": "Pitcher, Small Disk (5 1/2\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Pitchers, Teapots & Vases"
@@ -21847,7 +21892,7 @@
     "shape": "Flower Pot with Base",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Other"
@@ -21856,7 +21901,7 @@
     "shape": "Plate, Appetizer - Classic Rim",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Plates"
@@ -21865,7 +21910,7 @@
     "shape": "Plate, Chop (11 3/4\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Plates"
@@ -21874,7 +21919,7 @@
     "shape": "Plate, Dinner - Classic Rim (10\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Plates"
@@ -21883,7 +21928,7 @@
     "shape": "Plate, Luncheon - Classic Rim (9\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Plates"
@@ -21892,7 +21937,7 @@
     "shape": "Plate, Salad, Classic Rim (7 1/4\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Plates"
@@ -21901,7 +21946,7 @@
     "shape": "Plate, Welled Snack",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Plates"
@@ -21910,7 +21955,7 @@
     "shape": "Platter, Oval - Large (13 5/8\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Serveware"
@@ -21919,7 +21964,7 @@
     "shape": "Platter, Oval - Medium (11 5/8\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Serveware"
@@ -21928,7 +21973,7 @@
     "shape": "Platter, Oval - Small (9 5/8\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Serveware"
@@ -21937,16 +21982,19 @@
     "shape": "Ramekin (4\" 8oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Serveware",
@@ -21958,7 +22006,7 @@
     "shape": "Shakers, Rangetop (pair)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories"
@@ -21967,7 +22015,7 @@
     "shape": "Shakers, Salt and Pepper (pair)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories",
@@ -21979,7 +22027,7 @@
     "shape": "Spoon Rest",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories"
@@ -21988,7 +22036,7 @@
     "shape": "Sugar, Individual (P86)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories"
@@ -21997,7 +22045,7 @@
     "shape": "4-Piece Sugar Bowl and Creamer Set with Figure-8 Tray",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories",
@@ -22010,7 +22058,7 @@
     "shape": "Teapot, 2 Cup (5 1/8\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Pitchers, Teapots & Vases"
@@ -22019,7 +22067,7 @@
     "shape": "Crock, Tool (6 1/2\" x 5\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories",
@@ -22031,7 +22079,7 @@
     "shape": "Crock, Tool Large (8 3/4\" x 6 1/2\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories",
@@ -22043,7 +22091,7 @@
     "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Serveware",
@@ -22055,7 +22103,7 @@
     "shape": "Tray, Egg (11 1/4\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Serveware",
@@ -22067,7 +22115,7 @@
     "shape": "Tray, Hostess",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Serveware"
@@ -22076,7 +22124,7 @@
     "shape": "Tray, Round Serving (15\") (a.k.a Pizza Large)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Serveware"
@@ -22085,7 +22133,7 @@
     "shape": "Tray, Round Serving (12\") (a.k.a. Pizza Small)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Serveware"
@@ -22094,7 +22142,7 @@
     "shape": "Tray, Utility (a.k.a. Relish/Corncob Tray)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories"
@@ -22103,7 +22151,7 @@
     "shape": "Trivet",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Other"
@@ -22112,7 +22160,7 @@
     "shape": "Tumbler",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Other"
@@ -22121,7 +22169,7 @@
     "shape": "Vase, Bud",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Pitchers, Teapots & Vases"
@@ -22130,7 +22178,7 @@
     "shape": "Vase, Medium (9 5/8\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Pitchers, Teapots & Vases"
@@ -22139,7 +22187,7 @@
     "shape": "Vase, Small (8\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Pitchers, Teapots & Vases"
@@ -22148,7 +22196,7 @@
     "shape": "Vase, Monarch",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Pitchers, Teapots & Vases"
@@ -22157,7 +22205,7 @@
     "shape": "Vase, Royalty",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Pitchers, Teapots & Vases"
@@ -22751,7 +22799,10 @@
     "hex": "#05472A",
     "introducedAt": 2007.0,
     "retiredAt": 2010.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -23865,7 +23916,10 @@
     "hex": "#FFFFF0",
     "introducedAt": 2008.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -24886,7 +24940,10 @@
     "hex": "#FCC200",
     "introducedAt": 2008.0,
     "retiredAt": 2012.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -25730,7 +25787,10 @@
     "hex": "#7B3F00",
     "introducedAt": 2008.0,
     "retiredAt": 2012.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Shakers, Rangetop (pair)",
@@ -26937,7 +26997,10 @@
     "hex": "#9DC209",
     "introducedAt": 2009.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -28105,7 +28168,10 @@
     "hex": "#8D0226",
     "introducedAt": 2010.0,
     "retiredAt": 2017.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -29075,7 +29141,10 @@
     "hex": "#FC8EAC",
     "introducedAt": 2012.0,
     "retiredAt": 2014.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -30348,7 +30417,10 @@
     "hex": "#26619C",
     "introducedAt": 2013.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -31594,7 +31666,10 @@
     "hex": "#DC143C",
     "introducedAt": 2014.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -32723,7 +32798,10 @@
     "hex": "#708090",
     "introducedAt": 2015.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -33681,7 +33759,10 @@
     "hex": "#BCB88A",
     "introducedAt": 2015.0,
     "retiredAt": 2019.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -34027,7 +34108,10 @@
     "hex": "#5C5A5B",
     "introducedAt": 2016.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Skillet, Individual",
@@ -34675,7 +34759,10 @@
     "hex": "#7F1734",
     "introducedAt": 2016.0,
     "retiredAt": 2018.0,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Sauceboat, Gravy (18 1/2 oz.)",
@@ -35684,7 +35771,10 @@
     "hex": "#FFFF31",
     "introducedAt": 2017.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -36684,7 +36774,10 @@
     "hex": "#70193D",
     "introducedAt": 2018.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -37657,7 +37750,10 @@
     "hex": "#7BB661",
     "introducedAt": 2019.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -38624,7 +38720,10 @@
     "hex": "#F5BD1F",
     "introducedAt": 2020.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -39555,7 +39654,10 @@
     "hex": "#8A496B",
     "introducedAt": 2021.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -40168,7 +40270,10 @@
     "hex": "#FFB6C1",
     "introducedAt": 2022.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Ramekin, Heart (4 1/2\", 7 oz.)",
@@ -47212,7 +47317,10 @@
     "hex": "#87CEEB",
     "introducedAt": 2024.0,
     "retiredAt": null,
-    "category": "Bakeware"
+    "category": "Bakeware",
+    "prior_shapes": [
+      "8 OZ Ramekin 4\""
+    ]
   },
   {
     "shape": "Casserole, Individual Oval",
@@ -49262,7 +49370,7 @@
     "shape": "Plate, Calendar (ELHSAA)(10\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2008.0,
     "retiredAt": 2008.0,
     "category": "Other"
@@ -49963,7 +50071,7 @@
     "introducedAt": 1992,
     "retiredAt": 2013,
     "category": "Countertop Accessories",
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "color": "Heather"
   },
   {
@@ -50465,7 +50573,7 @@
     "shape": "Saucer, Classic Rim (5 7/8\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#87CEEB",
+    "hex": "#A484AC",
     "introducedAt": null,
     "retiredAt": null,
     "category": "Mugs, Cups & Saucers"
@@ -50960,7 +51068,7 @@
     "shape": "Bowl, Pasta, Classic Rim (12\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Bowls"
@@ -51824,7 +51932,7 @@
     "shape": "Baker, Square (9\" x 9\")(2 Qt.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Bakeware",
@@ -53135,7 +53243,7 @@
     "shape": "Cup, Classic C-Handle (a.k.a Tea Cup)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Mugs, Cups & Saucers",
@@ -53772,7 +53880,7 @@
     "shape": "Saucer, Jumbo",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Mugs, Cups & Saucers"
@@ -54315,7 +54423,7 @@
     "shape": "Teapot Ring-handle",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Pitchers, Teapots & Vases",
@@ -54687,7 +54795,7 @@
     "shape": "Bowl, Bistro - Extra Large (10 1/2\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Bowls",
@@ -55040,7 +55148,7 @@
     "shape": "Sugar Packet Holder (Caddy)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2006.0,
     "retiredAt": 2009.0,
     "category": "Countertop Accessories",
@@ -55385,7 +55493,7 @@
     "shape": "Mug, Classic Ring Handle (10 1/4 oz.)",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Mugs, Cups & Saucers"
@@ -56021,7 +56129,7 @@
     "shape": "Bowl, Cereal, Classic Rim 6 7/8\")",
     "color": "Heather",
     "isPost86": true,
-    "hex": "#B7AFA3",
+    "hex": "#A484AC",
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Bowls"
@@ -56259,5 +56367,32 @@
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Other"
+  },
+  {
+    "shape": "Platter, Oval - Small (9 5/8\")",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "Casserole, Individual Oval",
+    "color": "Rose",
+    "isPost86": true,
+    "hex": "#FF007F",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bakeware"
+  },
+  {
+    "shape": "Tray, Square Handled Serving",
+    "color": "Ivory",
+    "isPost86": true,
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
   }
 ]
