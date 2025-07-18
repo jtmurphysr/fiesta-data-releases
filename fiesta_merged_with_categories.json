@@ -56394,5 +56394,320 @@
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Serveware"
+  },
+  {
+    "shape": "Covered Box 4 5/8\" x 3 3/4\"",
+    "color": "Cobalt",
+    "isPost86": true,
+    "hex": "#0047AB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Covered Box 4 5/8\" x 3 3/4\"",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Shakers, Salt and Pepper (pair)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Shot Glass, Ceramic (1 1/2 oz.)",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Pitcher, Mini Disk (3 1/4\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Pitcher, Small Disk (5 1/2\")",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Carafe",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "Sugar, Individual (P86)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Canister, Large Chevron 3 qt",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2022.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Canister, Large Chevron 3 qt",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Canister, Large Chevron 3 qt",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Canister, Large Chevron 3 qt",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Canister, Large Chevron 3 qt",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Canister, Large Chevron 3 qt",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Canister, Large Chevron 3 qt",
+    "color": "Poppy",
+    "isPost86": true,
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Canister, Large Chevron 3 qt",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Canister, Large Chevron 3 qt",
+    "color": "Twilight",
+    "isPost86": true,
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Canister, Large Chevron 3 qt",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Candleholder, Round (a.k.a P86 Bulb)",
+    "color": "Ivory",
+    "isPost86": true,
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Mug, Pint",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2024.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Pint",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Pint",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Pint",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Pint",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Pint",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Pint",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Mug, Pint",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "2-piece Dip Set",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2020.0,
+    "retiredAt": 2024.0,
+    "category": "Serveware"
+  },
+  {
+    "shape": "2-piece Dip Set",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "2-piece Dip Set",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "2-piece Dip Set",
+    "color": "Lemongrass",
+    "isPost86": true,
+    "hex": "#9DC209",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "2-piece Dip Set",
+    "color": "Lapis",
+    "isPost86": true,
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "Bowl, Presentation",
+    "color": "Linen",
+    "isPost86": true,
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
+    "color": "Turquoise",
+    "isPost86": true,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
   }
 ]
