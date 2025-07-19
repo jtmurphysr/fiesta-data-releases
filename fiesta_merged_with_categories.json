@@ -40746,13 +40746,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Red 9",
     "isPost86": false,
     "hex": "#FF0000",
     "introducedAt": 1936,
     "retiredAt": null,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -41502,13 +41505,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Yellow",
     "isPost86": false,
     "hex": "#FFFF00",
     "introducedAt": 1936,
     "retiredAt": 1969,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -42146,13 +42152,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Light Green",
     "isPost86": false,
     "hex": "#90EE90",
     "introducedAt": 1936,
     "retiredAt": 1951,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -42812,13 +42821,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Cobalt",
     "isPost86": false,
     "hex": "#0047AB",
     "introducedAt": 1936,
     "retiredAt": 1951,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -43451,13 +43463,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Ivory",
     "isPost86": false,
     "hex": "#FFFFF0",
     "introducedAt": 1936,
     "retiredAt": 1951,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -44050,13 +44065,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Turquoise",
     "isPost86": false,
     "hex": "#26A69A",
     "introducedAt": 1938,
     "retiredAt": 1969,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -44411,13 +44429,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Rose",
     "isPost86": false,
     "hex": "#FF007F",
     "introducedAt": 1951,
     "retiredAt": 1959,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -44682,13 +44703,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Chartreuse",
     "isPost86": false,
     "hex": "#DFFF00",
     "introducedAt": 1951,
     "retiredAt": 1959,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -44953,13 +44977,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Forest Green",
     "isPost86": false,
     "hex": "#228B22",
     "introducedAt": 1951,
     "retiredAt": 1959,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -45242,13 +45269,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Gray",
     "isPost86": false,
     "hex": "#808080",
     "introducedAt": 1951,
     "retiredAt": 1959,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -45543,13 +45573,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Medium Green",
     "isPost86": false,
     "hex": "#3CB371",
     "introducedAt": 1959,
     "retiredAt": 1969,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -45784,13 +45817,16 @@
     "category": "Pitchers, Teapots & Vases"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Maroon",
     "isPost86": false,
     "hex": "#800000",
     "introducedAt": null,
     "retiredAt": null,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 9\" (9 7/16\") (Vintage)",
@@ -46370,13 +46406,16 @@
     "category": "Other"
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Antique Gold",
     "isPost86": false,
     "hex": "#D4AF37",
     "introducedAt": 1969,
     "retiredAt": 1972,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -46747,13 +46786,16 @@
     ]
   },
   {
-    "shape": "Pitcher, Water (7 1/2\") (Vintage)",
+    "shape": "Pitcher, Disk (a.k.a. Water) (7 1/2\") (Vintage)",
     "color": "Amberstone Brown",
     "isPost86": false,
     "hex": "#964B00",
     "introducedAt": 1967,
     "retiredAt": 1970,
-    "category": "Pitchers, Teapots & Vases"
+    "category": "Pitchers, Teapots & Vases",
+    "prior_shapes": [
+      "Pitcher, Water (7 1/2\") (Vintage)"
+    ]
   },
   {
     "shape": "Plate, 6\" (6 5/16\") (Vintage)",
@@ -56709,5 +56751,230 @@
     "introducedAt": 2025.0,
     "retiredAt": null,
     "category": "Serveware"
+  },
+  {
+    "shape": "Plate, Bistro Coupe (9\")",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "Bowl, Gusto (28 oz.)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Plate, Snowflake-shaped (9\")",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "Plate, Mini Dinner Magnet (3\")",
+    "color": "Mulberry",
+    "isPost86": true,
+    "hex": "#70193D",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Plate, Mini Dinner Magnet (3\")",
+    "color": "Butterscotch",
+    "isPost86": true,
+    "hex": "#F5BD1F",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Plate, Mini Dinner Magnet (3\")",
+    "color": "Lemongrass",
+    "isPost86": true,
+    "hex": "#9DC209",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "shape": "Teapot C-Handle",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Pitchers, Teapots & Vases"
+  },
+  {
+    "shape": "SKULL AND VINE Embossed Plate",
+    "color": "White",
+    "isPost86": true,
+    "hex": "#FFFFFF",
+    "introducedAt": 2022.0,
+    "retiredAt": 2024.0,
+    "category": "Plates"
+  },
+  {
+    "shape": "SKULL AND VINE Embossed Plate",
+    "color": "Sunflower",
+    "isPost86": true,
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "SKULL AND VINE Embossed Plate",
+    "color": "Scarlet",
+    "isPost86": true,
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "SKULL AND VINE Embossed Plate",
+    "color": "Poppy",
+    "isPost86": true,
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "SKULL AND VINE Embossed Plate",
+    "color": "Daffodil",
+    "isPost86": true,
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "Platter, Oblong Serving (11 7/8\")(a.k.a bread tray)",
+    "color": "Peony",
+    "isPost86": true,
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "Plate, Bowl - Dinner (10 1/4\")",
+    "color": "Foundry",
+    "isPost86": true,
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "Tray, Omni",
+    "color": "Twilight",
+    "isPost86": true,
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Serveware"
+  },
+  {
+    "shape": "Plate, Bowl - Luncheon  (8 1/2\")",
+    "color": "Foundry",
+    "isPost86": true,
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Plates"
+  },
+  {
+    "shape": "Mug, Stackable (16 oz.)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Bowl, Cereal (straight, 5 5/8\", 14 1/4 oz.)",
+    "color": "Jade",
+    "isPost86": true,
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Bowl, Cereal (straight, 5 5/8\", 14 1/4 oz.)",
+    "color": "Sky",
+    "isPost86": true,
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Bowls"
+  },
+  {
+    "shape": "Tray, Utility (Vintage)",
+    "color": "Yellow",
+    "isPost86": false,
+    "hex": "#FFFF00",
+    "introducedAt": 1936.0,
+    "retiredAt": 1946.0,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Tray, Utility (Vintage)",
+    "color": "Cobalt Blue",
+    "isPost86": false,
+    "hex": "#0047AB",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Tray, Utility (Vintage)",
+    "color": "Ivory",
+    "isPost86": false,
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Tray, Utility (Vintage)",
+    "color": "Light Green",
+    "isPost86": false,
+    "hex": "#90EE90",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Tray, Utility (Vintage)",
+    "color": "Red 9",
+    "isPost86": false,
+    "hex": "#FF0000",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
+  },
+  {
+    "shape": "Tray, Utility (Vintage)",
+    "color": "Turquoise",
+    "isPost86": false,
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "retiredAt": null,
+    "category": "Countertop Accessories"
   }
 ]
