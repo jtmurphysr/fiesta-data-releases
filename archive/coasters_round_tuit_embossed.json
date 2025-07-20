@@ -1,0 +1,56 @@
+[
+  {
+    "shape": "Coaster, Round Tuit (Embossed)",
+    "color": "Aqua",
+    "isPost86": true,
+    "hex": "#00FFFF",
+    "introducedAt": 2023.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Coaster, Round Tuit (Embossed)",
+    "color": "Citrus",
+    "isPost86": true,
+    "hex": "#E4D00A",
+    "introducedAt": 2023.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Coaster, Round Tuit (Embossed)",
+    "color": "Gray",
+    "isPost86": true,
+    "hex": "#A9A9A9",
+    "introducedAt": 2023.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Coaster, Round Tuit (Embossed)",
+    "color": "Foundry",
+    "isPost86": true,
+    "hex": "#2F2F2F",
+    "introducedAt": 2023.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Coaster, Round Tuit (Embossed)",
+    "color": "Natural",
+    "isPost86": true,
+    "hex": "#D9CBB5",
+    "introducedAt": 2023.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  },
+  {
+    "shape": "Coaster, Round Tuit (Embossed)",
+    "color": "Pink",
+    "isPost86": true,
+    "hex": "#FFC0CB",
+    "introducedAt": 2023.0,
+    "retiredAt": null,
+    "category": "Mugs, Cups & Saucers"
+  }
+]

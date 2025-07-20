@@ -1,0 +1,38 @@
+action,shape,original_value,new_value
+Update Category,Oblong Serving Platter (Bread Tray),Other,Serveware
+Update Category,"Jar, Jam",Other,Countertop Accessories
+Rename Shape,"Medium Heart Bowl - 7 1/2"" (17 oz.)","Medium Heart Bowl - 7 1/2"" (17 oz.)","Bowl, Medium Heart Shaped (7 1/2"", 17 oz.)"
+Rename Shape,"Bowl, Heart - Medium (7 1/2"")","Bowl, Heart - Medium (7 1/2"")","Bowl, Medium Heart Shaped (7 1/2"", 17 oz.)"
+Rename Shape,"Box, Square & Lid","Box, Square & Lid","Covered Box 4 5/8"" x 3 3/4"""
+Rename Shape,"2-Piece Chip and Dip Set 12 7/8""","2-Piece Chip and Dip Set 12 7/8""",2-Piece Chip and Dip Set
+Rename Shape,Chip & Dip Set,Chip & Dip Set,2-Piece Chip and Dip Set
+Rename Shape,"Tray, Round Serving","Tray, Round Serving","Tray, Round Serving (a.k.a. Handled Cake Plate)"
+Add Prior Shape,"Platter, Oval (12 5/8"") (Vintage)",,"Platter, Oval (12 5/8"")"
+Add Prior Shape,"Platter, Oval (12 5/8"") (Vintage)",,"Platter, Oval Large"
+Remove Shape,"Platter, Oval (12 5/8"")",Serveware,Deleted
+Remove Shape,"Platter, Oval Large",Serveware,Deleted
+Add Shape,"Platter, Round Baking and Serving (12"")",,White
+Add Shape,"Platter, Round Baking and Serving (12"")",,Scarlet
+Add Shape,"Platter, Round Baking and Serving (12"")",,Daffodil
+Add Shape,"Platter, Round Baking and Serving (12"")",,Turquoise
+Add Shape,"Platter, Round Baking and Serving (12"")",,Lapis
+Add Shape,"Platter, Round Baking and Serving (12"")",,Foundry
+Add Shape,"Platter, Round Baking and Serving (12"")",,Peony
+Add Shape,"Platter, Round Baking and Serving (12"")",,Jade
+Add Shape,"Platter, Round Baking and Serving (15"")",,White
+Add Shape,"Platter, Round Baking and Serving (15"")",,Black
+Add Shape,"Platter, Round Baking and Serving (15"")",,Rose
+Add Shape,"Platter, Round Baking and Serving (15"")",,Apricot
+Add Shape,"Platter, Round Baking and Serving (15"")",,Cobalt
+Add Shape,"Platter, Round Baking and Serving (15"")",,Yellow
+Add Shape,"Platter, Round Baking and Serving (15"")",,Turquoise
+Add Shape,"Platter, Round Baking and Serving (15"")",,Periwinkle
+Add Shape,"Platter, Round Baking and Serving (15"")",,Sea Mist
+Add Shape,"Platter, Round Baking and Serving (15"")",,Persimmon
+Add Shape,"Platter, Round Baking and Serving (15"")",,Sapphire
+Add Shape,"Platter, Round Baking and Serving (15"")",,Cinnabar
+Add Shape,"Platter, Round Baking and Serving (15"")",,Sunflower
+Add Shape,"Platter, Round Baking and Serving (15"")",,Lilac
+Add Shape,"Platter, Round Baking and Serving (15"")",,Chartreuse
+Add Shape,"Platter, Round Baking and Serving (15"")",,Pearl Gray
+Add Shape,"Platter, Round Baking and Serving (15"")",,Juniper

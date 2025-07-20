@@ -1,0 +1,33 @@
+
+
+
+#see values with exact match
+jq '.[].shape | select(contains("Tumbler"))' fiesta_merged_with_categories.json
+#exact match
+jq '.[] | select(.shape == "Bowl, Pasta")' your_file.json 
+#contains
+jq '.[] | select(.shape | contains("Pasta"))' your_file.json
+#exact OR contains
+jq '.[] | select(.shape == "Bowl, Pasta" or (.shape | contains("Pasta")))' your_file.json
+#case insensitive
+jq '.[] | select((.shape | ascii_downcase) | contains("pasta"))' your_file.json
+#change with exact match
+jq 'map(if .shape == "Tree-Shaped Plate - 10 1/8\"" then .shape = "Plate, Tree" else . end)' your_file.json > updated_file.json
+#remeove exact match
+jq 'map(select(.field != "value"))' input.json > output.json
+#retrieve values for a certain key
+jq '.[].shape' fiesta_merged_with_categories.json | sort | uniq
+#match with AND
+jq '.[] | select(.shape == "Plate, Bulb" and .color == "Plate")' fiesta_merged_with_categories.json
+#insert record
+jq '. += [
+{
+  "shape": "Plate, Bulb",
+  "color": "Jade",
+  "isPost86": true,
+  "hex": "#3C8C7E",
+  "introducedAt": 2021.0,
+  "retiredAt": null,
+  "category": "Plates"
+}
+]' fiesta_merged_with_categories.json > updated_file.json && mv updated_file.json fiesta_merged_with_categories.json

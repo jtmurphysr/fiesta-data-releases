@@ -1,0 +1,27 @@
+Phase,Task,Status
+Beta 22 Finalization,Merge image inventory feature into main,✅
+Beta 22 Finalization,Final Beta 22 testing and release to beta users,✅
+Beta 22 Finalization,Monitor beta feedback for any critical issues,⬜
+Production Polish,Remove all beta branding and 'Beta' references,⬜
+Production Polish,Clean up developer menu (remove enableResetAndImport flag),⬜
+Production Polish,Update version to 1.0.0 for production,⬜
+Production Polish,Remove development logging and debug features,⬜
+Production Polish,Final code cleanup and optimization,⬜
+Production Polish,Lock and version all external data sources,⬜
+Production Polish,Validate local DB schema and migrations,⬜
+Production Polish,Review analytics/debug logging for prod safety,⬜
+Production Polish,Audit all feature flags and developer menus,⬜
+App Store Preparation,"Create app store screenshots (iPhone, iPad, Android)",⬜
+App Store Preparation,Write app store descriptions and keywords,⬜
+App Store Preparation,Prepare app icons for all required sizes,⬜
+App Store Preparation,Create privacy policy and terms of service,⬜
+App Store Preparation,Build production app bundles,⬜
+App Store Preparation,Verify iOS permission strings and declarations,⬜
+App Store Preparation,Validate trademark compliance for Fiesta references,⬜
+Store Submission,Submit to iOS App Store (7–14 day review),⬜
+Store Submission,Submit to Google Play Store (1–3 day review),⬜
+Store Submission,Prepare marketing materials and launch announcement,⬜
+Store Submission,Final testing on production builds,⬜
+Launch,Apps go live in stores,⬜
+Launch,Launch announcement,⬜
+Launch,Monitor for any launch issues,⬜
