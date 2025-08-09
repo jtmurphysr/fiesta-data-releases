@@ -285,10 +285,11 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -297,7 +298,10 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -306,7 +310,10 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -1651,10 +1658,11 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2015.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -2567,10 +2575,11 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2005.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -2579,7 +2588,10 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "retiredAt": 2005.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -2588,7 +2600,10 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "retiredAt": 2005.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -4012,10 +4027,11 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2021.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -4024,7 +4040,10 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "retiredAt": 2021.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -4033,7 +4052,10 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "retiredAt": 2021.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -5270,10 +5292,11 @@
     "introducedAt": 1987.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2002.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -5282,7 +5305,10 @@
     "introducedAt": 1987.0,
     "isPost86": true,
     "retiredAt": 2002.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -5291,7 +5317,10 @@
     "introducedAt": 1987.0,
     "isPost86": true,
     "retiredAt": 2002.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -6195,10 +6224,11 @@
     "introducedAt": 1988.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -6207,7 +6237,10 @@
     "introducedAt": 1988.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -6216,7 +6249,10 @@
     "introducedAt": 1988.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -7615,10 +7651,11 @@
     "introducedAt": 1989.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2006.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -7627,7 +7664,10 @@
     "introducedAt": 1989.0,
     "isPost86": true,
     "retiredAt": 2006.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -7636,7 +7676,10 @@
     "introducedAt": 1989.0,
     "isPost86": true,
     "retiredAt": 2006.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -8417,10 +8460,11 @@
     "introducedAt": 1991.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2005.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -8429,7 +8473,10 @@
     "introducedAt": 1991.0,
     "isPost86": true,
     "retiredAt": 2005.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -8438,7 +8485,10 @@
     "introducedAt": 1991.0,
     "isPost86": true,
     "retiredAt": 2005.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -9592,10 +9642,11 @@
     "introducedAt": 1995.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2008.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -9604,7 +9655,10 @@
     "introducedAt": 1995.0,
     "isPost86": true,
     "retiredAt": 2008.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -9613,7 +9667,10 @@
     "introducedAt": 1995.0,
     "isPost86": true,
     "retiredAt": 2008.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -10376,7 +10433,10 @@
     "introducedAt": 1996.0,
     "isPost86": true,
     "retiredAt": 1997.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -10719,10 +10779,11 @@
     "introducedAt": 1997.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 1999.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -10731,7 +10792,10 @@
     "introducedAt": 1997.0,
     "isPost86": true,
     "retiredAt": 1999.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -10740,7 +10804,10 @@
     "introducedAt": 1997.0,
     "isPost86": true,
     "retiredAt": 1999.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -11359,10 +11426,11 @@
     "introducedAt": 1998.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2001.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -11371,7 +11439,10 @@
     "introducedAt": 1998.0,
     "isPost86": true,
     "retiredAt": 2001.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -11380,7 +11451,10 @@
     "introducedAt": 1998.0,
     "isPost86": true,
     "retiredAt": 2001.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -12059,10 +12133,11 @@
     "introducedAt": 1999.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2001.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -12071,7 +12146,10 @@
     "introducedAt": 1999.0,
     "isPost86": true,
     "retiredAt": 2001.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -12080,7 +12158,10 @@
     "introducedAt": 1999.0,
     "isPost86": true,
     "retiredAt": 2001.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -12762,10 +12843,11 @@
     "introducedAt": 2000.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2010.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -12774,7 +12856,10 @@
     "introducedAt": 2000.0,
     "isPost86": true,
     "retiredAt": 2010.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -12783,7 +12868,10 @@
     "introducedAt": 2000.0,
     "isPost86": true,
     "retiredAt": 2010.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -13777,10 +13865,11 @@
     "introducedAt": 2001.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -13789,7 +13878,10 @@
     "introducedAt": 2001.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -13798,7 +13890,10 @@
     "introducedAt": 2001.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -15245,10 +15340,11 @@
     "introducedAt": 2001.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2016.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -15257,7 +15353,10 @@
     "introducedAt": 2001.0,
     "isPost86": true,
     "retiredAt": 2016.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -15266,7 +15365,10 @@
     "introducedAt": 2001.0,
     "isPost86": true,
     "retiredAt": 2016.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -16305,10 +16407,11 @@
     "introducedAt": 2002.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2021.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -16317,7 +16420,10 @@
     "introducedAt": 2002.0,
     "isPost86": true,
     "retiredAt": 2021.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -16326,7 +16432,10 @@
     "introducedAt": 2002.0,
     "isPost86": true,
     "retiredAt": 2021.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -17581,10 +17690,11 @@
     "introducedAt": 2003.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2018.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -17593,7 +17703,10 @@
     "introducedAt": 2003.0,
     "isPost86": true,
     "retiredAt": 2018.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -17602,7 +17715,10 @@
     "introducedAt": 2003.0,
     "isPost86": true,
     "retiredAt": 2018.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -18944,10 +19060,11 @@
     "introducedAt": 2004.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -18956,7 +19073,10 @@
     "introducedAt": 2004.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -18965,7 +19085,10 @@
     "introducedAt": 2004.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -20424,10 +20547,11 @@
     "introducedAt": 2005.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2015.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -20436,7 +20560,10 @@
     "introducedAt": 2005.0,
     "isPost86": true,
     "retiredAt": 2015.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -20445,7 +20572,10 @@
     "introducedAt": 2005.0,
     "isPost86": true,
     "retiredAt": 2015.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -21541,10 +21671,11 @@
     "introducedAt": 2006.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2009.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -21553,7 +21684,10 @@
     "introducedAt": 2006.0,
     "isPost86": true,
     "retiredAt": 2009.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -21562,7 +21696,10 @@
     "introducedAt": 2006.0,
     "isPost86": true,
     "retiredAt": 2009.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -22325,10 +22462,11 @@
     "introducedAt": 2007.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2010.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -22337,7 +22475,10 @@
     "introducedAt": 2007.0,
     "isPost86": true,
     "retiredAt": 2010.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -22346,7 +22487,10 @@
     "introducedAt": 2007.0,
     "isPost86": true,
     "retiredAt": 2010.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -23256,10 +23400,11 @@
     "introducedAt": 2008.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -23268,7 +23413,10 @@
     "introducedAt": 2008.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -23277,7 +23425,10 @@
     "introducedAt": 2008.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -24355,10 +24506,11 @@
     "introducedAt": 2008.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2012.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -25343,10 +25495,11 @@
     "introducedAt": 2008.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2012.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -26151,10 +26304,11 @@
     "introducedAt": 2009.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -26163,7 +26317,10 @@
     "introducedAt": 2009.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -27568,10 +27725,11 @@
     "introducedAt": 2010.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2017.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -28589,10 +28747,11 @@
     "introducedAt": 2012.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2014.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -29616,10 +29775,11 @@
     "introducedAt": 2013.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -30925,10 +31085,11 @@
     "introducedAt": 2014.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -32162,10 +32323,11 @@
     "introducedAt": 2015.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -36096,10 +36258,11 @@
     "introducedAt": 2018.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -37087,10 +37250,11 @@
     "introducedAt": 2019.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -38051,10 +38215,11 @@
     "introducedAt": 2020.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -39009,10 +39174,11 @@
     "introducedAt": 2021.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -56201,7 +56367,10 @@
     "introducedAt": 2025.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Other",
@@ -56543,10 +56712,11 @@
     "introducedAt": 2006.0,
     "isPost86": true,
     "prior_shapes": [
-      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23"
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) 23",
+      "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
     ],
     "retiredAt": 2009.0,
-    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Large (flared, 9 1/2\", 70 oz.)"
   },
   {
     "category": "Bowls",
@@ -56555,7 +56725,10 @@
     "introducedAt": 2006.0,
     "isPost86": true,
     "retiredAt": 2009.0,
-    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -56564,7 +56737,10 @@
     "introducedAt": 2006.0,
     "isPost86": true,
     "retiredAt": 2009.0,
-    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)",
+    "prior_shapes": [
+      "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.) (Vintage)"
+    ]
   },
   {
     "category": "Bowls",
@@ -59392,5 +59568,479 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Spoon Rest (Extra Large)"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "prior_shape": [
+      "13 OZ Mini Canister 5 5/8\""
+    ],
+    "retiredAt": null,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Jar, Jam"
+  },
+  {
+    "category": "Other",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Trivet"
+  },
+  {
+    "category": "Plates",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Ornament-Shaped (8 3/4\")"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "prior_shape": [
+      "1 Quart Small Chevron Canister"
+    ],
+    "retiredAt": null,
+    "shape": "Canister, Small Chevron 1 qt"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, Medium Chevron 2 qt"
+  },
+  {
+    "category": "Bowls",
+    "color": "Foundry",
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Salad Bistro (6 3/4\") (Coupe)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Peony",
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)"
+  },
+  {
+    "category": "Plates",
+    "color": "Twilight",
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Snowflake-shaped (9\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Soup, Classic Rim (9\")"
+  },
+  {
+    "category": "Other",
+    "color": "Peony",
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Flower Pot (3 1/2\")"
+  },
+  {
+    "category": "Other",
+    "color": "Sky",
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Flower Pot (3 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Black",
+    "hex": "#000000",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Rose",
+    "hex": "#FF007F",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Cobalt Blue",
+    "hex": "#0047AB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Yellow",
+    "hex": "#FFFF00",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Periwinkle Blue",
+    "hex": "#CCCCFF",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Sea Mist Green",
+    "hex": "#B4CFCB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Persimmon",
+    "hex": "#EC5800",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Chartreuse",
+    "hex": "#DFFF00",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Pearl Gray",
+    "hex": "#C0C0C0",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Juniper",
+    "hex": "#3C9D9B",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Cinnabar",
+    "hex": "#E34234",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Sunflower",
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Plum",
+    "hex": "#8E4585",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Shamrock",
+    "hex": "#00B45C",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Peacock",
+    "hex": "#33A1C9",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Heather",
+    "hex": "#B7AFA3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Evergreen",
+    "hex": "#05472A",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Ivory",
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Chocolate",
+    "hex": "#7B3F00",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Lemongrass",
+    "hex": "#9DC209",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Paprika",
+    "hex": "#8D0226",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Marigold",
+    "hex": "#FCC200",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Flamingo",
+    "hex": "#FC8EAC",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Poppy",
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Slate",
+    "hex": "#708090",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Sage",
+    "hex": "#BCB88A",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Claret",
+    "hex": "#7F1734",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Mulberry",
+    "hex": "#70193D",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Meadow",
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Butterscotch",
+    "hex": "#F5BD1F",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Twilight",
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Extra Large Classic Rim (10 1/2\")"
+  },
+  {
+    "category": "Pitchers, Teapots & Vases",
+    "color": "Butterscotch",
+    "hex": "#F5BD1F",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Vase, Monarch"
+  },
+  {
+    "category": "Pitchers, Teapots & Vases",
+    "color": "Meadow",
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Vase, Monarch"
+  },
+  {
+    "category": "Pitchers, Teapots & Vases",
+    "color": "Meadow",
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Vase, Royalty"
+  },
+  {
+    "category": "Pitchers, Teapots & Vases",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Vase, Millenium I"
+  },
+  {
+    "category": "Other",
+    "color": "Ivory",
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Covered Box 4 5/8\" x 3 3/4\""
+  },
+  {
+    "category": "Bowls",
+    "color": "Flamingo",
+    "hex": "#FC8EAC",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mixing - Medium (flared, 8 1/2\", 60 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Flamingo",
+    "hex": "#FC8EAC",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)"
   }
 ]
