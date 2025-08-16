@@ -49234,7 +49234,7 @@
   },
   {
     "category": "Serveware",
-    "color": "Periwinkle",
+    "color": "Periwinkle Blue",
     "hex": "#000000",
     "introducedAt": 1997,
     "isPost86": true,
@@ -49243,7 +49243,7 @@
   },
   {
     "category": "Serveware",
-    "color": "Sea Mist",
+    "color": "Sea Mist Green",
     "hex": "#000000",
     "introducedAt": 1991,
     "isPost86": true,
@@ -49987,7 +49987,7 @@
   },
   {
     "category": "Countertop Accessories",
-    "color": "Periwinkle",
+    "color": "Periwinkle Blue",
     "hex": "#CCCCFF",
     "introducedAt": 1992,
     "isPost86": true,
@@ -49996,7 +49996,7 @@
   },
   {
     "category": "Countertop Accessories",
-    "color": "Sea Mist",
+    "color": "Sea Mist Green",
     "hex": "#B4CFCB",
     "introducedAt": 1992,
     "isPost86": true,
@@ -50482,7 +50482,7 @@
   },
   {
     "category": "Mugs, Cups & Saucers",
-    "color": "Periwinkle",
+    "color": "Periwinkle Blue",
     "hex": "#87CEEB",
     "introducedAt": null,
     "isPost86": true,
@@ -50491,7 +50491,7 @@
   },
   {
     "category": "Mugs, Cups & Saucers",
-    "color": "Sea Mist",
+    "color": "Sea Mist Green",
     "hex": "#87CEEB",
     "introducedAt": null,
     "isPost86": true,
@@ -50995,7 +50995,7 @@
   },
   {
     "category": "Bowls",
-    "color": "Sea Mist",
+    "color": "Sea Mist Green",
     "hex": "#000000",
     "introducedAt": 2025.0,
     "isPost86": true,
@@ -60042,5 +60042,131 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Bowl, Mixing - Small (flared, 7 1/2\", 44 oz.)"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Sky",
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Baker, Rectangular (14 1/2\" x 10 3/4\")"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Baker, Square (9\" x 9\")(2 Qt.)"
+  },
+  {
+    "category": "Mugs, Cups & Saucers",
+    "color": "Apricot",
+    "hex": "#FBCEB1",
+    "introducedAt": 2025.0,
+    "isPost86": false,
+    "retiredAt": null,
+    "shape": "Cup & Saucer, AD (Demitasse)(Vintage)"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Forest Green",
+    "hex": "#228B22",
+    "introducedAt": 2025.0,
+    "isPost86": false,
+    "retiredAt": null,
+    "shape": "Casserole, French & Lid (Vintage)"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Rose",
+    "hex": "#FF007F",
+    "introducedAt": 2025.0,
+    "isPost86": false,
+    "retiredAt": null,
+    "shape": "Casserole, French & Lid (Vintage)"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Butterscotch",
+    "hex": "#F5BD1F",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, Medium Chevron 2 qt"
+  },
+  {
+    "category": "Other",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Flower Pot (3 1/2\")"
+  },
+  {
+    "category": "Plates",
+    "color": "Sky",
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Tree"
+  },
+  {
+    "category": "Plates",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Tree"
+  },
+  {
+    "category": "Plates",
+    "color": "Peony",
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Tree"
+  },
+  {
+    "category": "Mugs, Cups & Saucers",
+    "color": "Plum",
+    "hex": "#8E4585",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Mug, Square"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Ramekin (4\" 8oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Peony",
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Bouillon (7 oz.)"
+  },
+  {
+    "category": "Other",
+    "color": "Lapis",
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Serveware, Ceramic Handled Gravy Ladle"
   }
 ]
