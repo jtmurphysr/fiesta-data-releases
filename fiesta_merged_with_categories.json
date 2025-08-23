@@ -685,15 +685,6 @@
     "shape": "Jar, Cookie - Dancing Lady"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "White",
-    "hex": "#FFFFFF",
-    "introducedAt": 1986.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Other",
     "color": "White",
     "hex": "#FFFFFF",
@@ -931,7 +922,10 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -1899,15 +1893,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Black",
-    "hex": "#000000",
-    "introducedAt": 1986.0,
-    "isPost86": true,
-    "retiredAt": 2015.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Other",
     "color": "Black",
     "hex": "#000000",
@@ -2085,7 +2070,10 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "retiredAt": 2015.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -4391,15 +4379,6 @@
     "shape": "Goblet (6 3/4\")"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Cobalt",
-    "hex": "#0047AB",
-    "introducedAt": 1986.0,
-    "isPost86": true,
-    "retiredAt": 2021.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Other",
     "color": "Cobalt",
     "hex": "#0047AB",
@@ -4655,7 +4634,10 @@
     "introducedAt": 1986.0,
     "isPost86": true,
     "retiredAt": 2021.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -6678,15 +6660,6 @@
     "shape": "Jar, Cookie - Dancing Lady"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Turquoise",
-    "hex": "#26A69A",
-    "introducedAt": 1988.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Other",
     "color": "Turquoise",
     "hex": "#26A69A",
@@ -6969,7 +6942,10 @@
     "introducedAt": 1988.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -13108,15 +13084,6 @@
     "shape": "Goblet (6 3/4\")"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Cinnabar",
-    "hex": "#E34234",
-    "introducedAt": 2000.0,
-    "isPost86": true,
-    "retiredAt": 2010.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Cinnabar",
     "hex": "#E34234",
@@ -14301,15 +14268,6 @@
     "shape": "Jar, Cookie - Dancing Lady"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Sunflower",
-    "hex": "#FFD700",
-    "introducedAt": 2001.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Sunflower",
     "hex": "#FFD700",
@@ -14556,7 +14514,10 @@
     "introducedAt": 2001.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -15587,15 +15548,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Plum",
-    "hex": "#8E4585",
-    "introducedAt": 2001.0,
-    "isPost86": true,
-    "retiredAt": 2016.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Plum",
     "hex": "#8E4585",
@@ -15764,7 +15716,10 @@
     "introducedAt": 2001.0,
     "isPost86": true,
     "retiredAt": 2016.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -16708,15 +16663,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Shamrock",
-    "hex": "#00B45C",
-    "introducedAt": 2002.0,
-    "isPost86": true,
-    "retiredAt": 2021.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Shamrock",
     "hex": "#00B45C",
@@ -16945,7 +16891,10 @@
     "introducedAt": 2002.0,
     "isPost86": true,
     "retiredAt": 2021.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -18009,15 +17958,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Tangerine",
-    "hex": "#F28500",
-    "introducedAt": 2003.0,
-    "isPost86": true,
-    "retiredAt": 2018.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Tangerine",
     "hex": "#F28500",
@@ -18213,7 +18153,10 @@
     "introducedAt": 2003.0,
     "isPost86": true,
     "retiredAt": 2018.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -19424,15 +19367,6 @@
     "shape": "Jar, Cookie - Dancing Lady"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Scarlet",
-    "hex": "#FF2400",
-    "introducedAt": 2004.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Other",
     "color": "Scarlet",
     "hex": "#FF2400",
@@ -19697,7 +19631,10 @@
     "introducedAt": 2004.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -20857,15 +20794,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Peacock",
-    "hex": "#33A1C9",
-    "introducedAt": 2005.0,
-    "isPost86": true,
-    "retiredAt": 2015.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Peacock",
     "hex": "#33A1C9",
@@ -21052,7 +20980,10 @@
     "introducedAt": 2005.0,
     "isPost86": true,
     "retiredAt": 2015.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -23689,15 +23620,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Ivory",
-    "hex": "#FFFFF0",
-    "introducedAt": 2008.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Ivory",
     "hex": "#FFFFF0",
@@ -23866,7 +23788,10 @@
     "introducedAt": 2008.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -24780,15 +24705,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Marigold",
-    "hex": "#FCC200",
-    "introducedAt": 2008.0,
-    "isPost86": true,
-    "retiredAt": 2012.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Marigold",
     "hex": "#FCC200",
@@ -24930,7 +24846,10 @@
     "introducedAt": 2008.0,
     "isPost86": true,
     "retiredAt": 2012.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -25679,15 +25598,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Chocolate",
-    "hex": "#7B3F00",
-    "introducedAt": 2008.0,
-    "isPost86": true,
-    "retiredAt": 2012.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Chocolate",
     "hex": "#7B3F00",
@@ -25784,7 +25694,10 @@
     "introducedAt": 2008.0,
     "isPost86": true,
     "retiredAt": 2012.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -26671,15 +26584,6 @@
     "shape": "Jar, Cookie - Dancing Lady"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Lemongrass",
-    "hex": "#9DC209",
-    "introducedAt": 2009.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Other",
     "color": "Lemongrass",
     "hex": "#9DC209",
@@ -26908,7 +26812,10 @@
     "introducedAt": 2009.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -27972,15 +27879,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Paprika",
-    "hex": "#8D0226",
-    "introducedAt": 2010.0,
-    "isPost86": true,
-    "retiredAt": 2017.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Paprika",
     "hex": "#8D0226",
@@ -28131,7 +28029,10 @@
     "introducedAt": 2010.0,
     "isPost86": true,
     "retiredAt": 2017.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -28994,15 +28895,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Flamingo",
-    "hex": "#FC8EAC",
-    "introducedAt": 2012.0,
-    "isPost86": true,
-    "retiredAt": 2014.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Flamingo",
     "hex": "#FC8EAC",
@@ -29126,7 +29018,10 @@
     "introducedAt": 2012.0,
     "isPost86": true,
     "retiredAt": 2014.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -30085,15 +29980,6 @@
     "shape": "Jar, Cookie - Dancing Lady"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Lapis",
-    "hex": "#26619C",
-    "introducedAt": 2013.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Other",
     "color": "Lapis",
     "hex": "#26619C",
@@ -30295,7 +30181,10 @@
     "introducedAt": 2013.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -31377,15 +31266,6 @@
     "shape": "Jar, Cookie - Dancing Lady"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Poppy",
-    "hex": "#DC143C",
-    "introducedAt": 2014.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Other",
     "color": "Poppy",
     "hex": "#DC143C",
@@ -31587,7 +31467,10 @@
     "introducedAt": 2014.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -32543,15 +32426,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Slate",
-    "hex": "#708090",
-    "introducedAt": 2015.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Slate",
     "hex": "#708090",
@@ -32735,7 +32609,10 @@
     "introducedAt": 2015.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -33552,15 +33429,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Sage",
-    "hex": "#BCB88A",
-    "introducedAt": 2015.0,
-    "isPost86": true,
-    "retiredAt": 2019.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Sage",
     "hex": "#BCB88A",
@@ -33702,7 +33570,10 @@
     "introducedAt": 2015.0,
     "isPost86": true,
     "retiredAt": 2019.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -34582,15 +34453,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Claret",
-    "hex": "#7F1734",
-    "introducedAt": 2016.0,
-    "isPost86": true,
-    "retiredAt": 2018.0,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Claret",
     "hex": "#7F1734",
@@ -34696,7 +34558,10 @@
     "introducedAt": 2016.0,
     "isPost86": true,
     "retiredAt": 2018.0,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -35468,15 +35333,6 @@
     "shape": "Flower Pot (3 1/2\")"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Daffodil",
-    "hex": "#FFFF31",
-    "introducedAt": 2017.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Other",
     "color": "Daffodil",
     "hex": "#FFFF31",
@@ -35660,7 +35516,10 @@
     "introducedAt": 2017.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -36496,15 +36355,6 @@
     "shape": "Flower Pot (3 1/2\")"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Mulberry",
-    "hex": "#70193D",
-    "introducedAt": 2018.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Other",
     "color": "Mulberry",
     "hex": "#70193D",
@@ -36661,7 +36511,10 @@
     "introducedAt": 2018.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -37488,15 +37341,6 @@
     "shape": "Jar, Cookie - Dancing Lady"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Meadow",
-    "hex": "#7BB661",
-    "introducedAt": 2019.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Meadow",
     "hex": "#7BB661",
@@ -37635,7 +37479,10 @@
     "introducedAt": 2019.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -38453,15 +38300,6 @@
     "shape": "Jar, Cookie - Dancing Lady"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Butterscotch",
-    "hex": "#F5BD1F",
-    "introducedAt": 2020.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Butterscotch",
     "hex": "#F5BD1F",
@@ -38600,7 +38438,10 @@
     "introducedAt": 2020.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -39358,15 +39199,6 @@
     "shape": "Mug, Jumbo"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Twilight",
-    "hex": "#8A496B",
-    "introducedAt": 2021.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Twilight",
     "hex": "#8A496B",
@@ -39517,7 +39349,10 @@
     "introducedAt": 2021.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -40220,7 +40055,10 @@
     "introducedAt": 2022.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -46635,7 +46473,7 @@
   {
     "category": "Plates",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969,
     "isPost86": false,
     "retiredAt": 1972,
@@ -46644,7 +46482,7 @@
   {
     "category": "Plates",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969,
     "isPost86": false,
     "retiredAt": 1972,
@@ -46653,7 +46491,7 @@
   {
     "category": "Serveware",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969.0,
     "isPost86": false,
     "prior_shapes": [
@@ -46666,7 +46504,7 @@
   {
     "category": "Serveware",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969,
     "isPost86": false,
     "retiredAt": 1972,
@@ -46675,7 +46513,7 @@
   {
     "category": "Countertop Accessories",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969.0,
     "isPost86": false,
     "prior_shapes": [
@@ -46687,7 +46525,7 @@
   {
     "category": "Bowls",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969.0,
     "isPost86": false,
     "retiredAt": 1972.0,
@@ -46696,7 +46534,7 @@
   {
     "category": "Bowls",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969.0,
     "isPost86": false,
     "retiredAt": 1972.0,
@@ -46705,7 +46543,7 @@
   {
     "category": "Bowls",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969.0,
     "isPost86": false,
     "retiredAt": 1972.0,
@@ -46714,7 +46552,7 @@
   {
     "category": "Pitchers, Teapots & Vases",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969.0,
     "isPost86": false,
     "retiredAt": 1972.0,
@@ -46723,7 +46561,7 @@
   {
     "category": "Mugs, Cups & Saucers",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969.0,
     "isPost86": false,
     "retiredAt": 1972.0,
@@ -46732,7 +46570,7 @@
   {
     "category": "Serveware",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969,
     "isPost86": false,
     "retiredAt": 1972,
@@ -46741,7 +46579,7 @@
   {
     "category": "Countertop Accessories",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969.0,
     "isPost86": false,
     "retiredAt": 1972.0,
@@ -47145,7 +46983,10 @@
       "13 OZ Mini Canister 5 5/8\""
     ],
     "retiredAt": null,
-    "shape": "Canister, mini 13 oz (aka Jam Jar)"
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
   },
   {
     "category": "Mugs, Cups & Saucers",
@@ -47423,7 +47264,10 @@
     "introducedAt": 2024.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -47835,7 +47679,10 @@
     "introducedAt": 2025.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Plates",
@@ -48410,7 +48257,7 @@
   {
     "category": "Mugs, Cups & Saucers",
     "color": "Turf Green",
-    "hex": "#87CEEB",
+    "hex": "#3E6B4C",
     "introducedAt": 1969,
     "isPost86": false,
     "prior_shape": [
@@ -48838,8 +48685,8 @@
   },
   {
     "category": "Plates",
-    "color": "Jade",
-    "hex": "#3C8C7E",
+    "color": "Lapis",
+    "hex": "#26619C",
     "introducedAt": 2023,
     "isPost86": true,
     "retiredAt": null,
@@ -52587,7 +52434,10 @@
       "13 OZ Mini Canister 5 5/8\""
     ],
     "retiredAt": null,
-    "shape": "Canister, mini 13 oz (aka Jam Jar)"
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
   },
   {
     "category": "Countertop Accessories",
@@ -52599,7 +52449,10 @@
       "13 OZ Mini Canister 5 5/8\""
     ],
     "retiredAt": null,
-    "shape": "Canister, mini 13 oz (aka Jam Jar)"
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
   },
   {
     "category": "Countertop Accessories",
@@ -52611,7 +52464,10 @@
       "13 OZ Mini Canister 5 5/8\""
     ],
     "retiredAt": null,
-    "shape": "Canister, mini 13 oz (aka Jam Jar)"
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
   },
   {
     "category": "Countertop Accessories",
@@ -52623,7 +52479,10 @@
       "13 OZ Mini Canister 5 5/8\""
     ],
     "retiredAt": null,
-    "shape": "Canister, mini 13 oz (aka Jam Jar)"
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
   },
   {
     "category": "Countertop Accessories",
@@ -52635,7 +52494,10 @@
       "13 OZ Mini Canister 5 5/8\""
     ],
     "retiredAt": null,
-    "shape": "Canister, mini 13 oz (aka Jam Jar)"
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
   },
   {
     "category": "Countertop Accessories",
@@ -52647,7 +52509,10 @@
       "13 OZ Mini Canister 5 5/8\""
     ],
     "retiredAt": null,
-    "shape": "Canister, mini 13 oz (aka Jam Jar)"
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
   },
   {
     "category": "Countertop Accessories",
@@ -52659,7 +52524,10 @@
       "13 OZ Mini Canister 5 5/8\""
     ],
     "retiredAt": null,
-    "shape": "Canister, mini 13 oz (aka Jam Jar)"
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
   },
   {
     "category": "Countertop Accessories",
@@ -58226,7 +58094,10 @@
     "introducedAt": 2025.0,
     "isPost86": true,
     "retiredAt": null,
-    "shape": "Plate, Bistro Coupe (9\")"
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
   },
   {
     "category": "Bowls",
@@ -58524,15 +58395,6 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Trivet"
-  },
-  {
-    "category": "Countertop Accessories",
-    "color": "Peony",
-    "hex": "#FFB6C1",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
   },
   {
     "category": "Bakeware",
@@ -59579,16 +59441,10 @@
       "13 OZ Mini Canister 5 5/8\""
     ],
     "retiredAt": null,
-    "shape": "Canister, mini 13 oz (aka Jam Jar)"
-  },
-  {
-    "category": "Countertop Accessories",
-    "color": "Linen",
-    "hex": "#e9e0d3",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Jar, Jam"
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
   },
   {
     "category": "Other",
@@ -60168,5 +60024,545 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Serveware, Ceramic Handled Gravy Ladle"
+  },
+  {
+    "category": "Bowls",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Bouillon (7 oz.)"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Crock, Utensil Chevron (7\")"
+  },
+  {
+    "category": "Plates",
+    "color": "Plum",
+    "hex": "#8E4585",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Square Salad (7 1/2\")"
+  },
+  {
+    "category": "Plates",
+    "color": "Plum",
+    "hex": "#8E4585",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Square Luncheon (9 1/4\")"
+  },
+  {
+    "category": "Plates",
+    "color": "Plum",
+    "hex": "#8E4585",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Square Dinner (10 3/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Foundry",
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Casserole, Individual Oval"
+  },
+  {
+    "category": "Bowls",
+    "color": "Sunflower",
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Persimmon",
+    "hex": "#EC5800",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Small, Classic Rim (5 5/8\")"
+  },
+  {
+    "category": "Other",
+    "color": "Turquoise",
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Serveware, Ceramic Handled Serving Spoon"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Poppy",
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Casserole, Small Covered & Lid (a.k.a. Tortilla Warmer)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Platter, Oval - Large (13 5/8\")"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Yellow",
+    "hex": "#FFFF00",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, Large (9 3/4\", 3 qt.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Marigold",
+    "hex": "#FCC200",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Lemongrass",
+    "hex": "#9DC209",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Tangerine",
+    "hex": "#F28500",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Paprika",
+    "hex": "#8D0226",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Plum",
+    "hex": "#8E4585",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Mulberry",
+    "hex": "#70193D",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Chartreuse",
+    "hex": "#DFFF00",
+    "introducedAt": 2025.0,
+    "isPost86": false,
+    "retiredAt": null,
+    "shape": "Casserole, French & Lid (Vintage)"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Red 9",
+    "hex": "#FF0000",
+    "introducedAt": 2025.0,
+    "isPost86": false,
+    "retiredAt": null,
+    "shape": "Casserole, French & Lid (Vintage)"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Poppy",
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "prior_shape": [
+      "1 Quart Small Chevron Canister"
+    ],
+    "retiredAt": null,
+    "shape": "Canister, Small Chevron 1 qt"
+  },
+  {
+    "category": "Bowls",
+    "color": "Mulberry",
+    "hex": "#70193D",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Salad Bistro (6 3/4\") (Coupe)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Lemongrass",
+    "hex": "#9DC209",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Salad Bistro (6 3/4\") (Coupe)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Butterscotch",
+    "hex": "#F5BD1F",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Salad Bistro (6 3/4\") (Coupe)"
+  },
+  {
+    "category": "Plates",
+    "color": "Foundry",
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Luncheon - Bistro (Coupe) (9\")",
+    "prior_shapes": [
+      "Plate, Bistro Coupe (9\")"
+    ]
+  },
+  {
+    "category": "Bakeware",
+    "color": "Peony",
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Casserole, Small Covered & Lid (a.k.a. Tortilla Warmer)"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Slate",
+    "hex": "#708090",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Casserole, Small Covered & Lid (a.k.a. Tortilla Warmer)"
+  },
+  {
+    "category": "Plates",
+    "color": "Sky",
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Ornament-Shaped (8 3/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Peony",
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, 5\" Footed (a.k.a. Small Rice)"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Tangerine",
+    "hex": "#F28500",
+    "introducedAt": 2003.0,
+    "isPost86": true,
+    "retiredAt": 2018.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Plum",
+    "hex": "#8E4585",
+    "introducedAt": 2001.0,
+    "isPost86": true,
+    "retiredAt": 2016.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Cinnabar",
+    "hex": "#E34234",
+    "introducedAt": 2000.0,
+    "isPost86": true,
+    "retiredAt": 2010.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Black",
+    "hex": "#000000",
+    "introducedAt": 1986.0,
+    "isPost86": true,
+    "retiredAt": 2015.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Meadow",
+    "hex": "#7BB661",
+    "introducedAt": 2019.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Peacock",
+    "hex": "#33A1C9",
+    "introducedAt": 2005.0,
+    "isPost86": true,
+    "retiredAt": 2015.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Claret",
+    "hex": "#7F1734",
+    "introducedAt": 2016.0,
+    "isPost86": true,
+    "retiredAt": 2018.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Sage",
+    "hex": "#BCB88A",
+    "introducedAt": 2015.0,
+    "isPost86": true,
+    "retiredAt": 2019.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Flamingo",
+    "hex": "#FC8EAC",
+    "introducedAt": 2012.0,
+    "isPost86": true,
+    "retiredAt": 2014.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Lemongrass",
+    "hex": "#9DC209",
+    "introducedAt": 2009.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Shamrock",
+    "hex": "#00B45C",
+    "introducedAt": 2002.0,
+    "isPost86": true,
+    "retiredAt": 2021.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Ivory",
+    "hex": "#FFFFF0",
+    "introducedAt": 2008.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Butterscotch",
+    "hex": "#F5BD1F",
+    "introducedAt": 2020.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Marigold",
+    "hex": "#FCC200",
+    "introducedAt": 2008.0,
+    "isPost86": true,
+    "retiredAt": 2012.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Mulberry",
+    "hex": "#70193D",
+    "introducedAt": 2018.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Slate",
+    "hex": "#708090",
+    "introducedAt": 2015.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Paprika",
+    "hex": "#8D0226",
+    "introducedAt": 2010.0,
+    "isPost86": true,
+    "retiredAt": 2017.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Poppy",
+    "hex": "#DC143C",
+    "introducedAt": 2014.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Sunflower",
+    "hex": "#FFD700",
+    "introducedAt": 2001.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Chocolate",
+    "hex": "#7B3F00",
+    "introducedAt": 2008.0,
+    "isPost86": true,
+    "retiredAt": 2012.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Twilight",
+    "hex": "#8A496B",
+    "introducedAt": 2021.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Cobalt",
+    "hex": "#0047AB",
+    "introducedAt": 1986.0,
+    "isPost86": true,
+    "retiredAt": 2021.0,
+    "shape": "Canister, mini 13 oz (aka Jam Jar)",
+    "prior_shapes": [
+      "Jar, Jam"
+    ]
   }
 ]
