@@ -60564,5 +60564,41 @@
     "prior_shapes": [
       "Jar, Jam"
     ]
+  },
+  {
+    "category": "Bowls",
+    "color": "Plum",
+    "hex": "#8E4585",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Bistro - Small/Cereal (Coupe) (22 oz.)"
+  },
+  {
+    "category": "Other",
+    "color": "Peony",
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Coaster, Logo"
+  },
+  {
+    "category": "Other",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Coaster, Logo"
+  },
+  {
+    "category": "Other",
+    "color": "Sky",
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Coaster, Logo"
   }
 ]
