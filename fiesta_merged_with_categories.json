@@ -60600,5 +60600,266 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Coaster, Logo"
+  },
+  {
+    "category": "Serveware",
+    "color": "Ivory",
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "2-Piece Chip and Dip Set"
+  },
+  {
+    "category": "Bowls",
+    "color": "Sky",
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, 6\" Footed (a.k.a. Rice)"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Ramekin (4\" 8oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Cereal (straight, 5 5/8\", 14 1/4 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Pasta Individual, Classic Rim (8 3/8\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Black",
+    "hex": "#000000",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Rose",
+    "hex": "#FF007F",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Apricot",
+    "hex": "#FBCEB1",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Cobalt Blue",
+    "hex": "#0047AB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Yellow",
+    "hex": "#FFFF00",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Periwinkle Blue",
+    "hex": "#CCCCFF",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Sea Mist Green",
+    "hex": "#B4CFCB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Lilac",
+    "hex": "#C8A2C8",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Persimmon",
+    "hex": "#EC5800",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Sapphire",
+    "hex": "#0F52BA",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Chartreuse",
+    "hex": "#DFFF00",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Pearl Gray",
+    "hex": "#C0C0C0",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Juniper",
+    "hex": "#3C9D9B",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Cinnabar",
+    "hex": "#E34234",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Shamrock",
+    "hex": "#00B45C",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Heather",
+    "hex": "#B7AFA3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Evergreen",
+    "hex": "#05472A",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Ivory",
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Chocolate",
+    "hex": "#7B3F00",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Flamingo",
+    "hex": "#FC8EAC",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Sage",
+    "hex": "#BCB88A",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Slate",
+    "hex": "#708090",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Claret",
+    "hex": "#7F1734",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Bowls",
+    "color": "Butterscotch",
+    "hex": "#F5BD1F",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
   }
 ]
