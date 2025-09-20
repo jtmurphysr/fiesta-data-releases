@@ -60861,5 +60861,185 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Bowl, Serving Large Classic Rim (8 1/4\")"
+  },
+  {
+    "category": "Mugs, Cups & Saucers",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Mug, Tapered (15 oz.)"
+  },
+  {
+    "category": "Bakeware",
+    "color": "White",
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Casserole, Small Covered & Lid (a.k.a. Tortilla Warmer)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tray, Omni"
+  },
+  {
+    "category": "Serveware",
+    "color": "Meadow",
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tray, Omni"
+  },
+  {
+    "category": "Bowls",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Bouillon (7 oz.)"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Ivory",
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Platter, Rectangular (12\")"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Platter, Rectangular (12\")"
+  },
+  {
+    "category": "Serveware",
+    "color": "Slate",
+    "hex": "#708090",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Square)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Ivory",
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Square)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Cobalt Blue",
+    "hex": "#0047AB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Light Green",
+    "hex": "#90EE90",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Yellow",
+    "hex": "#FFFF00",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Ivory",
+    "hex": "#FFFFF0",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Turquoise",
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Red 9",
+    "hex": "#FF0000",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Forest Green",
+    "hex": "#228B22",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Chartreuse",
+    "hex": "#DFFF00",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Rose",
+    "hex": "#FF007F",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Gray",
+    "hex": "#808080",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
+  },
+  {
+    "category": "Serveware",
+    "color": "Medium Green",
+    "hex": "#3CB371",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tidbit Tray (Round)(Vintage)"
   }
 ]
