@@ -1,6 +1,15 @@
 [
   {
     "category": "Bowls",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
     "color": "White",
     "hex": "#FFFFFF",
     "introducedAt": 1990.0,
@@ -47061,15 +47070,6 @@
     "shape": "Sugar Packet Holder (Caddy)"
   },
   {
-    "category": "Bowls",
-    "color": "Sky",
-    "hex": "#87CEEB",
-    "introducedAt": 2024.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
     "category": "Other",
     "color": "Sky",
     "hex": "#87CEEB",
@@ -47590,15 +47590,6 @@
     ],
     "retiredAt": null,
     "shape": "Bowl, Dinner 40 oz. Coupe (10 3/8\")"
-  },
-  {
-    "category": "Bowls",
-    "color": "Linen",
-    "hex": "#e9e0d3",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
   },
   {
     "category": "Bowls",
@@ -55215,105 +55206,6 @@
     "shape": "Sugar Packet Holder (Caddy)"
   },
   {
-    "category": "Bowls",
-    "color": "Poppy",
-    "hex": "#DC143C",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Peony",
-    "hex": "#FFB6C1",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Scarlet",
-    "hex": "#FF2400",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "White",
-    "hex": "#FFFFFF",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Turquoise",
-    "hex": "#26A69A",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Daffodil",
-    "hex": "#FFFF31",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Jade",
-    "hex": "#3C8C7E",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Sunflower",
-    "hex": "#FFD700",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Twilight",
-    "hex": "#8A496B",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Lapis",
-    "hex": "#26619C",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Meadow",
-    "hex": "#7BB661",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
     "category": "Mugs, Cups & Saucers",
     "color": "Apricot",
     "hex": "#FBCEB1",
@@ -60071,15 +59963,6 @@
     "shape": "Plate, Square Dinner (10 3/4\")"
   },
   {
-    "category": "Bowls",
-    "color": "Foundry",
-    "hex": "#5C5A5B",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
     "category": "Bakeware",
     "color": "Linen",
     "hex": "#e9e0d3",
@@ -61052,285 +60935,6 @@
     "shape": "Pitcher, Small Disk (5 1/2\")"
   },
   {
-    "category": "Bowls",
-    "color": "Black",
-    "hex": "#000000",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Rose",
-    "hex": "#FF007F",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Apricot",
-    "hex": "#FBCEB1",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Cobalt Blue",
-    "hex": "#0047AB",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Yellow",
-    "hex": "#FFFF00",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Periwinkle Blue",
-    "hex": "#CCCCFF",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Sea Mist Green",
-    "hex": "#B4CFCB",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Lilac",
-    "hex": "#C8A2C8",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Persimmon",
-    "hex": "#EC5800",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Sapphire",
-    "hex": "#0F52BA",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Chartreuse",
-    "hex": "#DFFF00",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Pearl Gray",
-    "hex": "#C0C0C0",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Juniper",
-    "hex": "#3C9D9B",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Cinnabar",
-    "hex": "#E34234",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Plum",
-    "hex": "#8E4585",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Shamrock",
-    "hex": "#00B45C",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Tangerine",
-    "hex": "#F28500",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Peacock",
-    "hex": "#33A1C9",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Heather",
-    "hex": "#B7AFA3",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Evergreen",
-    "hex": "#05472A",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Ivory",
-    "hex": "#FFFFF0",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Chocolate",
-    "hex": "#7B3F00",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Lemongrass",
-    "hex": "#9DC209",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Paprika",
-    "hex": "#8D0226",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Marigold",
-    "hex": "#FCC200",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Flamingo",
-    "hex": "#FC8EAC",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Slate",
-    "hex": "#708090",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Sage",
-    "hex": "#BCB88A",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Claret",
-    "hex": "#7F1734",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Mulberry",
-    "hex": "#70193D",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
-    "category": "Bowls",
-    "color": "Butterscotch",
-    "hex": "#F5BD1F",
-    "introducedAt": 2025.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
-  },
-  {
     "category": "Plates",
     "color": "Jade",
     "hex": "#3C8C7E",
@@ -61350,5 +60954,122 @@
     ],
     "retiredAt": null,
     "shape": "Canister, mini 13 oz (aka Jam Jar)"
+  },
+  {
+    "category": "Bowls",
+    "color": "White",
+    "hex": "#FFFFFF",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Turquoise",
+    "hex": "#26A69A",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Sunflower",
+    "hex": "#FFD700",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Scarlet",
+    "hex": "#FF2400",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Lapis",
+    "hex": "#26619C",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Poppy",
+    "hex": "#DC143C",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Foundry",
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Daffodil",
+    "hex": "#FFFF31",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Meadow",
+    "hex": "#7BB661",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Twilight",
+    "hex": "#8A496B",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Peony",
+    "hex": "#FFB6C1",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Sky",
+    "hex": "#87CEEB",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
   }
 ]
