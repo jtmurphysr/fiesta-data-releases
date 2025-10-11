@@ -61071,5 +61071,23 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Bowl, Mini (3 3/4\", 5 oz.)"
+  },
+  {
+    "category": "Other",
+    "color": "Yellow",
+    "hex": "#FFFF00",
+    "introducedAt": 2025.0,
+    "isPost86": false,
+    "retiredAt": null,
+    "shape": "Tray, Figure-8 (Vintage)"
+  },
+  {
+    "category": "Plates",
+    "color": "Lemongrass",
+    "hex": "#9DC209",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Divided Pallet (Compartment) Plate"
   }
 ]
