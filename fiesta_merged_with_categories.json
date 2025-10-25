@@ -61089,5 +61089,14 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Divided Pallet (Compartment) Plate"
+  },
+  {
+    "category": "Mugs, Cups & Saucers",
+    "color": "Jade",
+    "hex": "#3C8C7E",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Mug, Bistro Latte"
   }
 ]
