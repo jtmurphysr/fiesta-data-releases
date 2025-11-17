@@ -61098,5 +61098,23 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Mug, Bistro Latte"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Foundry",
+    "hex": "#5C5A5B",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Platter, Rectangular (12\")"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2025.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Sugar Packet Holder (Caddy)"
   }
 ]
