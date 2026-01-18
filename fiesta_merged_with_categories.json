@@ -61116,5 +61116,86 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Sugar Packet Holder (Caddy)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Heart - Medium (7 1/2\")"
+  },
+  {
+    "category": "Pitchers, Teapots & Vases",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Vase, Bud"
+  },
+  {
+    "category": "Plates",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Embossed Egg Shaped Plate (10\")"
+  },
+  {
+    "category": "Pitchers, Teapots & Vases",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Vase, Small (8\")"
+  },
+  {
+    "category": "Serveware",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Tray, Egg (11 1/4\")"
+  },
+  {
+    "category": "Plates",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Shell-Shaped (8 1/4\")"
+  },
+  {
+    "category": "Other",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Shot Glass, Ceramic (1 1/2 oz.)"
+  },
+  {
+    "category": "Other",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Coaster"
+  },
+  {
+    "category": "Other",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Candleholder, Pyramid"
   }
 ]
