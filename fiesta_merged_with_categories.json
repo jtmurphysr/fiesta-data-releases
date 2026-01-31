@@ -61278,5 +61278,23 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Mug, Java (12 oz.) (Snowflake-Embossed)"
+  },
+  {
+    "shape": "Trivet, Extra Large (8 1/4\")",
+    "color": "Foundry",
+    "isPost86": false,
+    "hex": "#5C5A5B",
+    "introducedAt": 2026.0,
+    "retiredAt": null,
+    "category": "Other"
+  },
+  {
+    "category": "Countertop Accessories",
+    "color": "Foundry",
+    "hex": "#5C5A5B",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Spoon Rest (Extra Large)"
   }
 ]
