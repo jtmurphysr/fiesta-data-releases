@@ -449,7 +449,7 @@
     "color": "White",
     "hex": "#FFFFFF",
     "introducedAt": 1986.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": null,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -1738,7 +1738,7 @@
     "color": "Black",
     "hex": "#000000",
     "introducedAt": 1986.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2015.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -2664,7 +2664,7 @@
     "color": "Rose",
     "hex": "#FF007F",
     "introducedAt": 1986.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2005.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -3349,7 +3349,7 @@
     "color": "Apricot",
     "hex": "#FBCEB1",
     "introducedAt": 1986.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 1998.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -4179,7 +4179,7 @@
     "color": "Cobalt",
     "hex": "#0047AB",
     "introducedAt": 1986.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2021.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -5077,7 +5077,7 @@
     "color": "Cobalt",
     "hex": "#0047AB",
     "introducedAt": 1936,
-    "isPost86": false,
+    "isPost86": true,
     "retiredAt": 1951,
     "shape": "Tray, Utility (a.k.a. Relish/Corncob Tray)"
   },
@@ -5375,7 +5375,7 @@
     "color": "Yellow",
     "hex": "#FFFF00",
     "introducedAt": 1987.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2002.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -5765,7 +5765,7 @@
     "color": "Yellow",
     "hex": "#FFFF00",
     "introducedAt": 1936,
-    "isPost86": false,
+    "isPost86": true,
     "retiredAt": 1969,
     "shape": "Sugar, Individual (P86)"
   },
@@ -5847,7 +5847,7 @@
     "color": "Yellow",
     "hex": "#FFFF00",
     "introducedAt": 1936,
-    "isPost86": false,
+    "isPost86": true,
     "retiredAt": 1969,
     "shape": "Tray, Utility (a.k.a. Relish/Corncob Tray)"
   },
@@ -6424,7 +6424,7 @@
     "color": "Turquoise",
     "hex": "#26A69A",
     "introducedAt": 1988.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": null,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -7270,7 +7270,7 @@
     "color": "Turquoise",
     "hex": "#26A69A",
     "introducedAt": 1938,
-    "isPost86": false,
+    "isPost86": true,
     "retiredAt": 1969,
     "shape": "Sugar, Individual (P86)"
   },
@@ -7418,7 +7418,7 @@
     "color": "Turquoise",
     "hex": "#26A69A",
     "introducedAt": 1938,
-    "isPost86": false,
+    "isPost86": true,
     "retiredAt": 1969,
     "shape": "Tray, Utility (a.k.a. Relish/Corncob Tray)"
   },
@@ -7728,7 +7728,7 @@
     "color": "Periwinkle Blue",
     "hex": "#CCCCFF",
     "introducedAt": 1989.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2006.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -8537,7 +8537,7 @@
     "color": "Sea Mist Green",
     "hex": "#B4CFCB",
     "introducedAt": 1991.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2005.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -9204,7 +9204,7 @@
     "color": "Lilac",
     "hex": "#C8A2C8",
     "introducedAt": 1993.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 1995.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -9719,7 +9719,7 @@
     "color": "Persimmon",
     "hex": "#EC5800",
     "introducedAt": 1995.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2008.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -10446,7 +10446,7 @@
     "color": "Sapphire",
     "hex": "#0F52BA",
     "introducedAt": 1996.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 1997.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -10856,7 +10856,7 @@
     "color": "Chartreuse",
     "hex": "#DFFF00",
     "introducedAt": 1997.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 1999.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -11503,7 +11503,7 @@
     "color": "Pearl Gray",
     "hex": "#C0C0C0",
     "introducedAt": 1998.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2001.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -12210,7 +12210,7 @@
     "color": "Juniper",
     "hex": "#3C9D9B",
     "introducedAt": 1999.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2001.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -12920,7 +12920,7 @@
     "color": "Cinnabar",
     "hex": "#E34234",
     "introducedAt": 2000.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2010.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -14041,7 +14041,7 @@
     "color": "Sunflower",
     "hex": "#FFD700",
     "introducedAt": 2001.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": null,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -15402,7 +15402,7 @@
     "color": "Plum",
     "hex": "#8E4585",
     "introducedAt": 2001.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2016.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -16499,7 +16499,7 @@
     "color": "Shamrock",
     "hex": "#00B45C",
     "introducedAt": 2002.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2021.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -17821,7 +17821,7 @@
     "color": "Tangerine",
     "hex": "#F28500",
     "introducedAt": 2003.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2018.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -19167,7 +19167,7 @@
     "color": "Scarlet",
     "hex": "#FF2400",
     "introducedAt": 2004.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": null,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -20666,7 +20666,7 @@
     "color": "Peacock",
     "hex": "#33A1C9",
     "introducedAt": 2005.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2015.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -21703,7 +21703,7 @@
     "color": "Heather",
     "hex": "#B7AFA3",
     "introducedAt": 2006.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2009.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -22521,7 +22521,7 @@
     "color": "Evergreen",
     "hex": "#05472A",
     "introducedAt": 2007.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2010.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -23477,7 +23477,7 @@
     "color": "Ivory",
     "hex": "#FFFFF0",
     "introducedAt": 2008.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": null,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -24174,7 +24174,7 @@
     "color": "Ivory",
     "hex": "#FFFFF0",
     "introducedAt": 1936,
-    "isPost86": false,
+    "isPost86": true,
     "retiredAt": 1951,
     "shape": "Tray, Utility (a.k.a. Relish/Corncob Tray)"
   },
@@ -24562,7 +24562,7 @@
     "color": "Marigold",
     "hex": "#FCC200",
     "introducedAt": 2008.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2012.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -25500,7 +25500,7 @@
     "color": "Chocolate",
     "hex": "#7B3F00",
     "introducedAt": 2008.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2012.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -26405,7 +26405,7 @@
     "color": "Lemongrass",
     "hex": "#9DC209",
     "introducedAt": 2009.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": null,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -27745,7 +27745,7 @@
     "color": "Paprika",
     "hex": "#8D0226",
     "introducedAt": 2010.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2017.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -28761,7 +28761,7 @@
     "color": "Flamingo",
     "hex": "#FC8EAC",
     "introducedAt": 2012.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2014.0,
     "shape": "Butter, Covered (Vintage)"
   },
@@ -40844,15 +40844,6 @@
     "shape": "Tray, Relish - Side (Vintage)"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Red 9",
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "isPost86": false,
-    "retiredAt": null,
-    "shape": "Tray, Utility (a.k.a. Relish/Corncob Tray)"
-  },
-  {
     "category": "Other",
     "color": "Red 9",
     "hex": "#FF0000",
@@ -42248,7 +42239,7 @@
     "color": "Light Green",
     "hex": "#90EE90",
     "introducedAt": 1936,
-    "isPost86": false,
+    "isPost86": true,
     "retiredAt": 1951,
     "shape": "Tray, Utility (a.k.a. Relish/Corncob Tray)"
   },
@@ -45764,15 +45755,6 @@
     "shape": "Tray, Relish - Side (Vintage)"
   },
   {
-    "category": "Countertop Accessories",
-    "color": "Maroon",
-    "hex": "#800000",
-    "introducedAt": null,
-    "isPost86": false,
-    "retiredAt": null,
-    "shape": "Tray, Utility (a.k.a. Relish/Corncob Tray)"
-  },
-  {
     "category": "Other",
     "color": "Maroon",
     "hex": "#800000",
@@ -48010,65 +47992,11 @@
   },
   {
     "category": "Bakeware",
-    "color": "Forest Green",
-    "hex": "#228B22",
-    "introducedAt": 1951,
-    "isPost86": false,
-    "retiredAt": 1959,
-    "shape": "Casserole & Lid"
-  },
-  {
-    "category": "Bakeware",
-    "color": "Gray",
-    "hex": "#808080",
-    "introducedAt": 1951,
-    "isPost86": false,
-    "retiredAt": 1959,
-    "shape": "Casserole & Lid"
-  },
-  {
-    "category": "Bakeware",
     "color": "Light Green",
     "hex": "#90EE90",
     "introducedAt": 1936,
-    "isPost86": false,
+    "isPost86": true,
     "retiredAt": 1951,
-    "shape": "Casserole & Lid"
-  },
-  {
-    "category": "Bakeware",
-    "color": "Maroon",
-    "hex": "#800000",
-    "introducedAt": null,
-    "isPost86": false,
-    "retiredAt": null,
-    "shape": "Casserole & Lid"
-  },
-  {
-    "category": "Bakeware",
-    "color": "Medium Green",
-    "hex": "#3CB371",
-    "introducedAt": 1959,
-    "isPost86": false,
-    "retiredAt": 1969,
-    "shape": "Casserole & Lid"
-  },
-  {
-    "category": "Bakeware",
-    "color": "Red 9",
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "isPost86": false,
-    "retiredAt": null,
-    "shape": "Casserole & Lid"
-  },
-  {
-    "category": "Bakeware",
-    "color": "Red Stripe 11",
-    "hex": "#FF6347",
-    "introducedAt": null,
-    "isPost86": false,
-    "retiredAt": null,
     "shape": "Casserole & Lid"
   },
   {
@@ -48178,15 +48106,6 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Bowl, Salad Bistro (6 3/4\") (Coupe)"
-  },
-  {
-    "category": "Countertop Accessories",
-    "color": "Red 9",
-    "hex": "#FF0000",
-    "introducedAt": 1936,
-    "isPost86": false,
-    "retiredAt": null,
-    "shape": "Creamer, Individual"
   },
   {
     "category": "Mugs, Cups & Saucers",
@@ -48519,24 +48438,6 @@
     "shape": "Teapot & Lid, Two-Cup (Stickhandle) (Vintage)(NOP)"
   },
   {
-    "category": "Serveware",
-    "color": "Amberstone Brown",
-    "hex": "#964B00",
-    "introducedAt": 1967,
-    "isPost86": false,
-    "retiredAt": 1970,
-    "shape": "Tray, Hostess"
-  },
-  {
-    "category": "Serveware",
-    "color": "Antique Gold",
-    "hex": "#D4AF37",
-    "introducedAt": 1969,
-    "isPost86": false,
-    "retiredAt": 1972,
-    "shape": "Tray, Hostess"
-  },
-  {
     "category": "Bowls",
     "color": "Jade",
     "hex": "#3C8C7E",
@@ -48706,7 +48607,7 @@
     "color": "Turquoise",
     "hex": "#26A69A",
     "introducedAt": 1988.0,
-    "isPost86": false,
+    "isPost86": true,
     "retiredAt": null,
     "shape": "Embossed Egg Shaped Plate (10\")"
   },
@@ -48858,15 +48759,6 @@
     "category": "Other",
     "color": "Citrus",
     "hex": "#E4D00A",
-    "introducedAt": 2023.0,
-    "isPost86": true,
-    "retiredAt": null,
-    "shape": "Coaster, Round Tuit (Embossed)"
-  },
-  {
-    "category": "Other",
-    "color": "Gray",
-    "hex": "#A9A9A9",
     "introducedAt": 2023.0,
     "isPost86": true,
     "retiredAt": null,
@@ -56564,7 +56456,7 @@
     "color": "Heather",
     "hex": "#A484AC",
     "introducedAt": 2006.0,
-    "isPost86": true,
+    "isPost86": false,
     "retiredAt": 2009.0,
     "shape": "Butter, Covered (Vintage)"
   },
