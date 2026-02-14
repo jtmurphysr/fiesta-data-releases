@@ -61188,5 +61188,50 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Spoon Rest (Extra Large)"
+  },
+  {
+    "category": "Other",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Covered Box 4 5/8\" x 3 3/4\""
+  },
+  {
+    "category": "Pitchers, Teapots & Vases",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Carafe"
+  },
+  {
+    "category": "Plates",
+    "color": "Lavender",
+    "hex": "#9A96AD",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Heart"
+  },
+  {
+    "category": "Plates",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Heart"
+  },
+  {
+    "category": "Mugs, Cups & Saucers",
+    "color": "Sky",
+    "hex": "#87CEEB",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Mug, Java (12 oz.) (Snowflake-Embossed)"
   }
 ]
