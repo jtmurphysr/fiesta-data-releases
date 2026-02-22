@@ -61233,5 +61233,59 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Mug, Java (12 oz.) (Snowflake-Embossed)"
+  },
+  {
+    "category": "Bowls",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Bowl, Heart - Medium (7 1/2\")"
+  },
+  {
+    "category": "Plates",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Star"
+  },
+  {
+    "category": "Plates",
+    "color": "Sky",
+    "hex": "#87CEEB",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Star"
+  },
+  {
+    "category": "Plates",
+    "color": "White",
+    "hex": "#FFFFFF",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Plate, Luncheon Classic Rim (Snowflake - Embossed)"
+  },
+  {
+    "category": "Bakeware",
+    "color": "Linen",
+    "hex": "#e9e0d3",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Pie Baker (10 1/4\")"
+  },
+  {
+    "category": "Mugs, Cups & Saucers",
+    "color": "Foundry",
+    "hex": "#5C5A5B",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Mug, Classic Ring Handle (10 1/4 oz.)"
   }
 ]
