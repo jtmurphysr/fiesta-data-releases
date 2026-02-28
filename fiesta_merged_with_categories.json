@@ -61287,5 +61287,32 @@
     "isPost86": true,
     "retiredAt": null,
     "shape": "Mug, Classic Ring Handle (10 1/4 oz.)"
+  },
+  {
+    "category": "Pitchers, Teapots & Vases",
+    "color": "Foundry",
+    "hex": "#5C5A5B",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Vase, Medium (9 5/8\")"
+  },
+  {
+    "category": "Other",
+    "color": "Sunflower",
+    "hex": "#FFD700",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Flower Pot (3 1/2\")"
+  },
+  {
+    "category": "Other",
+    "color": "White",
+    "hex": "#FFFFFF",
+    "introducedAt": 2026.0,
+    "isPost86": true,
+    "retiredAt": null,
+    "shape": "Soap/Lotion Dispenser"
   }
 ]
